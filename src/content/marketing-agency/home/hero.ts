@@ -11,74 +11,74 @@ import { HeroContent } from '@/types/marketing-agency/hero';
 
 export const heroContent: HeroContent = {
   title: {
-    words: ["Digital", "marketing", "agency"]
+    words: ["Formación online", "", "para empresas"]
   },
-  description: "Supercharge your brand with expert marketing solutions. Grow your business.",
+  description: "Ayudamos a las empresas a formar a sus trabajadores mediante formación bonificada FUNDAE, generando resultados tangibles y mejora en el rendimiento del equipo.",
   button: {
-    text: "GET STARTED",
-    href: "/contact",
+    text: "SOLICITAR INFORMACIÓN",
+    href: "/contacto",
     className: "common-btn square-btn fade_up_anim"
   },
   brandSection: {
-    title: "Our trusted partners:",
+    title: "Empresas que confían en nosotros:",
     brands: [
       {
         id: "brand-1",
-        name: "Adobe",
+        name: "Empresa A",
         image: brand1,
-        alt: "Adobe"
+        alt: "Empresa A"
       },
       {
         id: "brand-2", 
-        name: "Notion",
+        name: "Empresa B",
         image: brand2,
-        alt: "Notion"
+        alt: "Empresa B"
       },
       {
         id: "brand-3",
-        name: "HubSpot", 
+        name: "Empresa C", 
         image: brand3,
-        alt: "HubSpot"
+        alt: "Empresa C"
       },
       {
         id: "brand-4",
-        name: "GitHub",
+        name: "Empresa D",
         image: brand4,
-        alt: "GitHub"
+        alt: "Empresa D"
       },
       {
         id: "brand-5",
-        name: "Adobe",
+        name: "Empresa E",
         image: brand5,
-        alt: "Adobe"
+        alt: "Empresa E"
       },
       {
         id: "brand-6",
-        name: "Notion",
+        name: "Empresa F",
         image: brand6,
-        alt: "Notion"
+        alt: "Empresa F"
       },
       {
         id: "brand-7",
-        name: "HubSpot",
+        name: "Empresa G",
         image: brand7,
-        alt: "HubSpot"
+        alt: "Empresa G"
       },
       {
         id: "brand-8",
-        name: "GitHub",
+        name: "Empresa H",
         image: brand8,
-        alt: "GitHub"
+        alt: "Empresa H"
       }
     ]
   },
   heroImage: {
     src: heroMarketing,
-    alt: "Marketing Agency Hero"
+    alt: "Formación Online para Empresas"
   },
   videoSection: {
-    circularText: "watch video",
-    videoId: "3qyhgV0Zew0",
+    circularText: "ver video",
+    videoId: "dQw4w9WgXcQ", // Reemplaza con un video relevante de tu plataforma
     className: "popup-youtube"
   }
 };
