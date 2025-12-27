@@ -2,65 +2,64 @@ import LogoLight from "@/assets/images/logo-light.svg";
 
 export const footerDefaultContent = {
   topSection: {
-    title: "Let's create something great!",
+    title: "¡Formemos juntos a tu equipo!",
     description:
-      "Ready to elevate your brand? Contact us today to start your journey towards digital excellence",
+      "¿Listo para mejorar el rendimiento de tu empresa? Contacta con nosotros hoy para comenzar con la formación bonificada FUNDAE",
     buttons: {
       primary: {
-        text: "Get Started",
-        href: "/contact",
+        text: "Solicitar Información",
+        href: "/contacto",
       },
       secondary: {
-        text: "Schedule Meet",
-        href: "/contact",
+        text: "Conocer Plataforma",
+        href: "/plataforma-elearning",
       },
     },
   },
   bodySection: {
     logo: LogoLight,
-    description: "A multidisciplinary digital agency based in United Kingdom.",
+    description: "Especialistas en formación online para empresas con gestión integral FUNDAE.",
     navigation: {
       services: {
-        title: "Services",
+        title: "Servicios",
         links: [
-          { name: "Branding", href: "/service-details" },
-          { name: "Product Design", href: "/service-details" },
-          { name: "Development", href: "/service-details" },
-          { name: "Digital Marketing", href: "/service-details" },
-          { name: "Motion Graphics", href: "/service-details" },
+          { name: "Formación Bonificada", href: "/formacion-bonificada" },
+          { name: "Plataforma eLearning", href: "/plataforma-elearning" },
+          { name: "Gestión FUNDAE", href: "/gestion-fundae" },
+          { name: "Cursos Personalizados", href: "/formacion-personalizada" },
+          { name: "Consultoría Formativa", href: "/consultoria" },
         ],
       },
       quickLinks: {
-        title: "Quick Links",
+        title: "Enlaces Rápidos",
         links: [
-          { name: "Home", href: "/" },
-          { name: "About Us", href: "/about" },
-          { name: "Portfolio", href: "/portfolio" },
+          { name: "Inicio", href: "/" },
+          { name: "Sobre Nosotros", href: "/sobre-mentoaula" },
+          { name: "Catálogo de Cursos", href: "/catalogo-cursos" },
           { name: "Blog", href: "/blog" },
-          { name: "Contact", href: "/contact" },
+          { name: "Contacto", href: "/contacto" },
         ],
       },
       socialMedia: {
-        title: "Follow Us",
+        title: "Síguenos",
         links: [
-          { name: "Facebook", href: "#" },
-          { name: "Twitter", href: "#" },
-          { name: "Instagram", href: "#" },
-          { name: "LinkedIn", href: "#" },
-          { name: "Dribbble", href: "#" },
+          { name: "Facebook", href: "https://www.facebook.com/profile.php?id=100010522573686" },
+          { name: "Twitter", href: "https://twitter.com/ahmed_sardar1?lang=es" },
+          { name: "LinkedIn", href: "https://www.linkedin.com/in/ahmedsardar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" },
+          { name: "Instagram", href: "https://www.instagram.com/ahmedsardar9/profilecard/?igsh=ZHAzbGRvZzJwdDA0" },
         ],
       },
       contactInfo: {
-        title: "Contact Us",
+        title: "Contacto",
         links: [
-          { name: "hello@unikon.com", href: "mailto:hello@unikon.com" },
-          { name: "+(405) 123-456", href: "tel:+405123456" },
+          { name: "info@mentoaula.com", href: "mailto:info@mentoaula.com" },
+          { name: "+34 933 930 435", href: "tel:+34933930435" },
         ],
       },
     },
   },
   bottomSection: {
-    copyright: "Copyright {year} Unikon. Inc.",
-    location: "17 York Street London, United Kingdom W1W7AB",
+    copyright: "Copyright {year} Mentoaula, SL.",
+    location: "Rda. de Sant Antoni, 8, Ciutat Vella, 08001 Barcelona, Spain",
   },
 };

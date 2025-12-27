@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
-import React, { useState } from "react";
+import { useState } from "react";
 import { headerContent } from "@/content/common/header";
 import Sidebar from "../common/Sidebar";
 import { useSticky } from "@/hooks/useSticky";
@@ -13,7 +13,6 @@ const Header = () => {
   const toggleOffcanvas = () => {
     setIsOffcanvasOpen(!isOffcanvasOpen);
   };
-
 
   return (
     <div>
@@ -35,103 +34,54 @@ const Header = () => {
                   </div>
                   <div className="mainmenu text-right d-none d-lg-block">
                     <ul className="home-menu">
-                      <li className="has-child-menu has-child-menu-mega-menu active">
-                        <Link href="#" onClick={(e) => e.preventDefault()}>Home</Link>
-                        <div className="sub-nav">
-                          <div className="nav-item-wrapper">
-                            {headerContent.homePages.map((page, index) => (
-                              <div
-                                key={index}
-                                className={`nav-item text-center position-relative ${
-                                  page.isActive ? "active" : ""
-                                }`}
-                              >
-                                <div className="nav-item-img overflow-hidden position-relative">
-                                  <Image
-                                    className="w-100"
-                                    src={page.image}
-                                    alt={`mega-menu-${page.name
-                                      .toLowerCase()
-                                      .replace(" ", "-")}`}
-                                  />
-                                </div>
-                                <h6 className="h6">{page.name}</h6>
-                                <Link
-                                  className="position-absolute h-100 w-100 start-0 top-0 z-index-one"
-                                  href={page.href}
-                                ></Link>
-                              </div>
-                            ))}
-                          </div>
-                        </div>
-                        <ul>
-                          {headerContent.homePages.map((page, index) => (
-                            <li key={index}>
-                              <Link href={page.href}>{page.name}</Link>
-                            </li>
-                          ))}
-                        </ul>
+                      <li className="">
+                        <Link href="/">Inicio</Link>
                       </li>
                       <li className="has-child-menu">
-                        <Link href="#" onClick={(e) => e.preventDefault()}>Pages</Link>
+                        <Link href="#" onClick={(e) => e.preventDefault()}>Servicios</Link>
                         <ul>
-                          <li className="has-child-menu">
-                            <Link href="#" onClick={(e) => e.preventDefault()}>Service</Link>
-                            <ul>
-                              {headerContent.navigation.services.map(
-                                (service, index) => (
-                                  <li key={index}>
-                                    <Link href={service.href}>
-                                      {service.name}
-                                    </Link>
-                                  </li>
-                                )
-                              )}
-                            </ul>
-                          </li>
-                          <li className="has-child-menu">
-                            <Link href="#" onClick={(e) => e.preventDefault()}>Portfolio</Link>
-                            <ul>
-                              {headerContent.navigation.portfolio.map(
-                                (portfolio, index) => (
-                                  <li key={index}>
-                                    <Link href={portfolio.href}>
-                                      {portfolio.name}
-                                    </Link>
-                                  </li>
-                                )
-                              )}
-                            </ul>
-                          </li>
-                          <li className="has-child-menu">
-                            <Link href="#" onClick={(e) => e.preventDefault()}>Team</Link>
-                            <ul>
-                              {headerContent.navigation.team.map(
-                                (team, index) => (
-                                  <li key={index}>
-                                    <Link href={team.href}>{team.name}</Link>
-                                  </li>
-                                )
-                              )}
-                            </ul>
-                          </li>
-                          {headerContent.navigation.directLinks
-                            .slice(2)
-                            .map((link, index) => (
+                          {headerContent.navigation.services.map(
+                            (service, index) => (
                               <li key={index}>
-                                <Link href={link.href}>{link.name}</Link>
+                                <Link href={service.href}>
+                                  {service.name}
+                                </Link>
                               </li>
-                            ))}
+                            )
+                          )}
                         </ul>
                       </li>
                       <li className="has-child-menu">
-                        <Link href="#" onClick={(e) => e.preventDefault()}>Blog</Link>
+                        <Link href="#" onClick={(e) => e.preventDefault()}>Cursos</Link>
                         <ul>
-                          {headerContent.navigation.blog.map((blog, index) => (
-                            <li key={index}>
-                              <Link href={blog.href}>{blog.name}</Link>
-                            </li>
-                          ))}
+                          <li className="has-child-menu">
+                            <Link href="#" onClick={(e) => e.preventDefault()}>Catálogo</Link>
+                            <ul>
+                              <li><Link href="/catalogo-cursos">Todos los Cursos</Link></li>
+                              <li><Link href="/cursos/competencias-digitales">Competencias Digitales</Link></li>
+                              <li><Link href="/cursos/gestion-empresarial">Gestión Empresarial</Link></li>
+                              <li><Link href="/cursos/comercial-ventas">Comercial y Ventas</Link></li>
+                              <li><Link href="/cursos/atencion-cliente">Atención al Cliente</Link></li>
+                              <li><Link href="/cursos/calidad-procesos">Calidad y Procesos</Link></li>
+                              <li><Link href="/cursos/prevencion">Prevención y Normativa</Link></li>
+                              <li><Link href="/cursos/idiomas">Idiomas para Empresas</Link></li>
+                            </ul>
+                          </li>
+                          <li><Link href="/formacion-personalizada">Formación Personalizada</Link></li>
+                        </ul>
+                      </li>
+                      <li className="has-child-menu">
+                        <Link href="#" onClick={(e) => e.preventDefault()}>Plataforma</Link>
+                        <ul>
+                          {headerContent.navigation.portfolio.map(
+                            (portfolio, index) => (
+                              <li key={index}>
+                                <Link href={portfolio.href}>
+                                  {portfolio.name}
+                                </Link>
+                              </li>
+                            )
+                          )}
                         </ul>
                       </li>
                       {headerContent.navigation.directLinks
@@ -145,7 +95,7 @@ const Header = () => {
                     <div className="menu-btn-wrap menu-btn-wrap__mobile">
                       <Link
                         className="common-btn common-btn--fixed"
-                        href="/contact"
+                        href="/contacto"
                       >
                         {headerContent.buttons.letsTalk}
                       </Link>
@@ -156,7 +106,7 @@ const Header = () => {
                       <div className="menu-btn-hidden d-flex align-items-center">
                         <Link
                           className="common-btn common-btn--fixed d-none d-lg-inline-flex"
-                          href="/contact"
+                          href="/contacto"
                         >
                           {headerContent.buttons.letsTalk}
                         </Link>

@@ -7,7 +7,7 @@ import LocationMap from "@/components/contact/LocationMap";
 const Contact = () => {
   return (
     <>
-      <Breadcrumb title="Contact Us" backgroundImage={breadcrumbContactImage} />
+      <Breadcrumb title="Contacto" backgroundImage={breadcrumbContactImage} />
       <ContactForm />
       <LocationMap />
     </>

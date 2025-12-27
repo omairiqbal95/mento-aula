@@ -44,13 +44,13 @@ const Services = () => {
         <div className="row text-center">
           <div className="col-12">
             <span className="section__header-sub-title-v11 fade_up_anim">
-              What we Do
+              Qué hacemos
             </span>
             <h2
               className="h2 section__header-title-v11 fade_up_anim"
               data-delay=".4"
             >
-              Our Services
+              Nuestros Servicios
             </h2>
           </div>
         </div>

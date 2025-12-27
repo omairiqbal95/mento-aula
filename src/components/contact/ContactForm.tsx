@@ -8,7 +8,7 @@ const ContactForm = () => {
         <div className="row justify-content-between gy-5">
           <div className="col-lg-5 fade_up_anim" data-delay=".2">
             <div className="contact-us__info">
-              <h4 className="h4">Get in Touch</h4>
+              <h4 className="h4">Contacta con Nosotros</h4>
               <div className="contact-us__info-emailPhoneWrapper">
                 <div className="contact-us__info-email">
                   <ul className="custom-ul">
@@ -30,7 +30,7 @@ const ContactForm = () => {
                       <span>Email</span>
                     </li>
                     <li>
-                      <a href="mailto:hello@unikon.com">hello@unikon.com</a>
+                      <a href="mailto:info@mentoaula.com">info@mentoaula.com</a>
                     </li>
                   </ul>
                 </div>
@@ -52,10 +52,10 @@ const ContactForm = () => {
                       </svg>
                     </li>
                     <li>
-                      <span>Phone</span>
+                      <span>Teléfono</span>
                     </li>
                     <li>
-                      <a href="tel:+8801234567891">+880 1234567891</a>
+                      <a href="tel:+34900123456">+34 933 930 435</a>
                     </li>
                   </ul>
                 </div>
@@ -77,43 +77,33 @@ const ContactForm = () => {
                     </svg>
                   </li>
                   <li>
-                    <span>Address</span>
+                    <span>Dirección</span>
                   </li>
                   <li>
-                    <p>1180 Pennsylvania Avenue, Michaelcester 7322</p>
+                    <p>Rda. de Sant Antoni, 8, Ciutat Vella, 08001 Barcelona, Spain</p>
                   </li>
                 </ul>
               </div>
               <div className="contact-us__info-social">
                 <ul className="custom-ul">
                   <li>
-                    <a href="#">
+                    <a href="https://www.facebook.com/profile.php?id=100010522573686">
                       <i className="fa-brands fa-facebook-f"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://twitter.com/ahmed_sardar1?lang=es">
                       <i className="fa-brands fa-x-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://www.linkedin.com/in/ahmedsardar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
                       <i className="fa-brands fa-linkedin-in"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://www.instagram.com/ahmedsardar9/profilecard/?igsh=ZHAzbGRvZzJwdDA0">
                       <i className="fa-brands fa-instagram"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i className="fa-brands fa-discord"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i className="fa-solid fa-paper-plane"></i>
                     </a>
                   </li>
                 </ul>
@@ -122,7 +112,7 @@ const ContactForm = () => {
           </div>
           <div className="col-lg-6 fade_up_anim" data-delay=".4">
             <div className="contact-us__form">
-              <h4 className="h4">Drop us texts</h4>
+              <h4 className="h4">Solicita información</h4>
               <form
                 className="contact-us__form-form"
                 onSubmit={(e) => e.preventDefault()}
@@ -133,7 +123,7 @@ const ContactForm = () => {
                       type="text"
                       name="name"
                       id="name"
-                      placeholder="name"
+                      placeholder="Nombre y apellidos"
                     />
                   </div>
                   <div className="contact-us__form-phone">
@@ -141,7 +131,7 @@ const ContactForm = () => {
                       type="number"
                       name="phone"
                       id="phone"
-                      placeholder="phone"
+                      placeholder="Teléfono"
                     />
                   </div>
                 </div>
@@ -150,18 +140,18 @@ const ContactForm = () => {
                     type="email"
                     name="email"
                     id="email"
-                    placeholder="e-mail"
+                    placeholder="Correo electrónico"
                   />
                 </div>
                 <div className="contact-us__form-message">
                   <textarea
                     name="message"
                     id="message"
-                    placeholder="message"
+                    placeholder="¿En qué podemos ayudarte?"
                   ></textarea>
                 </div>
                 <button className="common-btn outline justify-content-center border-light w-100">
-                  <span>Submit</span>
+                  <span>Enviar</span>
                 </button>
               </form>
             </div>
