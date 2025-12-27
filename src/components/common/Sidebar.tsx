@@ -24,10 +24,10 @@ const Sidebar = ({
 
   const getLogoHref = () => {
     const currentSegment = pathname.split('/')[1];
-    const hasValidRoute = defaultSidebarData.menus[0].items?.some(item => 
+    const hasValidRoute = defaultSidebarData.menus[0].items?.some(item =>
       item.href === `/${currentSegment}`
     );
-    
+
     return hasValidRoute ? `/${currentSegment}` : '/';
   };
 
@@ -41,10 +41,11 @@ const Sidebar = ({
       <Offcanvas.Header className="sidebar-header">
         <div className="offset-logo">
           <Link href={getLogoHref()}>
-            <Image 
-              src={defaultSidebarData.logo.image} 
-              alt={defaultSidebarData.logo.alt} 
-              priority 
+            <Image
+              src={defaultSidebarData.logo.image}
+              alt={defaultSidebarData.logo.alt}
+              height={150}
+              priority
             />
           </Link>
         </div>
@@ -61,7 +62,6 @@ const Sidebar = ({
         <div className={`mobile-menu fix ${menuClass}`}>
           <NestedAccordion
             items={defaultSidebarData.menus}
-            directNavItems={defaultSidebarData.directNavItems}
           />
         </div>
 

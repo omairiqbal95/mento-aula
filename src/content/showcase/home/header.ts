@@ -1,4 +1,4 @@
-import logoLight from '@/assets/images/logo-light.svg';
+import logoLight from '@/assets/images/logo.svg';
 import megaMenuHome1 from '@/assets/images/mega-menu/mega-menu-home-1.png';
 import megaMenuHome2 from '@/assets/images/mega-menu/mega-menu-home-2.png';
 import megaMenuHome3 from '@/assets/images/mega-menu/mega-menu-home-3.png';

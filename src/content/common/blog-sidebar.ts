@@ -20,80 +20,80 @@ const currentYear = new Date().getFullYear();
 
 export const blogSidebar: BlogSidebar = {
   search: {
-    title: "Search",
-    placeholder: "Search here"
+    title: "Buscar",
+    placeholder: "Buscar aquí"
   },
   categories: {
-    title: "Categories",
+    title: "Categorías",
     items: [
-      { id: 1, name: "Design", count: 12, href: "/blog" },
-      { id: 2, name: "Development", count: 8, href: "/blog" },
-      { id: 3, name: "Digital Marketing", count: 15, href: "/blog" },
-      { id: 4, name: "SEO", count: 6, href: "/blog" },
-      { id: 5, name: "Consulting", count: 10, href: "/blog" },
-      { id: 6, name: "Others", count: 4, href: "/blog" }
+      { id: 1, name: "Formación Bonificada", count: 12, href: "/categorias/formacion-bonificada" },
+      { id: 2, name: "eLearning", count: 8, href: "/categorias/elearning" },
+      { id: 3, name: "FUNDAE", count: 15, href: "/categorias/fundae" },
+      { id: 4, name: "Gestión Formativa", count: 6, href: "/categorias/gestion-formativa" },
+      { id: 5, name: "Desarrollo Profesional", count: 10, href: "/categorias/desarrollo-profesional" },
+      { id: 6, name: "Otros", count: 4, href: "/categorias/otros" }
     ]
   },
   recentPosts: {
-    title: "Latest Post",
+    title: "Artículos Recientes",
     items: [
       {
         id: 1,
         image: postWidget1,
         alt: "post",
-        title: "How to Create a Memorable Logo",
-        href: "/blog-details",
+        title: "Cómo aprovechar al máximo la formación bonificada FUNDAE",
+        href: "/blog/aprovechar-formacion-bonificada-fundae",
         date: "26 June, " + currentYear
       },
       {
         id: 2,
         image: postWidget2,
         alt: "post",
-        title: "Tips from Our Design Experts",
-        href: "/blog-details",
+        title: "Beneficios de la formación online para empresas",
+        href: "/blog/beneficios-formacion-online-empresas",
         date: "26 June, " + currentYear
       },
       {
         id: 3,
         image: postWidget3,
         alt: "post",
-        title: "The Future of Digital Marketing",
-        href: "/blog-details",
+        title: "Guía completa para la gestión FUNDAE",
+        href: "/blog/guia-completa-gestion-fundae",
         date: "25 June, " + currentYear
       }
     ]
   },
   tags: {
-    title: "Tags",
+    title: "Etiquetas",
     items: [
-      { id: 1, name: "ai science", href: "/blog" },
-      { id: 2, name: "web design", href: "/blog" },
-      { id: 3, name: "marketing", href: "/blog" },
-      { id: 4, name: "web development", href: "/blog" },
-      { id: 5, name: "open ai", href: "/blog" },
-      { id: 6, name: "research", href: "/blog" },
-      { id: 7, name: "consulting", href: "/blog" },
-      { id: 8, name: "seo", href: "/blog" },
-      { id: 9, name: "graphics design", href: "/blog" }
+      { id: 1, name: "formación bonificada", href: "/etiquetas/formacion-bonificada" },
+      { id: 2, name: "elearning", href: "/etiquetas/elearning" },
+      { id: 3, name: "FUNDAE", href: "/etiquetas/fundae" },
+      { id: 4, name: "desarrollo profesional", href: "/etiquetas/desarrollo-profesional" },
+      { id: 5, name: "cursos online", href: "/etiquetas/cursos-online" },
+      { id: 6, name: "gestión formativa", href: "/etiquetas/gestion-formativa" },
+      { id: 7, name: "formación empresarial", href: "/etiquetas/formacion-empresarial" },
+      { id: 8, name: "capacitación", href: "/etiquetas/capacitacion" },
+      { id: 9, name: "RRHH", href: "/etiquetas/rrhh" }
     ]
   },
   newsletter: {
-    title: "Newsletter",
-    placeholder: "Enter your email address",
-    buttonText: "Subscribe"
+    title: "Boletín",
+    placeholder: "Introduce tu dirección de correo",
+    buttonText: "Suscribirse"
   },
   gallery: {
-    title: "Gallery",
+    title: "Galería",
     items: [
-      { id: 1, image: blogGallery1, alt: "blog-gallery", href: "/gallery/1" },
-      { id: 2, image: blogGallery2, alt: "blog-gallery", href: "/gallery/2" },
-      { id: 3, image: blogGallery3, alt: "blog-gallery", href: "/gallery/3" },
-      { id: 4, image: blogGallery4, alt: "blog-gallery", href: "/gallery/4" },
-      { id: 5, image: blogGallery5, alt: "blog-gallery", href: "/gallery/5" },
-      { id: 6, image: blogGallery6, alt: "blog-gallery", href: "/gallery/6" },
-      { id: 7, image: blogGallery7, alt: "blog-gallery", href: "/gallery/7" },
-      { id: 8, image: blogGallery8, alt: "blog-gallery", href: "/gallery/8" },
-      { id: 9, image: blogGallery9, alt: "blog-gallery", href: "/gallery/9" }
+      { id: 1, image: blogGallery1, alt: "blog-gallery", href: "/galeria/1" },
+      { id: 2, image: blogGallery2, alt: "blog-gallery", href: "/galeria/2" },
+      { id: 3, image: blogGallery3, alt: "blog-gallery", href: "/galeria/3" },
+      { id: 4, image: blogGallery4, alt: "blog-gallery", href: "/galeria/4" },
+      { id: 5, image: blogGallery5, alt: "blog-gallery", href: "/galeria/5" },
+      { id: 6, image: blogGallery6, alt: "blog-gallery", href: "/galeria/6" },
+      { id: 7, image: blogGallery7, alt: "blog-gallery", href: "/galeria/7" },
+      { id: 8, image: blogGallery8, alt: "blog-gallery", href: "/galeria/8" },
+      { id: 9, image: blogGallery9, alt: "blog-gallery", href: "/galeria/9" }
     ]
   }
 };

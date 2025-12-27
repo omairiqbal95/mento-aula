@@ -78,7 +78,7 @@ export const heroContent: HeroContent = {
   },
   videoSection: {
     circularText: "ver video",
-    videoId: "dQw4w9WgXcQ", // Reemplaza con un video relevante de tu plataforma
+    videoId: "JjKlbsmOPFc", 
     className: "popup-youtube"
   }
 };

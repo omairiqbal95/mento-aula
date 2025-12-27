@@ -6,6 +6,8 @@ import { TypeTestimonial } from "@/types/marketing-agency/testimonial";
 import AVATAR_1 from '@/assets/images/testimonial/author-avatar-1.png';
 import AVATAR_2 from '@/assets/images/testimonial/author-avatar-2.png';
 import AVATAR_3 from '@/assets/images/testimonial/author-avatar-3.png';
+import AVATAR_4 from '@/assets/images/testimonial/author-avatar-4.png';
+import AVATAR_5 from '@/assets/images/testimonial/avatar-2.png';
 import BRAND_1 from '@/assets/images/brand-slider/testimonial-mar__brand-1.png';
 import BRAND_2 from '@/assets/images/brand-slider/testimonial-mar__brand-2.png';
 
@@ -24,7 +26,7 @@ export const CONSTANT_TESTIMONIALS: TypeTestimonial[] = [
       "Trabajar con Mentoaula ha sido una experiencia fantástica. Su gestión integral del proceso FUNDAE nos permitió formar a nuestros empleados sin coste, mejorando significativamente sus competencias.",
     authorName: "MARÍA GONZÁLEZ",
     authorPosition: "DIRECTORA DE RECURSOS HUMANOS",
-    authorAvatarSrc: AVATAR_1,
+    authorAvatarSrc: AVATAR_2,
     brandLogoSrc: BRAND_1,
   },
   {
@@ -34,7 +36,7 @@ export const CONSTANT_TESTIMONIALS: TypeTestimonial[] = [
       "La formación online ha sido un éxito total para nuestra empresa. La plataforma es intuitiva y el acompañamiento del equipo de Mentoaula excelente. Altamente recomendable.",
     authorName: "CARLOS RODRÍGUEZ",
     authorPosition: "GERENTE DE OPERACIONES",
-    authorAvatarSrc: AVATAR_2,
+    authorAvatarSrc: AVATAR_1,
     brandLogoSrc: BRAND_2,
   },
   {
@@ -44,7 +46,7 @@ export const CONSTANT_TESTIMONIALS: TypeTestimonial[] = [
       "Desde la detección de necesidades hasta la justificación final, todo el proceso ha sido impecable. La formación ha estado perfectamente adaptada a nuestro sector y ha generado resultados reales.",
     authorName: "ANA MARTÍNEZ",
     authorPosition: "JEFA DE FORMACIÓN",
-    authorAvatarSrc: AVATAR_3,
+    authorAvatarSrc: AVATAR_5,
     brandLogoSrc: BRAND_2,
   },
   {
@@ -54,7 +56,7 @@ export const CONSTANT_TESTIMONIALS: TypeTestimonial[] = [
       "Una asociación verdaderamente colaborativa. Los resultados superaron nuestras expectativas, consiguiendo formación de calidad para nuestros empleados con la máxima flexibilidad.",
     authorName: "JAVIER LÓPEZ",
     authorPosition: "DIRECTOR GENERAL",
-    authorAvatarSrc: AVATAR_1,
+    authorAvatarSrc: AVATAR_4,
     brandLogoSrc: BRAND_1,
   },
 ];

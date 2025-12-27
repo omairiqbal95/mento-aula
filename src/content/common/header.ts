@@ -127,7 +127,6 @@ export const headerContent: HeaderContent = {
     portfolio: [
       { name: "Casos de Éxito", href: "/estudios-caso" },
       { name: "Clientes", href: "/clientes" },
-      { name: "Detalles del Caso", href: "/estudio-caso/detalle" },
     ],
     team: [
       { name: "Nuestro Equipo", href: "/equipo" },
@@ -143,7 +142,6 @@ export const headerContent: HeaderContent = {
       { name: "Sobre Nosotros", href: "/sobre-mentoaula" },
       { name: "Contacto", href: "/contacto" },
       { name: "FAQ", href: "/faq" },
-      { name: "Error 404", href: "/404" },
     ],
   },
   buttons: {
@@ -159,7 +157,7 @@ export const headerContent: HeaderContent = {
       {
         id: "1",
         title: "Contacta con Nosotros",
-        value: "+34 900 123 456",
+        value: "+34 933 930 435",
         href: "tel:+34900123456",
         icon: "bi bi-telephone",
       },
@@ -173,7 +171,7 @@ export const headerContent: HeaderContent = {
       {
         id: "3",
         title: "Dirección",
-        value: "Calle de la Innovación, 123, 28000 Madrid, España",
+        value: "Rda. de Sant Antoni, 8, Ciutat Vella, 08001 Barcelona, Spain",
         icon: "bi bi-geo-alt",
       },
     ],

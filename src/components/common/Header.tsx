@@ -20,7 +20,7 @@ const Header = () => {
         {/* Menu */}
         <div
           className={`menu-area menu-area--fixed-light ${
-            isSticky ? "sticky" : ""
+            isSticky ? "" : ""
           }`}
         >
           <div className="container container-3xl header-border-bottom">
@@ -29,7 +29,7 @@ const Header = () => {
                 <div className="nav-wrap d-flex justify-content-between align-items-center">
                   <div className="menu-logo-wrap flex-none">
                     <Link href="/">
-                      <Image src={headerContent.logo} alt="logo" />
+                      <Image src={headerContent.logo} alt="logo" height={200}/>
                     </Link>
                   </div>
                   <div className="mainmenu text-right d-none d-lg-block">

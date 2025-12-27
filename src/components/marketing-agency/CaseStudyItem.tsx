@@ -21,7 +21,7 @@ const CaseStudyItem: React.FC<TypeCaseStudy> = ({
       <h3 className="h3 item-title">{title}</h3>
       <p>{description}</p>
       <Link href={link} className="common-btn square-btn">
-        View Case
+        Ver Caso
         <ArrowSvg />
       </Link>
     </div>

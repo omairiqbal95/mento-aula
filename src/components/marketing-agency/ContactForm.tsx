@@ -17,34 +17,35 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
 
   const [errors, setErrors] = useState<ContactFormErrors>({});
   const [isSubmitting, setIsSubmitting] = useState(false);
+  
   const validateName = (name: string): string | undefined => {
-    if (!name.trim()) return 'Name is required';
-    if (name.trim().length < 2) return 'Name must be at least 2 characters';
-    if (!/^[a-zA-Z\s]+$/.test(name.trim())) return 'Name can only contain letters and spaces';
+    if (!name.trim()) return 'El nombre es obligatorio';
+    if (name.trim().length < 2) return 'El nombre debe tener al menos 2 caracteres';
+    if (!/^[a-zA-Z\s]+$/.test(name.trim())) return 'El nombre solo puede contener letras y espacios';
     return undefined;
   };
 
   const validatePhone = (phone: string): string | undefined => {
-    if (!phone.trim()) return 'Phone number is required';
+    if (!phone.trim()) return 'El teléfono es obligatorio';
     const cleanPhone = phone.replace(/[^\d+]/g, '');
-    const phoneRegex = /^(\+?1?[-.\s]?)?\(?([0-9]{3})\)?[-.\s]?([0-9]{3})[-.\s]?([0-9]{4})$|^(\+?[1-9]\d{1,14})$/;
-    if (!phoneRegex.test(phone) && cleanPhone.length < 10) {
-      return 'Please enter a valid phone number (at least 10 digits)';
+    const phoneRegex = /^(\+?34?[-.\s]?)?\(?([0-9]{3})\)?[-.\s]?([0-9]{3})[-.\s]?([0-9]{3})$|^(\+?[1-9]\d{1,14})$/;
+    if (!phoneRegex.test(phone) && cleanPhone.length < 9) {
+      return 'Por favor, introduzca un número de teléfono válido (al menos 9 dígitos)';
     }
     return undefined;
   };
 
   const validateEmail = (email: string): string | undefined => {
-    if (!email.trim()) return 'Email is required';
+    if (!email.trim()) return 'El email es obligatorio';
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!emailRegex.test(email)) return 'Please enter a valid email address';
+    if (!emailRegex.test(email)) return 'Por favor, introduzca un email válido';
     return undefined;
   };
 
   const validateMessage = (message: string): string | undefined => {
-    if (!message.trim()) return 'Message is required';
-    if (message.trim().length < 10) return 'Message must be at least 10 characters';
-    if (message.trim().length > 500) return 'Message must be less than 500 characters';
+    if (!message.trim()) return 'El mensaje es obligatorio';
+    if (message.trim().length < 10) return 'El mensaje debe tener al menos 10 caracteres';
+    if (message.trim().length > 500) return 'El mensaje debe tener menos de 500 caracteres';
     return undefined;
   };
 
@@ -54,6 +55,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
       setErrors(prev => ({ ...prev, [field]: undefined }));
     }
   }, [errors]);
+  
   const handleInputBlur = useCallback((field: keyof ContactFormData) => {
     let error: string | undefined;
     
@@ -73,6 +75,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
     }
     setErrors(prev => ({ ...prev, [field]: error }));
   }, [formData]);
+  
   const validateForm = useCallback((): boolean => {
     const newErrors: ContactFormErrors = {
       name: validateName(formData.name),
@@ -85,7 +88,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
     const errorMessages = Object.values(newErrors).filter(error => error !== undefined);
     if (errorMessages.length > 0) {
       const errorText = errorMessages.join('\n• ');
-      toast.error(`Please fix the following errors:\n• ${errorText}`, {
+      toast.error(`Por favor, corrija los siguientes errores:\n• ${errorText}`, {
         duration: 6000,
         style: {
           whiteSpace: 'pre-line',
@@ -94,6 +97,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
     }
     return errorMessages.length === 0;
   }, [formData]);
+
   const handleSubmit = useCallback(async (e: React.FormEvent) => {
     e.preventDefault();
     
@@ -109,11 +113,11 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
       } else {
         // TODO: Add form submission logic here
       }
-      toast.success('Thank you! Your message has been sent successfully.');
+      toast.success('¡Gracias! Su mensaje ha sido enviado correctamente.');
       setFormData({ name: '', phone: '', email: '', message: '' });
     } catch {
       // TODO: Add error handling logic here
-      toast.error('Sorry, there was an error sending your message. Please try again.');
+      toast.error('Lo sentimos, ha ocurrido un error al enviar su mensaje. Por favor, inténtelo de nuevo.');
     } finally {
       setIsSubmitting(false);
     }
@@ -129,7 +133,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
             type="text"
             id="name"
             name="name"
-            placeholder="Name"
+            placeholder="Nombre y apellidos"
             value={formData.name}
             onChange={(e) => handleInputChange('name', e.target.value)}
             onBlur={() => handleInputBlur('name')}
@@ -143,7 +147,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
             type="tel"
             id="phone"
             name="phone"
-            placeholder="Phone"
+            placeholder="Teléfono"
             value={formData.phone}
             onChange={(e) => handleInputChange('phone', e.target.value)}
             onBlur={() => handleInputBlur('phone')}
@@ -170,7 +174,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
           <textarea
             id="message"
             name="message"
-            placeholder="Message"
+            placeholder="¿En qué podemos ayudarle?"
             rows={4}
             value={formData.message}
             onChange={(e) => handleInputChange('message', e.target.value)}
@@ -182,7 +186,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ title, onSubmit }) => {
 
         <div className="form-group">
           <button type="submit" disabled={isSubmitting}>
-            {isSubmitting ? 'Sending...' : 'Submit'}
+            {isSubmitting ? 'Enviando...' : 'Enviar'}
           </button>
         </div>
       </form>

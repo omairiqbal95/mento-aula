@@ -5,11 +5,10 @@ import RecentPostsWidget from "./blog-classic/RecentPostsWidget";
 import TagsWidget from "./blog-classic/TagsWidget";
 import NewsletterWidget from "./blog-classic/NewsletterWidget";
 import GalleryWidget from "./blog-classic/GalleryWidget";
-import Pagination from "@/components/common/Pagination";
 import { blogClassicContent } from "@/content/inner-pages/blog-classic";
 
 const BlogClassic = () => {
-  const { blogItems, sidebar, pagination } = blogClassicContent;
+  const { blogItems, sidebar } = blogClassicContent;
 
   return (
     <div className="blog__area pt-150 pb-150">
@@ -21,7 +20,7 @@ const BlogClassic = () => {
                 <BlogItem key={item.id} item={item} />
               ))}
             </div>
-              <Pagination items={pagination} className="pt-100" />
+              
           </div>
           <div className="col-lg-4 fade_up_anim" data-delay=".6">
             <div className="widget">

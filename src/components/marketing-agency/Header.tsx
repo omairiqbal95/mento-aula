@@ -15,7 +15,7 @@ const Header = () => {
 
   return (
     <header>
-      <div className={`menu-area ${isSticky ? 'sticky' : ''}`}>
+      <div className={`menu-area ${isSticky ? '' : ''}`}>
         <div className="container container-4xl border-grid-px">
           <div className="row align-items-center position-relative">
             <div className="col-lg-12 hamburger-menu position-relative">
@@ -25,6 +25,7 @@ const Header = () => {
                     <Image 
                       src={headerContent.logo.src} 
                       alt={headerContent.logo.alt} 
+                      height={200}
                     />
                   </Link>
                 </div>

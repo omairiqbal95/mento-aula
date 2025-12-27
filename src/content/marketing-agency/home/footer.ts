@@ -1,7 +1,7 @@
 // constants/footer.ts
 
 import { TypeFooterProps } from "@/types/marketing-agency/footer";
-import LOGO_LIGHT_IMG from "@/assets/images/logo-light.svg";
+import LOGO_LIGHT_IMG from "@/assets/images/logo.svg";
 
 // SVG Path Data (Extracted from the HTML)
 
@@ -10,11 +10,11 @@ export const CONSTANT_FOOTER_DATA: TypeFooterProps = {
     title: "Contacta con Nosotros",
     items: [
       { id: 1, label: "Email", value: "info@mentoaula.com", icon: "MaiIcon" },
-      { id: 2, label: "Teléfono", value: "+34 900 123 456", icon: "PhoneIcon" },
+      { id: 2, label: "Teléfono", value: "+34 933 930 435", icon: "PhoneIcon" },
       {
         id: 3,
         label: "Dirección",
-        value: "Calle de la Innovación, 123, 28000 Madrid, España",
+        value: "Rda. de Sant Antoni, 8, Ciutat Vella, 08001 Barcelona, Spain",
         icon: "PinIcon",
       },
     ],

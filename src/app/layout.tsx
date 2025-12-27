@@ -28,56 +28,64 @@ import SEOJsonLd from "@/components/seo/SEOJsonLd";
 // metadata for SEO and social sharing
 export const metadata: Metadata = {
   metadataBase: new URL(getBaseUrl()),
-  title: "Unikon - Multipurpose Agency NextJS Template",
-  description: "A modern and responsive template for your agency needs.",
+  title: "Mentoaula - Formación Online para Empresas | FUNDAE",
+  description: "Ayudamos a las empresas a formar a sus trabajadores mediante formación bonificada FUNDAE, generando resultados tangibles y mejora en el rendimiento del equipo.",
   icons: {
     icon: "/favicon.ico",
   },
   keywords: [
-    "Unikon",
-    "React",
-    "Next.js",
-    "Template",
-    "Agency",
-    "Multipurpose",
-    "Responsive",
-    "Modern",
-    "portfolio",
-    "blog",
-    "marketing",
+    "Formación Bonificada",
+    "FUNDAE",
+    "Formación Online",
+    "eLearning",
+    "Plataforma eLearning",
+    "Gestión FUNDAE",
+    "Cursos Empresariales",
+    "Formación para Empresas",
+    "Formación Continua",
+    "Desarrollo Profesional",
+    "Capacitación Empresarial",
+    "Formación Digital",
+    "Campus Virtual",
+    "Educación Corporativa",
+    "Recursos Humanos",
+    "Formación Personalizada",
+    "Gestión Formativa",
+    "Tutorización Online",
+    "Evaluación Continua"
   ],
   authors: [
     { 
-      name: process.env.NEXT_PUBLIC_AUTHOR_NAME, 
+      name: "Mentoaula, SL", 
       url: process.env.NEXT_PUBLIC_AUTHOR_URL 
     },
   ],
   alternates: {
-    canonical: `${process.env.NEXT_PUBLIC_SITE_URL}/marketing-agency`,
+    canonical: `${process.env.NEXT_PUBLIC_SITE_URL}`,
   },
-  creator: process.env.NEXT_PUBLIC_AUTHOR_NAME,
-  publisher: process.env.NEXT_PUBLIC_AUTHOR_NAME,
+  creator: "Mentoaula, SL",
+  publisher: "Mentoaula, SL",
   openGraph: {
-    title: "Unikon - Multipurpose Agency HTML Template",
-    description: "A modern and responsive template for your agency needs.",
+    title: "Mentoaula - Formación Online para Empresas | FUNDAE",
+    description: "Ayudamos a las empresas a formar a sus trabajadores mediante formación bonificada FUNDAE, generando resultados tangibles y mejora en el rendimiento del equipo.",
     url: "/",
-    siteName: "Unikon",
+    siteName: "Mentoaula",
     images: [
       {
         url: new URL("og-image.jpg", getBaseUrl()).href,
         width: 1200,
         height: 630,
-        alt: "Unikon Open Graph Image",
+        alt: "Mentoaula - Formación Online para Empresas",
       },
     ],
-    locale: "en_US",
+    locale: "es_ES",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     site: process.env.NEXT_PUBLIC_TWITTER_HANDLE,
-    title: "Unikon - Multipurpose Agency HTML Template",
-    description: "A modern and responsive template for your agency needs.",
+    title: "Mentoaula - Formación Online para Empresas | FUNDAE",
+    description: "Ayudamos a las empresas a formar a sus trabajadores mediante formación bonificada FUNDAE, generando resultados tangibles y mejora en el rendimiento del equipo.",
     images: [new URL("og-image.jpg", getBaseUrl()).href],
     creator: process.env.NEXT_PUBLIC_TWITTER_HANDLE,
   },
@@ -237,20 +245,47 @@ export default function RootLayout({
   const org = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "Unikon",
+    name: "Mentoaula, SL",
     url: siteUrl,
     logo: `${siteUrl}/logo.png`,
+    description: "Empresa especializada en formación online para empresas, enfocada en facilitar el acceso a formación de calidad mediante una gestión eficaz, cercana y personalizada.",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "Rda. de Sant Antoni, 8",
+      addressLocality: "Barcelona",
+      postalCode: "08001",
+      addressCountry: "ES"
+    },
+    contactPoint: [
+      {
+        "@type": "ContactPoint",
+        telephone: "+34 933 930 435",
+        contactType: "customer service",
+        email: "info@mentoaula.com"
+      }
+    ],
+    sameAs: [
+      "https://www.facebook.com/profile.php?id=100010522573686",
+      "https://twitter.com/ahmed_sardar1?lang=es",
+      "https://www.linkedin.com/in/ahmedsardar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "https://www.instagram.com/ahmedsardar9/profilecard/?igsh=ZHAzbGRvZzJwdDA0"
+    ]
   };
   const website = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "Unikon",
+    name: "Mentoaula",
     url: siteUrl,
+    description: "Formación online bonificada para empresas a través de FUNDAE",
+    publisher: {
+      "@type": "Organization",
+      name: "Mentoaula, SL"
+    }
   };
 
   return (
     <html
-      lang="en"
+      lang="es"
       className={`${ranade.variable} ${dmSans.variable} ${instrumentSans.variable} ${poppins.variable} ${metal.variable}`}
       suppressHydrationWarning
     >

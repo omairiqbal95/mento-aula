@@ -19,9 +19,9 @@ export const blogClassicContent: BlogClassicContent = {
         date: "24 June, " + currentYear,
         comments: 3
       },
-      title: "Top 10 Design Trends for " + currentYear,
-      href: "/blog-details",
-      description: "Explore the latest trends in graphic design, web design, and branding. Include examples and how these trends can enhance a brand's presence."
+      title: "Cómo aprovechar al máximo la formación bonificada FUNDAE",
+      href: "/blog/aprovechar-formacion-bonificada-fundae",
+      description: "Descubre estrategias para maximizar el crédito formativo de tu empresa y elegir las formaciones más adecuadas para mejorar el rendimiento del equipo."
     },
     {
       id: 2,
@@ -30,9 +30,9 @@ export const blogClassicContent: BlogClassicContent = {
         date: "21 June, " + currentYear,
         comments: 3
       },
-      title: "Web Design: How to Create a Site That Ranks and Converts",
-      href: "/blog-details",
-      description: "Provide insights on integrating SEO best practices into web design to improve search engine rankings and user experience."
+      title: "Beneficios de la formación online para empresas",
+      href: "/blog/beneficios-formacion-online-empresas",
+      description: "Explora cómo la formación 100% online puede mejorar la productividad y flexibilidad del proceso formativo en tu organización."
     },
     {
       id: 3,
@@ -41,9 +41,9 @@ export const blogClassicContent: BlogClassicContent = {
         date: "23 June, " + currentYear,
         comments: 3
       },
-      title: "How We Revamped John Brand and Boosted Their Sales",
-      href: "/blog-details",
-      description: "Detail a successful project from start to finish, including challenges faced, solutions provided, and the impact on the client's business."
+      title: "Casos de éxito: Cómo transformamos la formación en una empresa industrial",
+      href: "/blog/casos-exito-transformacion-formacion",
+      description: "Detallamos un proyecto exitoso de implementación de formación bonificada, incluyendo desafíos, soluciones y resultados obtenidos."
     },
     {
       id: 4,
@@ -52,9 +52,9 @@ export const blogClassicContent: BlogClassicContent = {
         date: "20 June, " + currentYear,
         comments: 5
       },
-      title: "The Psychology of Color in Branding and Marketing",
-      href: "/blog-details",
-      description: "Discuss how different colors evoke emotions and influence consumer behavior, with practical tips for choosing brand colors."
+      title: "Gestión de la formación bonificada: Guía completa para RRHH",
+      href: "/blog/gestion-formacion-bonificada-rrhh",
+      description: "Todo lo que los departamentos de recursos humanos necesitan saber sobre la gestión de la formación bonificada FUNDAE."
     },
     {
       id: 5,
@@ -63,9 +63,9 @@ export const blogClassicContent: BlogClassicContent = {
         date: "18 June, " + currentYear,
         comments: 2
       },
-      title: "Building a Strong Brand Identity: A Step-by-Step Guide",
-      href: "/blog-details",
-      description: "Walk through the process of creating a cohesive brand identity, from logo design to brand voice and messaging."
+      title: "Formación personalizada: Adapta la capacitación a tus necesidades",
+      href: "/blog/formacion-personalizada-adaptacion",
+      description: "Cómo diseñar programas formativos específicos según las necesidades del sector, perfiles profesionales y objetivos de la empresa."
     },
     {
       id: 6,
@@ -74,9 +74,9 @@ export const blogClassicContent: BlogClassicContent = {
         date: "15 June, " + currentYear,
         comments: 4
       },
-      title: "The Future of Digital Marketing: Trends to Watch",
-      href: "/blog-details",
-      description: "Explore emerging digital marketing trends and technologies that will shape the industry in the coming years."
+      title: "Tendencias en formación corporativa para el futuro",
+      href: "/blog/tendencias-formacion-corporativa-futuro",
+      description: "Exploramos las nuevas tendencias en formación empresarial y tecnologías que están transformando la capacitación profesional."
     }
   ],
   sidebar: blogSidebar,

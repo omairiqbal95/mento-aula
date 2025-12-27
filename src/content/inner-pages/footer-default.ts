@@ -1,4 +1,4 @@
-import LogoLight from "@/assets/images/logo-light.svg";
+import LogoLight from "@/assets/images/logo.svg";
 
 export const footerDefaultContent = {
   topSection: {

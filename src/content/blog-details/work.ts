@@ -98,39 +98,39 @@ export interface BlogArticle {
 }
 
 export const categories = {
-  title: "Categories",
+  title: "Categorías",
   categories: [
-    { id: 1, name: "Business", href: "#" },
-    { id: 2, name: "Design", href: "#" },
-    { id: 3, name: "Development", href: "#" },
-    { id: 4, name: "Digital Marketing", href: "#" },
-    { id: 5, name: "SEO", href: "#" },
-    { id: 6, name: "Consulting", href: "#" },
-    { id: 7, name: "Others", href: "#" },
+    { id: 1, name: "Formación Bonificada", href: "/categorias/formacion-bonificada" },
+    { id: 2, name: "eLearning", href: "/categorias/elearning" },
+    { id: 3, name: "FUNDAE", href: "/categorias/fundae" },
+    { id: 4, name: "Gestión Formativa", href: "/categorias/gestion-formativa" },
+    { id: 5, name: "Desarrollo Profesional", href: "/categorias/desarrollo-profesional" },
+    { id: 6, name: "Cursos Empresariales", href: "/categorias/cursos-empresariales" },
+    { id: 7, name: "Otros", href: "/categorias/otros" },
   ],
 };
 
 export const recentPosts = {
-  title: "Latest Post",
+  title: "Artículos Recientes",
   posts: [
     {
       id: 1,
-      title: "How to Create a Memorable Logo",
-      href: "/blog/blog-details",
+      title: "Cómo aprovechar al máximo la formación bonificada",
+      href: "/blog/aprovechar-formacion-bonificada",
       image: postWidget1,
       date: "26 June, 2024",
     },
     {
       id: 2,
-      title: "Tips from Our Design Experts",
-      href: "/blog/blog-details",
+      title: "Beneficios de la formación online para empresas",
+      href: "/blog/beneficios-formacion-online-empresas",
       image: postWidget2,
       date: "26 June, 2024",
     },
     {
       id: 3,
-      title: "The Future of Digital Marketing",
-      href: "/blog/blog-details",
+      title: "Guía completa para la gestión FUNDAE",
+      href: "/blog/guia-completa-gestion-fundae",
       image: postWidget3,
       date: "25 June, 2024",
     },
@@ -138,28 +138,28 @@ export const recentPosts = {
 };
 
 export const tags = {
-  title: "Tags",
+  title: "Etiquetas",
   tags: [
-    { id: 1, name: "ai science", href: "#" },
-    { id: 2, name: "web design", href: "#" },
-    { id: 3, name: "marketing", href: "#" },
-    { id: 4, name: "web development", href: "#" },
-    { id: 5, name: "open ai", href: "#" },
-    { id: 6, name: "research", href: "#" },
-    { id: 7, name: "consulting", href: "#" },
-    { id: 8, name: "seo", href: "#" },
-    { id: 9, name: "graphics design", href: "#" },
+    { id: 1, name: "formación bonificada", href: "/etiquetas/formacion-bonificada" },
+    { id: 2, name: "elearning", href: "/etiquetas/elearning" },
+    { id: 3, name: "FUNDAE", href: "/etiquetas/fundae" },
+    { id: 4, name: "desarrollo profesional", href: "/etiquetas/desarrollo-profesional" },
+    { id: 5, name: "cursos online", href: "/etiquetas/cursos-online" },
+    { id: 6, name: "gestión formativa", href: "/etiquetas/gestion-formativa" },
+    { id: 7, name: "formación empresarial", href: "/etiquetas/formacion-empresarial" },
+    { id: 8, name: "capacitación", href: "/etiquetas/capacitacion" },
+    { id: 9, name: "RRHH", href: "/etiquetas/rrhh" },
   ],
 };
 
 export const newsletter = {
-  title: "Newsletter",
-  placeholder: "Enter your email address",
-  buttonText: "Subscribe",
+  title: "Boletín",
+  placeholder: "Introduce tu dirección de correo",
+  buttonText: "Suscribirse",
 };
 
 export const gallery = {
-  title: "Gallery",
+  title: "Galería",
   galleryItems: [
     { id: 1, image: blogGallery1, alt: "blog-gallery" },
     { id: 2, image: blogGallery2, alt: "blog-gallery" },
@@ -175,48 +175,48 @@ export const gallery = {
 
 export const blogArticle: BlogArticle = {
   mainImage: blogMainThumb,
-  author: "John Smith",
-  authorLink: "#",
-  category: "John Smith",
-  categoryLink: "#",
+  author: "Mentoaula Team",
+  authorLink: "/equipo/mentoaula-team",
+  category: "Formación Empresarial",
+  categoryLink: "/categorias/formacion-empresarial",
   date: "January 25, 2024",
-  comments: "No Comments",
+  comments: "Sin Comentarios",
   commentsLink: "#",
   content: {
     intro: [
-      "In 2022, at vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.",
+      "En 2022, la formación bonificada FUNDAE se convirtió en una herramienta fundamental para las empresas que buscan mejorar las competencias de sus trabajadores. La formación bonificada permite a las empresas formar a sus empleados y restar el coste de la formación de los seguros sociales, aprovechando el crédito anual disponible. En Mentoaula gestionamos todo el proceso de principio a fin, asegurando el cumplimiento normativo y una gestión clara, ordenada y segura.",
       "Consequat mauris nunc congue nisi vitae suscipit tellus. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris ultrices eros in cursus turpis massa tincidunt. Integer quis auctor elit sed vulputate mi sit amet. Quis varius quam quisque id diam vel quam. Ultrices sagittis orci a scelerisque purus semper eget duis pros. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Malesuada fames ac turpis egestas integer. Eget arcu dictum varius duis. Faucibus nisl tincidunt eget nullam non nisi est. Duis ut diam quam nulla porttitor massa. Iaculis eu non diam phasellus vestibulum. Imperdiet dui accumsan sit amet nulla facilisi morbi.",
     ],
     storyBehind: {
-      title: "The story behind",
+      title: "La historia detrás de la formación bonificada",
       paragraphs: [
         "Quodsi integer eget aliquet nibh praesent tristique magna sit. Porttitor lacus luctus accumsan tortor posuere ac ut consequat semper. Convallis aenean et tortor at risus viverra adipiscing at. Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Netus et malesuada fames ac turpis egestas maecenas.",
         "Ultrices sagittis orci a scelerisque purus semper eget duis. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Malesuada fames ac turpis egestas integer. Eget arcu dictum varius duis. Faucibus nisl tincidunt eget nullam non nisi est. Duis ut diam quam nulla porttitor massa. Iaculis eu non diam phasellus vestibulum.",
       ],
     },
     blockquote:
-      "Ex delenit petentium eum, at nam eius eirmod verear, pri feugait antiopam ei.",
+      "La formación bonificada es una oportunidad para mejorar el rendimiento y la competitividad de tu equipo sin coste para la empresa.",
     middleContent:
       "Appetere mauris nunc congue nisi vitae suscipit tellus. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris ultrices eros in cursus turpis massa tincidunt. Integer quis auctor elit sed vulputate mi sit amet. Quis varius quam quisque id diam vel quam. Ultrices sagittis orci a scelerisque purus semper eget duis. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Malesuada fames ac turpis egestas integer. Eget arcu dictum varius duis. Faucibus nisl tincidunt eget nullam non nisi est. Duis ut diam quam nulla porttitor massa.",
     innerImages: [
       {
         image: innerBlock1,
-        caption: "Appetere mauris nunc congue nisi vitae",
+        caption: "Formación 100% online y flexible",
       },
       {
         image: innerBlock2,
-        caption: "Appetere mauris nunc congue nisi vitae",
+        caption: "Gestión integral del proceso formativo",
       },
     ],
     openToFeedback: {
-      title: "Be open to feedback",
+      title: "Abiertos a feedback",
       paragraphs: [
         "Egestas integer eget aliquet nibh praesent tristique magna sit. Porttitor lacus luctus accumsan tortor posuere ac ut consequat semper. Convallis aenean et tortor at risus viverra adipiscing at. Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Netus et malesuada fames ac turpis egestas maecenas pharetra convallis. Sed lectus vestibulum mattis ullamcorpe velit sed ullamcorpe morbi.",
         "Appetere mauris nunc congue nisi vitae suscipit tellus. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris ultrices eros in cursus turpis massa tincidunt. Integer quis auctor elit sed vulputate mi sit amet. Quis varius quam quisque id dia quam.",
       ],
     },
     finalThoughts: {
-      title: "Final thoughts",
+      title: "Reflexiones finales",
       paragraphs: [
         "Quodsi integer eget aliquet nibh praesent tristique magna sit. Porttitor lacus luctus accumsan tortor posuere ac ut consequat semper. Convallis aenean et tortor at risus viverra adipiscing at. Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Netus et malesuada fames ac turpis egestas maecenas.",
         "Ultrices sagittis orci a scelerisque purus semper eget duis. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Malesuada fames ac turpis egestas integer. Eget arcu dictum varius duis. Faucibus nisl tincidunt eget nullam non nisi est. Duis ut diam quam nulla porttitor massa. Iaculis eu non diam phasellus vestibulum.",
@@ -225,19 +225,19 @@ export const blogArticle: BlogArticle = {
   },
   authorInfo: {
     avatar: avatar1,
-    name: "Sarah Thompson",
-    label: "Written by",
+    name: "Equipo Mentoaula",
+    label: "Escrito por",
     socialLinks: {
-      facebook: "#",
-      twitter: "#",
-      linkedin: "#",
-      instagram: "#",
+      facebook: "https://www.facebook.com/profile.php?id=100010522573686",
+      twitter: "https://twitter.com/ahmed_sardar1?lang=es",
+      linkedin: "https://www.linkedin.com/in/ahmedsardar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      instagram: "https://www.instagram.com/ahmedsardar9/profilecard/?igsh=ZHAzbGRvZzJwdDA0",
     },
   },
   commentsList: [
     {
       id: 1,
-      author: "John Mcclemn",
+      author: "Carlos Rodríguez",
       avatar: avatar2,
       content:
         "Ultrices sagittis orci a scelerisque purus semper eget duis. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Malesuada fames ac turpis egestas integer. Eget arcu dictum varius duis. Faucibus nisl tincidunt eget nullam non nisi est. Duis ut diam quam nulla porttitor massa. Iaculis eu non diam phasellus vestibulum.",
@@ -246,7 +246,7 @@ export const blogArticle: BlogArticle = {
     },
     {
       id: 2,
-      author: "Adam Gilchrist",
+      author: "María González",
       avatar: avatar3,
       content:
         "Ultrices sagittis orci a scelerisque purus semper eget duis. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Malesuada fames ac turpis egestas integer. Eget arcu dictum varius duis.",
