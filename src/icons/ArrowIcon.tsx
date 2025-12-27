@@ -1,0 +1,27 @@
+import React from "react";
+
+interface ArrowIconProps {
+  className?: string;
+}
+
+const ArrowIcon: React.FC<ArrowIconProps> = ({ className }) => {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="20"
+      height="15"
+      viewBox="0 0 20 15"
+      fill="none"
+      className={className}
+    >
+      <path
+        fillRule="evenodd"
+        clipRule="evenodd"
+        d="M15.6047 5.59423C17.0639 6.64489 18.83 7 20 7V8C18.83 8 17.0639 8.35511 15.6047 9.40577C14.1709 10.4381 13 12.163 13 15H12C12 11.837 13.3291 9.81193 15.0203 8.59423C15.3337 8.36859 15.6584 8.17142 15.9878 8H0V7H15.9878C15.6584 6.82858 15.3337 6.63141 15.0203 6.40577C13.3291 5.18807 12 3.16296 12 0H13C13 2.83704 14.1709 4.56193 15.6047 5.59423Z"
+        fill="currentColor"
+      />
+    </svg>
+  );
+};
+
+export default ArrowIcon;
