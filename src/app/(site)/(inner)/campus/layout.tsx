@@ -7,7 +7,6 @@ import Link from "next/link";
 const CampusMentoaulaLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <>
-      <Header />
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>{children}</main>
