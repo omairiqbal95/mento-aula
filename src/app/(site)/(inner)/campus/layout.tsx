@@ -10,7 +10,7 @@ const CampusMentoaulaLayout = ({ children }: { children: React.ReactNode }) => {
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>{children}</main>
-          <Footer />
+          
         </div>
       </div>
       <Link href="#footer" className="scroll-down section-link">
