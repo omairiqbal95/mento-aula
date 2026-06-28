@@ -1,0 +1,26 @@
+[
+  {
+    "code": "A1B2C3D4E5",
+    "studentName": "María López García",
+    "courseName": "Prevención de Riesgos Laborales",
+    "issueDate": "12/03/2026",
+    "issuer": "Mentoaula",
+    "status": "valid"
+  },
+  {
+    "code": "MNT2026X9A",
+    "studentName": "Carlos García Pérez",
+    "courseName": "Competencias Digitales para Empresas",
+    "issueDate": "18/04/2026",
+    "issuer": "Mentoaula",
+    "status": "valid"
+  },
+  {
+    "code": "FUNDAE72QK",
+    "studentName": "Laura Sánchez Martín",
+    "courseName": "Gestión FUNDAE y Formación Bonificada",
+    "issueDate": "05/05/2026",
+    "issuer": "Mentoaula",
+    "status": "valid"
+  }
+]
