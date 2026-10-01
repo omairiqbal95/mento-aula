@@ -294,5 +294,13 @@
     "issueDate": "08/09/2026",
     "issuer": "Mentoaula",
     "status": "valid"
+  },
+  {
+    "code": "BJT497R3AS",
+    "studentName": "Asghar Begum Ansar Mehmood",
+    "courseName": "Manipulador de Alimentos",
+    "issueDate": "24/06/2026",
+    "issuer": "Mentoaula",
+    "status": "valid"
   }
 ]
