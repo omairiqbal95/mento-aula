@@ -1,0 +1,29 @@
+{
+  "account": "AZ0849940A",
+  "completed_unit_count": 4,
+  "completed_unit_navigations": [
+    8,
+    11,
+    12,
+    13
+  ],
+  "current_unit": 0,
+  "current_unit_states": 1,
+  "current_unit_toc_entries": 0,
+  "description": "NAVIGATION ONLY; not a training certificate or proof of human attendance.",
+  "finished_at": "2026-11-01T20:32:16+00:00",
+  "last_error": "",
+  "last_navigation_action": "unit opened",
+  "retries": 0,
+  "session_started_at": "2026-11-01T20:30:30+00:00",
+  "status": "navigation_complete",
+  "target_session_hours": 29.576,
+  "target_units": [
+    8,
+    11,
+    12,
+    13
+  ],
+  "total_units": 4,
+  "updated_at": "2026-11-01T20:32:16+00:00"
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="//contenidos.edavanza.com/scorm/getSessionId.php?callback=jsonp1793495556926&amp;urlBase=%2F%2Fcontenidos.edavanza.com&amp;codcurso=C34705&amp;unidad=7&amp;idmarco=marquito"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Prevención de riesgos en alergias alimentarias</title>
+<link href="//contenidos.edavanza.com/scorm/v4/css/unidad.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="//contenidos.edavanza.com/scorm/v4/js/APIScorm.js"></script>
+<script type="text/javascript" src="//contenidos.edavanza.com/scorm/v4/js/jquery.js"></script>
+<script type="text/javascript" src="//contenidos.edavanza.com/scorm/v4/js/testScormVinculado.js"></script>
+
+<script language="javascript">
+var codcurso='C34705';
+var unidad='7';
+var urlBase='//contenidos.edavanza.com';
+var code='24553';
+
+
+$(document).ready(function(){		        
+        try {
+            var currentSuspendData = parent.API.LMSGetValue("cmi.suspend_data");
+            if(!currentSuspendData) {
+                currentSuspendData = "";
+            }
+            if(currentSuspendData.indexOf("IS_TEST=1") === -1) {
+                currentSuspendData += (currentSuspendData ? ";" : "") + "IS_TEST=1";
+                parent.API.LMSSetValue("cmi.suspend_data", currentSuspendData);
+				parent.API.LMSCommit("");
+            }
+        } catch(e) {
+            console.error("Error al llamar a parent.API: ", e);
+        }
+        InitializeTest();
+cargarTest(urlBase,codcurso,unidad,"marquito");
+		
+	});
+	$(window).bind("beforeunload", function(){
+		TerminateTest();
+	});
+
+</script>
+</head>
+<body marginwidth="0" marginheight="0">
+<iframe name="marquito" id="marquito" width="100%" src="//contenidos.edavanza.com/scorm/entradaMoodle.php?sid=fasqmhs0f91sqhk8visjvfm73a5ecbnp&amp;id_alumno=2606&amp;codcurso=C34705&amp;unidad=7&amp;apdo=test&amp;nombre_alumno=Sehrish%2C%20Ashraf%20Apellido2&amp;code=24553">
+</iframe>
+
+</body></html>

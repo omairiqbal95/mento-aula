@@ -1,0 +1,26 @@
+2026-11-01 20:29:22,743 [INFO] Automatic login (headless=True). Waiting for visible login form...
+2026-11-01 20:29:22,825 [INFO] Using verified MentoAula login controls #usuario / #password
+2026-11-01 20:29:22,883 [INFO] Filled credential fields (user=usuario, password=[redacted]
+2026-11-01 20:29:22,894 [INFO] Submitting verified MentoAula button #btnLogin
+2026-11-01 20:29:25,254 [INFO] Waiting for authenticated dashboard (32s remaining)...
+2026-11-01 20:29:33,163 [INFO] Waiting for authenticated dashboard (24s remaining)...
+2026-11-01 20:29:40,940 [INFO] Waiting for authenticated dashboard (16s remaining)...
+2026-11-01 20:29:48,084 [INFO] Login verified successfully: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:29:50,919 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:29:50,920 [INFO] BEGIN target unit 13 (1 targets). Full-course time baseline 32.28 hours
+2026-11-01 20:29:51,965 [INFO] Unit 13 | expanding accordion #tod13 | frame: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:29:52,263 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:29:52,263 [INFO] Unit 13 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:29:57,667 [WARNING] Unit 13 | no SCORM popup in 5 seconds; using captured dashboard SCORM URL
+2026-11-01 20:30:11,045 [INFO] Unit 13 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:30:11,095 [INFO] Unit 13 | waiting for nested SCORM content; frames=2
+2026-11-01 20:30:25,937 [INFO] Unit 13 | waiting for nested SCORM content; frames=3
+2026-11-01 20:30:35,486 [INFO] Unit 13 | waiting for nested SCORM content; frames=5
+2026-11-01 20:30:35,737 [WARNING] Unit 13 | no confirmed course content after bounded wait
+2026-11-01 20:30:47,510 [INFO] Unit 13 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:30:51,333 [WARNING] Unit 13 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:30:51,400 [INFO] Unit 13 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-013/13/test13.htm?width=1165&height=685&man_uri=&
+2026-11-01 20:30:51,476 [INFO] Unit 13 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:30:51,477 [INFO] Unit 13 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:30:51,477 [INFO] NAVIGATED target unit 13; 1/1 targets navigated
+2026-11-01 20:30:51,489 [INFO] ALL 1 target units traversed (automated load-test navigation only).

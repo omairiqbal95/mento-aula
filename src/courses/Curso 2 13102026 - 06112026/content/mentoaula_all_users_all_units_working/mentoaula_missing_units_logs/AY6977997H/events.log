@@ -1,0 +1,25 @@
+2026-11-01 20:29:22,258 [INFO] Automatic login (headless=True). Waiting for visible login form...
+2026-11-01 20:29:22,532 [INFO] Using verified MentoAula login controls #usuario / #password
+2026-11-01 20:29:22,639 [INFO] Filled credential fields (user=usuario, password=[redacted]
+2026-11-01 20:29:22,658 [INFO] Submitting verified MentoAula button #btnLogin
+2026-11-01 20:29:25,144 [INFO] Waiting for authenticated dashboard (32s remaining)...
+2026-11-01 20:29:33,162 [INFO] Waiting for authenticated dashboard (24s remaining)...
+2026-11-01 20:29:37,563 [INFO] Login verified successfully: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:29:40,148 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:29:40,149 [INFO] BEGIN target unit 13 (1 targets). Full-course time baseline 31.76 hours
+2026-11-01 20:29:41,277 [INFO] Unit 13 | expanding accordion #tod13 | frame: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:29:41,442 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:29:41,442 [INFO] Unit 13 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:29:46,924 [WARNING] Unit 13 | no SCORM popup in 5 seconds; using captured dashboard SCORM URL
+2026-11-01 20:30:01,739 [INFO] Unit 13 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:30:01,770 [INFO] Unit 13 | waiting for nested SCORM content; frames=2
+2026-11-01 20:30:05,581 [INFO] Unit 13 | waiting for nested SCORM content; frames=4
+2026-11-01 20:30:09,847 [INFO] Unit 13 | waiting for nested SCORM content; frames=5
+2026-11-01 20:30:10,716 [INFO] Unit 13 | real lesson content detected: /general/prt/prg/test.php (4860 chars; 5 frames)
+2026-11-01 20:30:10,955 [INFO] Unit 13 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:30:28,062 [WARNING] Unit 13 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:30:28,114 [INFO] Unit 13 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-013/13/test13.htm?width=1165&height=685&man_uri=&
+2026-11-01 20:30:28,162 [INFO] Unit 13 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:30:28,162 [INFO] Unit 13 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:30:28,162 [INFO] NAVIGATED target unit 13; 1/1 targets navigated
+2026-11-01 20:30:28,170 [INFO] ALL 1 target units traversed (automated load-test navigation only).

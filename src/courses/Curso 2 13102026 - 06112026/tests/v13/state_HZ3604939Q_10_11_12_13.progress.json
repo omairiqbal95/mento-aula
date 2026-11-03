@@ -1,0 +1,48 @@
+{
+  "updated_utc": "2026-11-02T17:59:59+00:00",
+  "units": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "summary": {
+    "done": 4,
+    "review": 0,
+    "total": 4,
+    "percent": 100.0,
+    "finished_users": 1,
+    "total_users": 1
+  },
+  "users_random_order": [
+    "HZ3604939Q"
+  ],
+  "results": {
+    "HZ3604939Q": {
+      "10": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-02T17:58:35+00:00"
+      },
+      "11": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-02T17:59:01+00:00"
+      },
+      "12": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-02T17:59:30+00:00"
+      },
+      "13": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-02T17:59:57+00:00"
+      }
+    }
+  }
+}

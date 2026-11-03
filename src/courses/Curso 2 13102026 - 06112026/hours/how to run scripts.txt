@@ -1,0 +1,16 @@
+https://chat.deepseek.com/a/chat/s/5bf7d558-dee7-4dc6-8f3c-8c044cd841b7
+
+python mentoaula_keepalive.py \
+  --accounts mentoaula_accounts.json \
+  --concurrency 77 \
+  --interval 300 \
+  --log-dir mentoaula_keepalive_logs
+
+
+python mentoaula_keepalive.py \
+  --accounts mentoaula_accounts.json \
+  --concurrency 60 \
+  --interval 300 \
+  --rotate-every 900 \
+  --loop \
+  --log-dir mentoaula_keepalive_logs_rotate

@@ -1,0 +1,142 @@
+[2026-11-02T17:57:50Z] [manager] Accounts supplied: 1 distinct accounts.
+[2026-11-02T17:57:50Z] [manager] Units/account: 6 | Total units: 6 | Already done: 0 (0.00%).
+[2026-11-02T17:57:50Z] [manager] Pending accounts: 1 | max concurrency 1 | bootstrap gap 0s
+[2026-11-02T17:57:50Z] [manager] Answer delay (0.0, 0.0), test delay (0.0, 0.0), Corregir ENABLED.
+[2026-11-02T17:57:53Z] [manager] BOOTSTRAP 1/1 | TY3333733N
+[2026-11-02T17:57:53Z] [TY3333733N] START | 6 remaining unit tests. Session isolated.
+[2026-11-02T17:58:09Z] [TY3333733N] Logged in; authenticated dashboard detected.
+[2026-11-02T17:58:09Z] [TY3333733N] UNIT START | 08 | 1/6 remaining
+[2026-11-02T17:58:11Z] [TY3333733N] Expanding Unit 8...
+[2026-11-02T17:58:11Z] [TY3333733N] Opening 'Contenido unidad 8' from the dashboard...
+[2026-11-02T17:58:17Z] [TY3333733N] Unit 8 opened.
+[2026-11-02T17:58:20Z] [TY3333733N] Opening right-side Índice...
+[2026-11-02T17:58:21Z] [TY3333733N] Test opened.
+[2026-11-02T17:58:21Z] [TY3333733N] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:58:28Z] [TY3333733N] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:58:29Z] [TY3333733N]   1/10: ¿Qué legislación europea establece los principios de la seguridad alimentaria y la trazabilidad? -> D (attempt 1)
+[2026-11-02T17:58:30Z] [TY3333733N]   2/10: ¿Qué norma europea establece la obligación de declarar los 14 alérgenos principales en alimentos? -> B (attempt 1)
+[2026-11-02T17:58:30Z] [TY3333733N]   3/10: ¿Qué elemento debe destacarse tipográficamente en el listado de ingredientes? -> B (attempt 1)
+[2026-11-02T17:58:31Z] [TY3333733N]   4/10: ¿Qué actuación es correcta durante una inspección sanitaria? -> B (attempt 1)
+[2026-11-02T17:58:31Z] [TY3333733N]   5/10: ¿Qué documento suelen revisar las autoridades sanitarias durante una inspección? -> C (attempt 1)
+[2026-11-02T17:58:32Z] [TY3333733N]   6/10: En caso de cambio de proveedor, el establecimiento debe... -> A (attempt 1)
+[2026-11-02T17:58:32Z] [TY3333733N]   7/10: El Real Decreto 126/2015 regula principalmente... -> A (attempt 1)
+[2026-11-02T17:58:33Z] [TY3333733N]   8/10: ¿Cuál es el objetivo principal de la normativa sobre información alimentaria? -> C (attempt 1)
+[2026-11-02T17:58:33Z] [TY3333733N]   9/10: ¿Cuál de las siguientes es una obligación del establecimiento alimentario? -> C (attempt 1)
+[2026-11-02T17:58:34Z] [TY3333733N]   10/10: ¿Qué obligación tiene la persona manipuladora respecto a los alérgenos? -> C (attempt 1)
+[2026-11-02T17:58:34Z] [TY3333733N] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:58:34Z] [TY3333733N] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:58:34Z] [TY3333733N] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:58:34Z] [TY3333733N] PROGRESS | TY3333733N | Unit 08 | corregir_clicked | 10 answers | 1/6 units (16.67%) | 0/1 users finished | 0 for review
+[2026-11-02T17:58:36Z] [TY3333733N] UNIT START | 09 | 2/6 remaining
+[2026-11-02T17:58:39Z] [TY3333733N] Expanding Unit 9...
+[2026-11-02T17:58:40Z] [TY3333733N] Opening 'Contenido unidad 9' from the dashboard...
+[2026-11-02T17:58:46Z] [TY3333733N] Unit 9 opened.
+[2026-11-02T17:58:49Z] [TY3333733N] Opening right-side Índice...
+[2026-11-02T17:58:50Z] [TY3333733N] Test opened.
+[2026-11-02T17:58:50Z] [TY3333733N] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:58:57Z] [TY3333733N] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:58:57Z] [TY3333733N]   1/10: ¿Qué principio debe cumplir el etiquetado de alérgenos? -> B (attempt 1)
+[2026-11-02T17:58:58Z] [TY3333733N]   2/10: ¿En qué fase del APPCC deben integrarse los alérgenos como peligro? -> C (attempt 1)
+[2026-11-02T17:58:58Z] [TY3333733N]   3/10: ¿Qué práctica es adecuada durante el servicio de un plato apto para personas con alergias? -> D (attempt 1)
+[2026-11-02T17:58:59Z] [TY3333733N]   4/10: ¿Cuál es el orden recomendado en procesos de elaboración? -> A (attempt 1)
+[2026-11-02T17:58:59Z] [TY3333733N]   5/10: ¿Qué documento es imprescindible solicitar al proveedor para verificar la presencia de alérgenos? -> B (attempt 1)
+[2026-11-02T17:59:00Z] [TY3333733N]   6/10: ¿Qué elemento forma parte de un sistema de trazabilidad eficaz? -> C (attempt 1)
+[2026-11-02T17:59:00Z] [TY3333733N]   7/10: ¿Qué afirmación es correcta respecto a la limpieza de alérgenos? -> C (attempt 1)
+[2026-11-02T17:59:01Z] [TY3333733N]   8/10: ¿Qué incluye un plan de control de alérgenos? -> D (attempt 1)
+[2026-11-02T17:59:01Z] [TY3333733N]   9/10: ¿A qué tipo de peligro se asocian los alérgenos en el sistema APPCC? -> C (attempt 1)
+[2026-11-02T17:59:02Z] [TY3333733N]   10/10: ¿Cuál es una medida adecuada para el almacenamiento seguro de materias primas con alérgenos? -> C (attempt 1)
+[2026-11-02T17:59:02Z] [TY3333733N] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:59:02Z] [TY3333733N] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:59:02Z] [TY3333733N] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:59:02Z] [TY3333733N] PROGRESS | TY3333733N | Unit 09 | corregir_clicked | 10 answers | 2/6 units (33.33%) | 0/1 users finished | 0 for review
+[2026-11-02T17:59:04Z] [TY3333733N] UNIT START | 10 | 3/6 remaining
+[2026-11-02T17:59:06Z] [TY3333733N] Expanding Unit 10...
+[2026-11-02T17:59:06Z] [TY3333733N] Opening 'Contenido unidad 10' from the dashboard...
+[2026-11-02T17:59:12Z] [TY3333733N] Unit 10 opened.
+[2026-11-02T17:59:15Z] [TY3333733N] Opening right-side Índice...
+[2026-11-02T17:59:15Z] [TY3333733N] Test opened.
+[2026-11-02T17:59:15Z] [TY3333733N] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:59:26Z] [TY3333733N] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:59:27Z] [TY3333733N]   1/10: Las condiciones de trabajo son: -> D (attempt 1)
+[2026-11-02T17:59:28Z] [TY3333733N]   2/10: En materia de prevención de riesgos laborales: -> C (attempt 1)
+[2026-11-02T17:59:28Z] [TY3333733N]   3/10: La Ley 31/1995, de prevención de riesgos laborales: -> A (attempt 1)
+[2026-11-02T17:59:29Z] [TY3333733N]   4/10: Las consecuencias de los riesgos profesionales -> B (attempt 1)
+[2026-11-02T17:59:29Z] [TY3333733N]   5/10: ¿Cuáles son las categorías en las que se suelen agrupar las condiciones de trabajo? -> B (attempt 1)
+[2026-11-02T17:59:30Z] [TY3333733N]   6/10: ¿Cuáles de las siguientes situaciones se corresponden con condiciones del trabajo relacionadas con e -> A (attempt 1)
+[2026-11-02T17:59:30Z] [TY3333733N]   7/10: La higiene industrial: -> D (attempt 1)
+[2026-11-02T17:59:31Z] [TY3333733N]   8/10: Un riesgo laboral se define como: -> B (attempt 1)
+[2026-11-02T17:59:31Z] [TY3333733N]   9/10: El Reglamento de los Servicios de Prevención, aprobado en el Real Decreto 39/1997. -> D (attempt 1)
+[2026-11-02T17:59:32Z] [TY3333733N]   10/10: Un accidente que tiene lugar en el camino de casa al trabajo: -> B (attempt 1)
+[2026-11-02T17:59:32Z] [TY3333733N] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:59:32Z] [TY3333733N] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:59:32Z] [TY3333733N] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:59:32Z] [TY3333733N] PROGRESS | TY3333733N | Unit 10 | corregir_clicked | 10 answers | 3/6 units (50.00%) | 0/1 users finished | 0 for review
+[2026-11-02T17:59:34Z] [TY3333733N] UNIT START | 11 | 4/6 remaining
+[2026-11-02T17:59:35Z] [TY3333733N] Expanding Unit 11...
+[2026-11-02T17:59:36Z] [TY3333733N] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-02T17:59:42Z] [TY3333733N] Unit 11 opened.
+[2026-11-02T17:59:45Z] [TY3333733N] Opening right-side Índice...
+[2026-11-02T17:59:45Z] [TY3333733N] Test opened.
+[2026-11-02T17:59:45Z] [TY3333733N] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:59:54Z] [TY3333733N] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:59:54Z] [TY3333733N]   1/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-02T17:59:55Z] [TY3333733N]   2/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-02T17:59:55Z] [TY3333733N]   3/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-02T17:59:56Z] [TY3333733N]   4/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-02T17:59:56Z] [TY3333733N]   5/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-02T17:59:57Z] [TY3333733N]   6/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-02T17:59:57Z] [TY3333733N]   7/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-02T17:59:58Z] [TY3333733N]   8/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-02T17:59:58Z] [TY3333733N]   9/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-02T17:59:59Z] [TY3333733N]   10/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-02T17:59:59Z] [TY3333733N] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:59:59Z] [TY3333733N] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:59:59Z] [TY3333733N] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:59:59Z] [TY3333733N] PROGRESS | TY3333733N | Unit 11 | corregir_clicked | 10 answers | 4/6 units (66.67%) | 0/1 users finished | 0 for review
+[2026-11-02T18:00:01Z] [TY3333733N] UNIT START | 12 | 5/6 remaining
+[2026-11-02T18:00:02Z] [TY3333733N] Expanding Unit 12...
+[2026-11-02T18:00:03Z] [TY3333733N] Opening 'Contenido unidad 12' from the dashboard...
+[2026-11-02T18:00:08Z] [TY3333733N] Unit 12 opened.
+[2026-11-02T18:00:12Z] [TY3333733N] Opening right-side Índice...
+[2026-11-02T18:00:12Z] [TY3333733N] Test opened.
+[2026-11-02T18:00:12Z] [TY3333733N] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T18:00:20Z] [TY3333733N] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T18:00:20Z] [TY3333733N]   1/10: ¿El mantenimiento del orden y la limpieza puede evitar daños por? -> C (attempt 1)
+[2026-11-02T18:00:21Z] [TY3333733N]   2/10: ¿Algunas medidas preventivas que puede adoptar el personal respecto a los lugares de trabajo son? -> D (attempt 1)
+[2026-11-02T18:00:21Z] [TY3333733N]   3/10: En trabajo sentado con pantallas, ¿qué medidas deben adoptarse? -> D (attempt 1)
+[2026-11-02T18:00:21Z] [TY3333733N]   4/10: ¿Algunas de las causas de la insatisfacción laboral pueden ser? -> A (attempt 1)
+[2026-11-02T18:00:22Z] [TY3333733N]   5/10: Cuando se trabaja mucho tiempo de pie, ¿qué medidas deben tenerse en cuenta? -> C (attempt 1)
+[2026-11-02T18:00:22Z] [TY3333733N]   6/10: Según la guía del INSST, ¿es usuaria de pantallas de visualización de datos una persona que...? -> A (attempt 1)
+[2026-11-02T18:00:23Z] [TY3333733N]   7/10: ¿Algunas situaciones de riesgo de tareas administrativas y de atención al público relacionadas con l -> A (attempt 1)
+[2026-11-02T18:00:23Z] [TY3333733N]   8/10: ¿El origen de la carga de trabajo puede estar en algunas de las siguientes condiciones de trabajo? -> B (attempt 1)
+[2026-11-02T18:00:24Z] [TY3333733N]   9/10: ¿Cuáles son las causas principales de las situaciones de riesgo relacionadas con las condiciones de  -> C (attempt 1)
+[2026-11-02T18:00:24Z] [TY3333733N]   10/10: ¿Una iluminación adecuada puede evitar daños derivados de? -> B (attempt 1)
+[2026-11-02T18:00:25Z] [TY3333733N] All 10 answers verified as selected in the current quiz.
+[2026-11-02T18:00:25Z] [TY3333733N] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T18:00:25Z] [TY3333733N] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T18:00:25Z] [TY3333733N] PROGRESS | TY3333733N | Unit 12 | corregir_clicked | 10 answers | 5/6 units (83.33%) | 0/1 users finished | 0 for review
+[2026-11-02T18:00:26Z] [TY3333733N] UNIT START | 13 | 6/6 remaining
+[2026-11-02T18:00:28Z] [TY3333733N] Expanding Unit 13...
+[2026-11-02T18:00:28Z] [TY3333733N] Opening 'Contenido unidad 13' from the dashboard...
+[2026-11-02T18:00:33Z] [TY3333733N] Unit 13 opened.
+[2026-11-02T18:00:36Z] [TY3333733N] Opening right-side Índice...
+[2026-11-02T18:00:37Z] [TY3333733N] Test opened.
+[2026-11-02T18:00:37Z] [TY3333733N] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T18:00:44Z] [TY3333733N] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T18:00:44Z] [TY3333733N]   1/10: Para la implantación del sistema de prevención de riesgos laborales en la empresa -> C (attempt 1)
+[2026-11-02T18:00:45Z] [TY3333733N]   2/10: Para realizar la evaluación de riesgos -> B (attempt 1)
+[2026-11-02T18:00:45Z] [TY3333733N]   3/10: Todas las actividades preventivas pueden ser asumidas por personal propio de la empresa -> C (attempt 1)
+[2026-11-02T18:00:46Z] [TY3333733N]   4/10: Una empresa debe constituir un Servicio de Prevención Propio: -> A (attempt 1)
+[2026-11-02T18:00:46Z] [TY3333733N]   5/10: La formación de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-02T18:00:47Z] [TY3333733N]   6/10: La planificación de la actividad preventiva -> D (attempt 1)
+[2026-11-02T18:00:47Z] [TY3333733N]   7/10: El organismo que realiza las funciones de vigilancia del cumplimiento de la normativa de prevención  -> C (attempt 1)
+[2026-11-02T18:00:48Z] [TY3333733N]   8/10: Las Comunidades Autónomas tienen funciones en materia de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-02T18:00:48Z] [TY3333733N]   9/10: El responsable de una empresa puede asumir la organización preventiva personalmente cuando: -> D (attempt 1)
+[2026-11-02T18:00:49Z] [TY3333733N]   10/10: La integración de la prevención de riesgos laborales -> A (attempt 1)
+[2026-11-02T18:00:49Z] [TY3333733N] All 10 answers verified as selected in the current quiz.
+[2026-11-02T18:00:49Z] [TY3333733N] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T18:00:49Z] [TY3333733N] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T18:00:49Z] [TY3333733N] PROGRESS | TY3333733N | Unit 13 | corregir_clicked | 10 answers | 6/6 units (100.00%) | 1/1 users finished | 0 for review
+[2026-11-02T18:00:51Z] [TY3333733N] ACCOUNT DONE | Global 6/6 (100.00%).
+[2026-11-02T18:00:51Z] [manager] FINAL | 6/6 unit tests (100.00%) | 1/1 users fully processed | 0 to review
+[2026-11-02T18:00:51Z] [manager] Checkpoint: state_TY3333733N_8_9_10_11_12_13.sqlite | Snapshot: state_TY3333733N_8_9_10_11_12_13.progress.json | Log: state_TY3333733N_8_9_10_11_12_13.log

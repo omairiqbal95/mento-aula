@@ -1,0 +1,32 @@
+[2026-11-02T17:57:50Z] [manager] Accounts supplied: 1 distinct accounts.
+[2026-11-02T17:57:50Z] [manager] Units/account: 1 | Total units: 1 | Already done: 0 (0.00%).
+[2026-11-02T17:57:50Z] [manager] Pending accounts: 1 | max concurrency 1 | bootstrap gap 0s
+[2026-11-02T17:57:50Z] [manager] Answer delay (0.0, 0.0), test delay (0.0, 0.0), Corregir ENABLED.
+[2026-11-02T17:57:53Z] [manager] BOOTSTRAP 1/1 | BZ4616363S
+[2026-11-02T17:57:53Z] [BZ4616363S] START | 1 remaining unit tests. Session isolated.
+[2026-11-02T17:58:10Z] [BZ4616363S] Logged in; authenticated dashboard detected.
+[2026-11-02T17:58:10Z] [BZ4616363S] UNIT START | 01 | 1/1 remaining
+[2026-11-02T17:58:11Z] [BZ4616363S] Expanding Unit 1...
+[2026-11-02T17:58:12Z] [BZ4616363S] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-02T17:58:17Z] [BZ4616363S] Unit 1 opened.
+[2026-11-02T17:58:21Z] [BZ4616363S] Opening right-side Índice...
+[2026-11-02T17:58:21Z] [BZ4616363S] Test opened.
+[2026-11-02T17:58:21Z] [BZ4616363S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:58:29Z] [BZ4616363S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:58:30Z] [BZ4616363S]   1/10: ¿Cuál es la duración de la intoxicación por estafilococos? -> A (attempt 1)
+[2026-11-02T17:58:30Z] [BZ4616363S]   2/10: ¿Cuál de estos es un cereal? -> A (attempt 1)
+[2026-11-02T17:58:31Z] [BZ4616363S]   3/10: ¿Cuánto mide el gusano anisakis? -> A (attempt 1)
+[2026-11-02T17:58:31Z] [BZ4616363S]   4/10: ¿Qué se puede conseguir calentando suficientemente un alimento contaminado? -> A (attempt 1)
+[2026-11-02T17:58:32Z] [BZ4616363S]   5/10: ¿Qué se considera una fruta oleaginosa? -> B (attempt 1)
+[2026-11-02T17:58:32Z] [BZ4616363S]   6/10: ¿Cuál de las siguientes infecciones es la más violenta, con una tasa de mortalidad más alta, entre u -> C (attempt 1)
+[2026-11-02T17:58:33Z] [BZ4616363S]   7/10: ¿Cuál de los siguientes alimentos son una causa común de salmonella? -> A (attempt 1)
+[2026-11-02T17:58:33Z] [BZ4616363S]   8/10: ¿Qué tipo de microorganismo es el responsable de la salmonelosis? -> B (attempt 1)
+[2026-11-02T17:58:34Z] [BZ4616363S]   9/10: ¿Qué condición favorece que los microorganismos se reproduzcan más rápido? -> A (attempt 1)
+[2026-11-02T17:58:34Z] [BZ4616363S]   10/10: ¿Cómo se conoce también la brucelosis? -> A (attempt 1)
+[2026-11-02T17:58:34Z] [BZ4616363S] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:58:34Z] [BZ4616363S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:58:35Z] [BZ4616363S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:58:35Z] [BZ4616363S] PROGRESS | BZ4616363S | Unit 01 | corregir_clicked | 10 answers | 1/1 units (100.00%) | 1/1 users finished | 0 for review
+[2026-11-02T17:58:36Z] [BZ4616363S] ACCOUNT DONE | Global 1/1 (100.00%).
+[2026-11-02T17:58:36Z] [manager] FINAL | 1/1 unit tests (100.00%) | 1/1 users fully processed | 0 to review
+[2026-11-02T17:58:36Z] [manager] Checkpoint: state_BZ4616363S_1.sqlite | Snapshot: state_BZ4616363S_1.progress.json | Log: state_BZ4616363S_1.log

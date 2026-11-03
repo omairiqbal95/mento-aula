@@ -1,0 +1,102 @@
+2026-11-01 20:30:23,861 [INFO] Automatic login (headless=True). Waiting for visible login form...
+2026-11-01 20:30:23,959 [INFO] Using verified MentoAula login controls #usuario / #password
+2026-11-01 20:30:24,022 [INFO] Filled credential fields (user=usuario, password=[redacted]
+2026-11-01 20:30:24,071 [INFO] Submitting verified MentoAula button #btnLogin
+2026-11-01 20:30:26,906 [INFO] Waiting for authenticated dashboard (32s remaining)...
+2026-11-01 20:30:34,523 [INFO] Waiting for authenticated dashboard (24s remaining)...
+2026-11-01 20:30:38,718 [INFO] Login verified successfully: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:30:41,667 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:30:41,668 [INFO] BEGIN target unit 03 (6 targets). Full-course time baseline 33.90 hours
+2026-11-01 20:30:42,625 [INFO] Unit 03 | expanding accordion #tod03 | frame: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:30:42,801 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:30:42,801 [INFO] Unit 03 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:30:49,447 [INFO] Unit 03 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:30:49,478 [INFO] Unit 03 | waiting for nested SCORM content; frames=2
+2026-11-01 20:30:50,105 [INFO] Unit 03 | waiting for nested SCORM content; frames=3
+2026-11-01 20:30:50,430 [INFO] Unit 03 | waiting for nested SCORM content; frames=4
+2026-11-01 20:30:51,623 [INFO] Unit 03 | waiting for nested SCORM content; frames=5
+2026-11-01 20:30:52,171 [INFO] Unit 03 | real lesson content detected: /general/prt/prg/test.php (1835 chars; 5 frames)
+2026-11-01 20:30:53,213 [INFO] Unit 03 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:30:57,300 [WARNING] Unit 03 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:30:57,376 [INFO] Unit 03 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-003/3/test3.htm?width=782&height=485&man_uri=&esU
+2026-11-01 20:30:57,442 [INFO] Unit 03 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:30:57,443 [INFO] Unit 03 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:30:57,443 [INFO] NAVIGATED target unit 03; 1/6 targets navigated
+2026-11-01 20:30:57,448 [INFO] BEGIN target unit 08 (6 targets). Full-course time baseline 33.90 hours
+2026-11-01 20:30:58,556 [INFO] Unit 08 | expanding accordion #tod08 | frame: https://campus.mentoaula.com/IndexIF.aspx#
+2026-11-01 20:30:58,690 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:30:58,691 [INFO] Unit 08 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:31:05,523 [INFO] Unit 08 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:31:05,534 [INFO] Unit 08 | waiting for nested SCORM content; frames=2
+2026-11-01 20:31:06,132 [INFO] Unit 08 | waiting for nested SCORM content; frames=3
+2026-11-01 20:31:07,300 [INFO] Unit 08 | waiting for nested SCORM content; frames=5
+2026-11-01 20:31:09,148 [INFO] Unit 08 | real lesson content detected: /general/prt/prg/test.php (2638 chars; 5 frames)
+2026-11-01 20:31:09,326 [INFO] Unit 08 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:31:13,278 [WARNING] Unit 08 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:31:13,418 [INFO] Unit 08 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-008/8/test8.htm?width=782&height=485&man_uri=&esU
+2026-11-01 20:31:13,517 [INFO] Unit 08 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:31:13,518 [INFO] Unit 08 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:31:13,518 [INFO] NAVIGATED target unit 08; 2/6 targets navigated
+2026-11-01 20:31:13,525 [INFO] BEGIN target unit 09 (6 targets). Full-course time baseline 33.90 hours
+2026-11-01 20:31:14,640 [INFO] Unit 09 | expanding accordion #tod09 | frame: https://campus.mentoaula.com/IndexIF.aspx#
+2026-11-01 20:31:14,786 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:31:14,786 [INFO] Unit 09 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:31:20,502 [WARNING] Unit 09 | no SCORM popup in 5 seconds; using captured dashboard SCORM URL
+2026-11-01 20:31:28,199 [INFO] Unit 09 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:31:28,238 [INFO] Unit 09 | waiting for nested SCORM content; frames=2
+2026-11-01 20:31:29,065 [INFO] Unit 09 | waiting for nested SCORM content; frames=3
+2026-11-01 20:31:30,547 [INFO] Unit 09 | waiting for nested SCORM content; frames=5
+2026-11-01 20:31:31,992 [INFO] Unit 09 | real lesson content detected: /general/prt/prg/test.php (2604 chars; 5 frames)
+2026-11-01 20:31:32,121 [INFO] Unit 09 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:31:35,788 [WARNING] Unit 09 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:31:35,836 [INFO] Unit 09 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-009/9/test9.htm?width=1165&height=685&man_uri=&es
+2026-11-01 20:31:35,876 [INFO] Unit 09 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:31:35,877 [INFO] Unit 09 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:31:35,877 [INFO] NAVIGATED target unit 09; 3/6 targets navigated
+2026-11-01 20:31:35,883 [INFO] BEGIN target unit 10 (6 targets). Full-course time baseline 33.90 hours
+2026-11-01 20:31:37,007 [INFO] Unit 10 | expanding accordion #tod10 | frame: https://campus.mentoaula.com/IndexIF.aspx#
+2026-11-01 20:31:37,126 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:31:37,126 [INFO] Unit 10 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:31:43,249 [WARNING] Unit 10 | no SCORM popup in 5 seconds; using captured dashboard SCORM URL
+2026-11-01 20:31:48,780 [INFO] Unit 10 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:31:48,796 [INFO] Unit 10 | waiting for nested SCORM content; frames=2
+2026-11-01 20:31:49,666 [INFO] Unit 10 | waiting for nested SCORM content; frames=3
+2026-11-01 20:31:51,512 [INFO] Unit 10 | waiting for nested SCORM content; frames=5
+2026-11-01 20:31:53,630 [INFO] Unit 10 | real lesson content detected: /general/prt/prg/test.php (5042 chars; 5 frames)
+2026-11-01 20:31:53,757 [INFO] Unit 10 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:31:57,514 [WARNING] Unit 10 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:31:57,559 [INFO] Unit 10 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-010/10/test10.htm?width=1165&height=685&man_uri=&
+2026-11-01 20:31:57,608 [INFO] Unit 10 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:31:57,609 [INFO] Unit 10 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:31:57,609 [INFO] NAVIGATED target unit 10; 4/6 targets navigated
+2026-11-01 20:31:57,613 [INFO] BEGIN target unit 11 (6 targets). Full-course time baseline 33.90 hours
+2026-11-01 20:31:58,682 [INFO] Unit 11 | expanding accordion #tod11 | frame: https://campus.mentoaula.com/IndexIF.aspx#
+2026-11-01 20:31:58,846 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:31:58,847 [INFO] Unit 11 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:32:04,314 [WARNING] Unit 11 | no SCORM popup in 5 seconds; using captured dashboard SCORM URL
+2026-11-01 20:32:12,433 [INFO] Unit 11 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:32:12,907 [INFO] Unit 11 | waiting for nested SCORM content; frames=2
+2026-11-01 20:32:14,336 [INFO] Unit 11 | waiting for nested SCORM content; frames=5
+2026-11-01 20:32:15,308 [INFO] Unit 11 | real lesson content detected: /general/prt/prg/test.php (4884 chars; 5 frames)
+2026-11-01 20:32:15,518 [INFO] Unit 11 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:32:20,217 [WARNING] Unit 11 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:32:20,261 [INFO] Unit 11 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-011/11/test11.htm?width=1165&height=685&man_uri=&
+2026-11-01 20:32:20,301 [INFO] Unit 11 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:32:20,301 [INFO] Unit 11 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:32:20,301 [INFO] NAVIGATED target unit 11; 5/6 targets navigated
+2026-11-01 20:32:20,308 [INFO] BEGIN target unit 12 (6 targets). Full-course time baseline 33.90 hours
+2026-11-01 20:32:21,348 [INFO] Unit 12 | expanding accordion #tod12 | frame: https://campus.mentoaula.com/IndexIF.aspx#
+2026-11-01 20:32:21,471 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:32:21,472 [INFO] Unit 12 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:32:26,962 [WARNING] Unit 12 | no SCORM popup in 5 seconds; using captured dashboard SCORM URL
+2026-11-01 20:32:35,290 [INFO] Unit 12 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:32:35,305 [INFO] Unit 12 | waiting for nested SCORM content; frames=2
+2026-11-01 20:32:36,102 [INFO] Unit 12 | waiting for nested SCORM content; frames=3
+2026-11-01 20:32:36,723 [INFO] Unit 12 | real lesson content detected: /general/prt/prg/test.php (4039 chars; 5 frames)
+2026-11-01 20:32:37,126 [INFO] Unit 12 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:32:40,902 [WARNING] Unit 12 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:32:40,966 [INFO] Unit 12 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-012/12/test12.htm?width=1165&height=685&man_uri=&
+2026-11-01 20:32:41,020 [INFO] Unit 12 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:32:41,021 [INFO] Unit 12 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:32:41,021 [INFO] NAVIGATED target unit 12; 6/6 targets navigated
+2026-11-01 20:32:41,028 [INFO] ALL 6 target units traversed (automated load-test navigation only).

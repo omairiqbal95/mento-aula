@@ -1,0 +1,1610 @@
+[2026-11-01T01:06:11Z] [manager] Accounts supplied: 77 distinct accounts.
+[2026-11-01T01:06:11Z] [manager] Units/account: 13 | Total units: 1001 | Already done: 0 (0.00%).
+[2026-11-01T01:06:11Z] [manager] Pending accounts: 77 | max concurrency 5 | bootstrap gap 0s
+[2026-11-01T01:06:11Z] [manager] Answer delay (0.0, 0.0), test delay (0.0, 0.0), Corregir ENABLED.
+[2026-11-01T01:06:12Z] [manager] BOOTSTRAP 1/77 | SZ5271225K
+[2026-11-01T01:06:12Z] [manager] BOOTSTRAP 2/77 | AY6677383Z
+[2026-11-01T01:06:12Z] [manager] BOOTSTRAP 3/77 | SY8944954S
+[2026-11-01T01:06:12Z] [manager] BOOTSTRAP 4/77 | NZ4796614S
+[2026-11-01T01:06:12Z] [manager] BOOTSTRAP 5/77 | G39407254C
+[2026-11-01T01:06:12Z] [SZ5271225K] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:06:12Z] [AY6677383Z] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:06:12Z] [SY8944954S] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:06:12Z] [NZ4796614S] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:06:12Z] [G39407254C] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:06:28Z] [SY8944954S] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:06:28Z] [SZ5271225K] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:06:28Z] [AY6677383Z] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:06:28Z] [NZ4796614S] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:06:28Z] [G39407254C] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:06:48Z] [AY6677383Z] Logged in; authenticated dashboard detected.
+[2026-11-01T01:06:48Z] [AY6677383Z] UNIT START | 01 | 1/13 remaining
+[2026-11-01T01:06:49Z] [SY8944954S] Logged in; authenticated dashboard detected.
+[2026-11-01T01:06:49Z] [SY8944954S] UNIT START | 01 | 1/13 remaining
+[2026-11-01T01:06:49Z] [G39407254C] Login attempt 2/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:06:49Z] [SZ5271225K] Logged in; authenticated dashboard detected.
+[2026-11-01T01:06:49Z] [SZ5271225K] UNIT START | 01 | 1/13 remaining
+[2026-11-01T01:06:50Z] [NZ4796614S] Login attempt 2/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:06:50Z] [AY6677383Z] Expanding Unit 1...
+[2026-11-01T01:06:50Z] [AY6677383Z] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-01T01:06:51Z] [SY8944954S] Expanding Unit 1...
+[2026-11-01T01:06:51Z] [SZ5271225K] Expanding Unit 1...
+[2026-11-01T01:06:51Z] [SY8944954S] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-01T01:06:51Z] [SZ5271225K] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-01T01:06:57Z] [AY6677383Z] Unit 1 opened.
+[2026-11-01T01:06:58Z] [SY8944954S] Unit 1 opened.
+[2026-11-01T01:06:59Z] [SZ5271225K] Unit 1 opened.
+[2026-11-01T01:07:15Z] [G39407254C] Login attempt 3/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:07:15Z] [G39407254C] ACCOUNT ERROR | TimeoutError: Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id="btnLogin" type="submit" value="Acceder al Campus" class="btn btn-success btne bold-700 w-100"/>
+  - attempting click ac
+[2026-11-01T01:07:15Z] [manager] BOOTSTRAP 6/77 | A31917609A
+[2026-11-01T01:07:15Z] [A31917609A] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:07:15Z] [NZ4796614S] Logged in; authenticated dashboard detected.
+[2026-11-01T01:07:15Z] [NZ4796614S] UNIT START | 01 | 1/13 remaining
+[2026-11-01T01:07:17Z] [NZ4796614S] Expanding Unit 1...
+[2026-11-01T01:07:17Z] [NZ4796614S] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-01T01:07:25Z] [NZ4796614S] Unit 1 opened.
+[2026-11-01T01:07:25Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:07:25Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:07:27Z] [AY6677383Z] Test opened.
+[2026-11-01T01:07:27Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:07:27Z] [SY8944954S] Test opened.
+[2026-11-01T01:07:27Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:07:29Z] [A31917609A] Logged in; authenticated dashboard detected.
+[2026-11-01T01:07:29Z] [A31917609A] UNIT START | 01 | 1/13 remaining
+[2026-11-01T01:07:31Z] [A31917609A] Expanding Unit 1...
+[2026-11-01T01:07:31Z] [A31917609A] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-01T01:07:33Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:07:33Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:07:33Z] [SZ5271225K] Test opened.
+[2026-11-01T01:07:33Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:07:34Z] [NZ4796614S] Test opened.
+[2026-11-01T01:07:34Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:07:38Z] [A31917609A] Unit 1 opened.
+[2026-11-01T01:07:52Z] [SY8944954S] UNIT ERROR | Unit 01 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:07:53Z] [SY8944954S] Diagnostic screenshot: mentoaula_diagnostics\SY8944954S\unit_01_screenshot.png
+[2026-11-01T01:07:53Z] [SY8944954S] Diagnostic HTML: mentoaula_diagnostics\SY8944954S\unit_01_frame.html
+[2026-11-01T01:07:53Z] [SY8944954S] PROGRESS | SY8944954S | Unit 01 | error | 0 answers | 0/1001 units (0.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:07:53Z] [SY8944954S] UNIT START | 02 | 2/13 remaining
+[2026-11-01T01:07:55Z] [SY8944954S] Expanding Unit 2...
+[2026-11-01T01:07:55Z] [SY8944954S] Opening 'Contenido unidad 2' from the dashboard...
+[2026-11-01T01:08:01Z] [SY8944954S] Unit 2 opened.
+[2026-11-01T01:08:13Z] [AY6677383Z] UNIT ERROR | Unit 01 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:08:14Z] [AY6677383Z] Diagnostic screenshot: mentoaula_diagnostics\AY6677383Z\unit_01_screenshot.png
+[2026-11-01T01:08:14Z] [AY6677383Z] Diagnostic HTML: mentoaula_diagnostics\AY6677383Z\unit_01_frame.html
+[2026-11-01T01:08:14Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 01 | error | 0 answers | 0/1001 units (0.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:08:14Z] [AY6677383Z] UNIT START | 02 | 2/13 remaining
+[2026-11-01T01:08:14Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:08:15Z] [A31917609A] Test opened.
+[2026-11-01T01:08:15Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:08:15Z] [SZ5271225K] UNIT ERROR | Unit 01 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:08:15Z] [SZ5271225K] Diagnostic screenshot: mentoaula_diagnostics\SZ5271225K\unit_01_screenshot.png
+[2026-11-01T01:08:15Z] [SZ5271225K] Diagnostic HTML: mentoaula_diagnostics\SZ5271225K\unit_01_frame.html
+[2026-11-01T01:08:15Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 01 | error | 0 answers | 0/1001 units (0.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:08:15Z] [SZ5271225K] UNIT START | 02 | 2/13 remaining
+[2026-11-01T01:08:15Z] [AY6677383Z] Expanding Unit 2...
+[2026-11-01T01:08:16Z] [AY6677383Z] Opening 'Contenido unidad 2' from the dashboard...
+[2026-11-01T01:08:17Z] [SZ5271225K] Expanding Unit 2...
+[2026-11-01T01:08:17Z] [SZ5271225K] Opening 'Contenido unidad 2' from the dashboard...
+[2026-11-01T01:08:18Z] [NZ4796614S] UNIT ERROR | Unit 01 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:08:18Z] [NZ4796614S] Diagnostic screenshot: mentoaula_diagnostics\NZ4796614S\unit_01_screenshot.png
+[2026-11-01T01:08:18Z] [NZ4796614S] Diagnostic HTML: mentoaula_diagnostics\NZ4796614S\unit_01_frame.html
+[2026-11-01T01:08:18Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 01 | error | 0 answers | 0/1001 units (0.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:08:18Z] [NZ4796614S] UNIT START | 02 | 2/13 remaining
+[2026-11-01T01:08:20Z] [NZ4796614S] Expanding Unit 2...
+[2026-11-01T01:08:20Z] [NZ4796614S] Opening 'Contenido unidad 2' from the dashboard...
+[2026-11-01T01:08:21Z] [AY6677383Z] Unit 2 opened.
+[2026-11-01T01:08:23Z] [SZ5271225K] Unit 2 opened.
+[2026-11-01T01:08:26Z] [NZ4796614S] Unit 2 opened.
+[2026-11-01T01:08:38Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:08:38Z] [SY8944954S] Test opened.
+[2026-11-01T01:08:38Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:08:52Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:08:52Z] [AY6677383Z] Test opened.
+[2026-11-01T01:08:52Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:08:54Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:08:55Z] [SZ5271225K] Test opened.
+[2026-11-01T01:08:55Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:08:55Z] [A31917609A] UNIT ERROR | Unit 01 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:08:55Z] [A31917609A] Diagnostic screenshot: mentoaula_diagnostics\A31917609A\unit_01_screenshot.png
+[2026-11-01T01:08:55Z] [A31917609A] Diagnostic HTML: mentoaula_diagnostics\A31917609A\unit_01_frame.html
+[2026-11-01T01:08:55Z] [A31917609A] PROGRESS | A31917609A | Unit 01 | error | 0 answers | 0/1001 units (0.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:08:55Z] [A31917609A] UNIT START | 02 | 2/13 remaining
+[2026-11-01T01:08:57Z] [A31917609A] Expanding Unit 2...
+[2026-11-01T01:08:57Z] [A31917609A] Opening 'Contenido unidad 2' from the dashboard...
+[2026-11-01T01:08:57Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:08:58Z] [NZ4796614S] Test opened.
+[2026-11-01T01:08:58Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:09:03Z] [A31917609A] Unit 2 opened.
+[2026-11-01T01:09:11Z] [SY8944954S] UNIT ERROR | Unit 02 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:09:11Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:09:13Z] [SY8944954S] Diagnostic screenshot: mentoaula_diagnostics\SY8944954S\unit_02_screenshot.png
+[2026-11-01T01:09:13Z] [SY8944954S] Diagnostic HTML: mentoaula_diagnostics\SY8944954S\unit_02_frame.html
+[2026-11-01T01:09:13Z] [SY8944954S] PROGRESS | SY8944954S | Unit 02 | error | 0 answers | 0/1001 units (0.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:09:13Z] [SY8944954S] UNIT START | 03 | 3/13 remaining
+[2026-11-01T01:09:13Z] [A31917609A] Test opened.
+[2026-11-01T01:09:13Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:09:13Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:09:13Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:09:13Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:09:14Z] [AY6677383Z]   1/10: ¿Cómo se denomina el proceso de congelación ultrarrápida que forma cristales de hielo muy pequeños y -> B (attempt 1)
+[2026-11-01T01:09:14Z] [NZ4796614S]   1/10: ¿Cómo se llama al proceso que consiste en aplicar al alimento temperaturas por debajo de 100 °C (gen -> B (attempt 1)
+[2026-11-01T01:09:14Z] [SZ5271225K]   1/10: ¿Cómo se llama al proceso que consiste en aplicar al alimento temperaturas por debajo de 100 °C (gen -> B (attempt 1)
+[2026-11-01T01:09:14Z] [AY6677383Z]   2/10: ¿Qué sustancia natural de los vegetales tiene efecto antimicrobiano? -> A (attempt 1)
+[2026-11-01T01:09:14Z] [NZ4796614S]   2/10: ¿Cómo se denomina el proceso de congelación ultrarrápida que forma cristales de hielo muy pequeños y -> B (attempt 1)
+[2026-11-01T01:09:15Z] [SY8944954S] Expanding Unit 3...
+[2026-11-01T01:09:15Z] [SZ5271225K]   2/10: ¿Qué tipo de microorganismos se clasifican en mohos y levaduras? -> B (attempt 1)
+[2026-11-01T01:09:15Z] [AY6677383Z]   3/10: ¿Cómo se llama el valor del pH que está comprendido entre 7 y 14? -> C (attempt 1)
+[2026-11-01T01:09:15Z] [NZ4796614S]   3/10: ¿Cuál de los siguientes métodos supone la reducción del contenido de agua de los alimentos por medio -> C (attempt 1)
+[2026-11-01T01:09:15Z] [SY8944954S] Opening 'Contenido unidad 3' from the dashboard...
+[2026-11-01T01:09:15Z] [SZ5271225K]   3/10: ¿Cómo se llama el valor del pH que está comprendido entre 7 y 14? -> C (attempt 1)
+[2026-11-01T01:09:15Z] [AY6677383Z]   4/10: ¿A partir de qué temperatura, en general, comienzan a morir la mayoría de las bacterias? -> B (attempt 1)
+[2026-11-01T01:09:15Z] [NZ4796614S]   4/10: ¿Qué opción describe la contaminación cruzada? -> A (attempt 1)
+[2026-11-01T01:09:16Z] [SZ5271225K]   4/10: ¿A qué tipo de contaminación pertenecen los contaminantes químicos? -> A (attempt 1)
+[2026-11-01T01:09:16Z] [AY6677383Z]   5/10: ¿A qué tipo de contaminación pertenecen los contaminantes químicos? -> A (attempt 1)
+[2026-11-01T01:09:16Z] [NZ4796614S]   5/10: ¿Qué sustancia natural de los vegetales tiene efecto antimicrobiano? -> A (attempt 1)
+[2026-11-01T01:09:16Z] [SZ5271225K]   5/10: ¿Qué opción describe la contaminación cruzada? -> A (attempt 1)
+[2026-11-01T01:09:16Z] [NZ4796614S]   6/10: ¿Qué tipo de microorganismos se clasifican en mohos y levaduras? -> B (attempt 1)
+[2026-11-01T01:09:16Z] [AY6677383Z]   6/10: ¿Qué tipo de microorganismos se clasifican en mohos y levaduras? -> B (attempt 1)
+[2026-11-01T01:09:17Z] [SZ5271225K]   6/10: ¿A partir de qué temperatura, en general, comienzan a morir la mayoría de las bacterias? -> B (attempt 1)
+[2026-11-01T01:09:17Z] [AY6677383Z]   7/10: ¿Cuál es el intervalo de temperatura que se denomina zona de peligro? -> B (attempt 1)
+[2026-11-01T01:09:17Z] [NZ4796614S]   7/10: ¿Cómo se llama el valor del pH que está comprendido entre 7 y 14? -> C (attempt 1)
+[2026-11-01T01:09:17Z] [SZ5271225K]   7/10: ¿Cuál de los siguientes métodos supone la reducción del contenido de agua de los alimentos por medio -> C (attempt 1)
+[2026-11-01T01:09:18Z] [AY6677383Z]   8/10: ¿Cuál de los siguientes métodos supone la reducción del contenido de agua de los alimentos por medio -> C (attempt 1)
+[2026-11-01T01:09:18Z] [NZ4796614S]   8/10: ¿A partir de qué temperatura, en general, comienzan a morir la mayoría de las bacterias? -> B (attempt 1)
+[2026-11-01T01:09:18Z] [SZ5271225K]   8/10: ¿Cómo se denomina el proceso de congelación ultrarrápida que forma cristales de hielo muy pequeños y -> B (attempt 1)
+[2026-11-01T01:09:18Z] [AY6677383Z]   9/10: ¿Qué opción describe la contaminación cruzada? -> A (attempt 1)
+[2026-11-01T01:09:18Z] [NZ4796614S]   9/10: ¿A qué tipo de contaminación pertenecen los contaminantes químicos? -> A (attempt 1)
+[2026-11-01T01:09:18Z] [SZ5271225K]   9/10: ¿Qué sustancia natural de los vegetales tiene efecto antimicrobiano? -> A (attempt 1)
+[2026-11-01T01:09:19Z] [NZ4796614S]   10/10: ¿Cuál es el intervalo de temperatura que se denomina zona de peligro? -> B (attempt 1)
+[2026-11-01T01:09:19Z] [AY6677383Z]   10/10: ¿Cómo se llama al proceso que consiste en aplicar al alimento temperaturas por debajo de 100 °C (gen -> B (attempt 1)
+[2026-11-01T01:09:19Z] [SZ5271225K]   10/10: ¿Cuál es el intervalo de temperatura que se denomina zona de peligro? -> B (attempt 1)
+[2026-11-01T01:09:19Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:09:19Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:09:19Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:09:19Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:09:19Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:09:19Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 02 | corregir_clicked | 10 answers | 1/1001 units (0.10%) | 0/77 users finished | 1 for review
+[2026-11-01T01:09:19Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:09:19Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 02 | corregir_clicked | 10 answers | 2/1001 units (0.20%) | 0/77 users finished | 0 for review
+[2026-11-01T01:09:19Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:09:19Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:09:19Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:09:19Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 02 | corregir_clicked | 10 answers | 3/1001 units (0.30%) | 0/77 users finished | 0 for review
+[2026-11-01T01:09:21Z] [NZ4796614S] UNIT START | 03 | 3/13 remaining
+[2026-11-01T01:09:21Z] [AY6677383Z] UNIT START | 03 | 3/13 remaining
+[2026-11-01T01:09:21Z] [SY8944954S] Unit 3 opened.
+[2026-11-01T01:09:21Z] [SZ5271225K] UNIT START | 03 | 3/13 remaining
+[2026-11-01T01:09:21Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:09:22Z] [A31917609A]   1/10: ¿Qué tipo de microorganismos se clasifican en mohos y levaduras? -> B (attempt 1)
+[2026-11-01T01:09:22Z] [A31917609A]   2/10: ¿Qué opción describe la contaminación cruzada? -> A (attempt 1)
+[2026-11-01T01:09:23Z] [NZ4796614S] Expanding Unit 3...
+[2026-11-01T01:09:23Z] [AY6677383Z] Expanding Unit 3...
+[2026-11-01T01:09:23Z] [SZ5271225K] Expanding Unit 3...
+[2026-11-01T01:09:23Z] [A31917609A]   3/10: ¿A partir de qué temperatura, en general, comienzan a morir la mayoría de las bacterias? -> B (attempt 1)
+[2026-11-01T01:09:23Z] [NZ4796614S] Opening 'Contenido unidad 3' from the dashboard...
+[2026-11-01T01:09:23Z] [AY6677383Z] Opening 'Contenido unidad 3' from the dashboard...
+[2026-11-01T01:09:23Z] [SZ5271225K] Opening 'Contenido unidad 3' from the dashboard...
+[2026-11-01T01:09:23Z] [A31917609A]   4/10: ¿Cómo se llama el valor del pH que está comprendido entre 7 y 14? -> C (attempt 1)
+[2026-11-01T01:09:24Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:09:24Z] [A31917609A]   5/10: ¿Cuál es el intervalo de temperatura que se denomina zona de peligro? -> B (attempt 1)
+[2026-11-01T01:09:24Z] [SY8944954S] Test opened.
+[2026-11-01T01:09:24Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:09:24Z] [A31917609A]   6/10: ¿Cómo se llama al proceso que consiste en aplicar al alimento temperaturas por debajo de 100 °C (gen -> B (attempt 1)
+[2026-11-01T01:09:25Z] [A31917609A]   7/10: ¿Qué sustancia natural de los vegetales tiene efecto antimicrobiano? -> A (attempt 1)
+[2026-11-01T01:09:25Z] [A31917609A]   8/10: ¿A qué tipo de contaminación pertenecen los contaminantes químicos? -> A (attempt 1)
+[2026-11-01T01:09:26Z] [A31917609A]   9/10: ¿Cómo se denomina el proceso de congelación ultrarrápida que forma cristales de hielo muy pequeños y -> B (attempt 1)
+[2026-11-01T01:09:26Z] [A31917609A]   10/10: ¿Cuál de los siguientes métodos supone la reducción del contenido de agua de los alimentos por medio -> C (attempt 1)
+[2026-11-01T01:09:27Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:09:27Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:09:27Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:09:27Z] [A31917609A] PROGRESS | A31917609A | Unit 02 | corregir_clicked | 10 answers | 4/1001 units (0.40%) | 0/77 users finished | 0 for review
+[2026-11-01T01:09:29Z] [A31917609A] UNIT START | 03 | 3/13 remaining
+[2026-11-01T01:09:29Z] [NZ4796614S] Unit 3 opened.
+[2026-11-01T01:09:29Z] [AY6677383Z] Unit 3 opened.
+[2026-11-01T01:09:30Z] [SZ5271225K] Unit 3 opened.
+[2026-11-01T01:09:30Z] [A31917609A] Expanding Unit 3...
+[2026-11-01T01:09:31Z] [A31917609A] Opening 'Contenido unidad 3' from the dashboard...
+[2026-11-01T01:09:32Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:09:32Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:09:33Z] [NZ4796614S] Test opened.
+[2026-11-01T01:09:33Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:09:33Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:09:33Z] [AY6677383Z] Test opened.
+[2026-11-01T01:09:33Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:09:33Z] [SY8944954S]   1/10: ¿Cuál de los siguientes es uno de los síntomas más comunes que se pueden producir por una alergia? -> A (attempt 1)
+[2026-11-01T01:09:33Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:09:33Z] [SY8944954S]   2/10: ¿Cuántas son las fases básicas en toda operación de higienización? -> A (attempt 1)
+[2026-11-01T01:09:34Z] [SZ5271225K] Test opened.
+[2026-11-01T01:09:34Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:09:34Z] [SY8944954S]   3/10: ¿Qué es la destrucción parcial de los microorganismos existentes? -> B (attempt 1)
+[2026-11-01T01:09:34Z] [SY8944954S]   4/10: ¿Cuál de estos productos suele ser un alérgeno común? -> A (attempt 1)
+[2026-11-01T01:09:35Z] [A31917609A] Unit 3 opened.
+[2026-11-01T01:09:35Z] [SY8944954S]   5/10: ¿Qué se elimina con la esterilización? -> B (attempt 1)
+[2026-11-01T01:09:35Z] [SY8944954S]   6/10: ¿Cuántos son los grupos de sustancias o productos que causan alergias e intolerancias y sobre cuya p -> B (attempt 1)
+[2026-11-01T01:09:36Z] [SY8944954S]   7/10: ¿En qué fase del proceso de higienización se eliminan restos visibles de suciedad? -> A (attempt 1)
+[2026-11-01T01:09:36Z] [SY8944954S]   8/10: ¿Qué elemento debe estar SIEMPRE definido en un Punto Crítico de Control? -> A (attempt 1)
+[2026-11-01T01:09:37Z] [SY8944954S]   9/10: ¿Cuál de los siguientes es un principio básico del APPCC? -> C (attempt 1)
+[2026-11-01T01:09:38Z] [SY8944954S]   10/10: ¿Qué significa la sigla APPCC? -> B (attempt 1)
+[2026-11-01T01:09:38Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:09:38Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:09:38Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:09:38Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:09:38Z] [SY8944954S] PROGRESS | SY8944954S | Unit 03 | corregir_clicked | 10 answers | 5/1001 units (0.50%) | 0/77 users finished | 0 for review
+[2026-11-01T01:09:38Z] [A31917609A] Test opened.
+[2026-11-01T01:09:38Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:09:40Z] [SY8944954S] UNIT START | 04 | 4/13 remaining
+[2026-11-01T01:09:41Z] [SY8944954S] Expanding Unit 4...
+[2026-11-01T01:09:42Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:09:42Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:09:42Z] [SY8944954S] Opening 'Contenido unidad 4' from the dashboard...
+[2026-11-01T01:09:42Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:09:42Z] [AY6677383Z]   1/10: ¿Cuál de los siguientes es uno de los síntomas más comunes que se pueden producir por una alergia? -> A (attempt 1)
+[2026-11-01T01:09:42Z] [NZ4796614S]   1/10: ¿Qué elemento debe estar SIEMPRE definido en un Punto Crítico de Control? -> A (attempt 1)
+[2026-11-01T01:09:42Z] [SZ5271225K]   1/10: ¿Cuántas son las fases básicas en toda operación de higienización? -> A (attempt 1)
+[2026-11-01T01:09:43Z] [AY6677383Z]   2/10: ¿Qué se elimina con la esterilización? -> B (attempt 1)
+[2026-11-01T01:09:43Z] [NZ4796614S]   2/10: ¿Qué es la destrucción parcial de los microorganismos existentes? -> B (attempt 1)
+[2026-11-01T01:09:43Z] [SZ5271225K]   2/10: ¿Cuántos son los grupos de sustancias o productos que causan alergias e intolerancias y sobre cuya p -> B (attempt 1)
+[2026-11-01T01:09:43Z] [AY6677383Z]   3/10: ¿Cuál de estos productos suele ser un alérgeno común? -> A (attempt 1)
+[2026-11-01T01:09:43Z] [NZ4796614S]   3/10: ¿Qué significa la sigla APPCC? -> B (attempt 1)
+[2026-11-01T01:09:43Z] [SZ5271225K]   3/10: ¿Qué es la destrucción parcial de los microorganismos existentes? -> B (attempt 1)
+[2026-11-01T01:09:44Z] [NZ4796614S]   4/10: ¿Cuál de los siguientes es un principio básico del APPCC? -> C (attempt 1)
+[2026-11-01T01:09:44Z] [AY6677383Z]   4/10: ¿Cuántos son los grupos de sustancias o productos que causan alergias e intolerancias y sobre cuya p -> B (attempt 1)
+[2026-11-01T01:09:44Z] [SZ5271225K]   4/10: ¿Cuál de los siguientes es un principio básico del APPCC? -> C (attempt 1)
+[2026-11-01T01:09:44Z] [AY6677383Z]   5/10: ¿Qué elemento debe estar SIEMPRE definido en un Punto Crítico de Control? -> A (attempt 1)
+[2026-11-01T01:09:44Z] [NZ4796614S]   5/10: ¿Cuántas son las fases básicas en toda operación de higienización? -> A (attempt 1)
+[2026-11-01T01:09:44Z] [SZ5271225K]   5/10: ¿Cuál de estos productos suele ser un alérgeno común? -> A (attempt 1)
+[2026-11-01T01:09:45Z] [AY6677383Z]   6/10: ¿Cuál de los siguientes es un principio básico del APPCC? -> C (attempt 1)
+[2026-11-01T01:09:45Z] [NZ4796614S]   6/10: ¿Cuál de los siguientes es uno de los síntomas más comunes que se pueden producir por una alergia? -> A (attempt 1)
+[2026-11-01T01:09:45Z] [SZ5271225K]   6/10: ¿En qué fase del proceso de higienización se eliminan restos visibles de suciedad? -> A (attempt 1)
+[2026-11-01T01:09:45Z] [AY6677383Z]   7/10: ¿En qué fase del proceso de higienización se eliminan restos visibles de suciedad? -> A (attempt 1)
+[2026-11-01T01:09:45Z] [NZ4796614S]   7/10: ¿En qué fase del proceso de higienización se eliminan restos visibles de suciedad? -> A (attempt 1)
+[2026-11-01T01:09:46Z] [SZ5271225K]   7/10: ¿Qué elemento debe estar SIEMPRE definido en un Punto Crítico de Control? -> A (attempt 1)
+[2026-11-01T01:09:46Z] [AY6677383Z]   8/10: ¿Cuántas son las fases básicas en toda operación de higienización? -> A (attempt 1)
+[2026-11-01T01:09:46Z] [NZ4796614S]   8/10: ¿Cuántos son los grupos de sustancias o productos que causan alergias e intolerancias y sobre cuya p -> B (attempt 1)
+[2026-11-01T01:09:46Z] [SZ5271225K]   8/10: ¿Qué significa la sigla APPCC? -> B (attempt 1)
+[2026-11-01T01:09:46Z] [AY6677383Z]   9/10: ¿Qué significa la sigla APPCC? -> B (attempt 1)
+[2026-11-01T01:09:46Z] [NZ4796614S]   9/10: ¿Cuál de estos productos suele ser un alérgeno común? -> A (attempt 1)
+[2026-11-01T01:09:47Z] [SZ5271225K]   9/10: ¿Qué se elimina con la esterilización? -> B (attempt 1)
+[2026-11-01T01:09:47Z] [AY6677383Z]   10/10: ¿Qué es la destrucción parcial de los microorganismos existentes? -> B (attempt 1)
+[2026-11-01T01:09:47Z] [NZ4796614S]   10/10: ¿Qué se elimina con la esterilización? -> B (attempt 1)
+[2026-11-01T01:09:47Z] [SZ5271225K]   10/10: ¿Cuál de los siguientes es uno de los síntomas más comunes que se pueden producir por una alergia? -> A (attempt 1)
+[2026-11-01T01:09:47Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:09:47Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:09:47Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:09:47Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:09:47Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:09:47Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 03 | corregir_clicked | 10 answers | 6/1001 units (0.60%) | 0/77 users finished | 1 for review
+[2026-11-01T01:09:47Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:09:47Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 03 | corregir_clicked | 10 answers | 7/1001 units (0.70%) | 0/77 users finished | 0 for review
+[2026-11-01T01:09:47Z] [SY8944954S] Unit 4 opened.
+[2026-11-01T01:09:47Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:09:48Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:09:48Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:09:48Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 03 | corregir_clicked | 10 answers | 8/1001 units (0.80%) | 0/77 users finished | 0 for review
+[2026-11-01T01:09:49Z] [AY6677383Z] UNIT START | 04 | 4/13 remaining
+[2026-11-01T01:09:49Z] [NZ4796614S] UNIT START | 04 | 4/13 remaining
+[2026-11-01T01:09:49Z] [SZ5271225K] UNIT START | 04 | 4/13 remaining
+[2026-11-01T01:09:51Z] [AY6677383Z] Expanding Unit 4...
+[2026-11-01T01:09:51Z] [NZ4796614S] Expanding Unit 4...
+[2026-11-01T01:09:51Z] [SZ5271225K] Expanding Unit 4...
+[2026-11-01T01:09:51Z] [AY6677383Z] Opening 'Contenido unidad 4' from the dashboard...
+[2026-11-01T01:09:51Z] [NZ4796614S] Opening 'Contenido unidad 4' from the dashboard...
+[2026-11-01T01:09:51Z] [SZ5271225K] Opening 'Contenido unidad 4' from the dashboard...
+[2026-11-01T01:09:52Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:09:53Z] [SY8944954S] Test opened.
+[2026-11-01T01:09:53Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:09:53Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:09:53Z] [A31917609A]   1/10: ¿Qué elemento debe estar SIEMPRE definido en un Punto Crítico de Control? -> A (attempt 1)
+[2026-11-01T01:09:53Z] [A31917609A]   2/10: ¿Qué es la destrucción parcial de los microorganismos existentes? -> B (attempt 1)
+[2026-11-01T01:09:54Z] [A31917609A]   3/10: ¿Cuál de estos productos suele ser un alérgeno común? -> A (attempt 1)
+[2026-11-01T01:09:54Z] [A31917609A]   4/10: ¿Qué se elimina con la esterilización? -> B (attempt 1)
+[2026-11-01T01:09:55Z] [A31917609A]   5/10: ¿Cuál de los siguientes es uno de los síntomas más comunes que se pueden producir por una alergia? -> A (attempt 1)
+[2026-11-01T01:09:55Z] [AY6677383Z] Unit 4 opened.
+[2026-11-01T01:09:55Z] [A31917609A]   6/10: ¿Cuántos son los grupos de sustancias o productos que causan alergias e intolerancias y sobre cuya p -> B (attempt 1)
+[2026-11-01T01:09:56Z] [A31917609A]   7/10: ¿En qué fase del proceso de higienización se eliminan restos visibles de suciedad? -> A (attempt 1)
+[2026-11-01T01:09:57Z] [A31917609A]   8/10: ¿Qué significa la sigla APPCC? -> B (attempt 1)
+[2026-11-01T01:09:57Z] [NZ4796614S] Unit 4 opened.
+[2026-11-01T01:09:57Z] [A31917609A]   9/10: ¿Cuál de los siguientes es un principio básico del APPCC? -> C (attempt 1)
+[2026-11-01T01:09:58Z] [A31917609A]   10/10: ¿Cuántas son las fases básicas en toda operación de higienización? -> A (attempt 1)
+[2026-11-01T01:09:58Z] [SZ5271225K] Unit 4 opened.
+[2026-11-01T01:09:58Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:09:58Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:09:58Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:09:58Z] [A31917609A] PROGRESS | A31917609A | Unit 03 | corregir_clicked | 10 answers | 9/1001 units (0.90%) | 0/77 users finished | 0 for review
+[2026-11-01T01:09:58Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:09:59Z] [AY6677383Z] Test opened.
+[2026-11-01T01:09:59Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:10:00Z] [A31917609A] UNIT START | 04 | 4/13 remaining
+[2026-11-01T01:10:00Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:10:00Z] [NZ4796614S] Test opened.
+[2026-11-01T01:10:00Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:10:01Z] [A31917609A] Expanding Unit 4...
+[2026-11-01T01:10:01Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:10:02Z] [SZ5271225K] Test opened.
+[2026-11-01T01:10:02Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:10:02Z] [A31917609A] Opening 'Contenido unidad 4' from the dashboard...
+[2026-11-01T01:10:02Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:10:02Z] [SY8944954S]   1/10: ¿Cuál de los siguientes NO son alimentos de alto riesgo? -> C (attempt 1)
+[2026-11-01T01:10:03Z] [SY8944954S]   2/10: ¿Qué técnica consiste en descongelar alimentos dentro del frigorífico? -> A (attempt 1)
+[2026-11-01T01:10:03Z] [SY8944954S]   3/10: ¿Cómo deben ser los ojos de un pescado para identificarlo como fresco? -> A (attempt 1)
+[2026-11-01T01:10:04Z] [SY8944954S]   4/10: ¿Cuál es la temperatura ideal de conservación del pescado fresco en refrigeración? -> A (attempt 1)
+[2026-11-01T01:10:04Z] [SY8944954S]   5/10: ¿Qué barrera de protección es la membrana exterior que cubre la cáscara? -> C (attempt 1)
+[2026-11-01T01:10:05Z] [SY8944954S]   6/10: ¿A qué temperatura deben almacenarse, conservarse, transportarse o venderse las comidas calientes pr -> A (attempt 1)
+[2026-11-01T01:10:05Z] [SY8944954S]   7/10: ¿Qué se recomienda hacer con el aceite de fritura cuando está degradado? -> A (attempt 1)
+[2026-11-01T01:10:06Z] [SY8944954S]   8/10: ¿A qué temperatura deben conservarse las comidas congeladas? -> A (attempt 1)
+[2026-11-01T01:10:06Z] [A31917609A] Unit 4 opened.
+[2026-11-01T01:10:06Z] [SY8944954S]   9/10: ¿Cuál es la temperatura de fritura máxima? -> B (attempt 1)
+[2026-11-01T01:10:07Z] [SY8944954S]   10/10: ¿Qué indica la presencia de olor a amoniaco en un pescado en filetes? -> A (attempt 1)
+[2026-11-01T01:10:07Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:10:07Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:10:07Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:10:07Z] [SY8944954S] PROGRESS | SY8944954S | Unit 04 | corregir_clicked | 10 answers | 10/1001 units (1.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:10:09Z] [SY8944954S] UNIT START | 05 | 5/13 remaining
+[2026-11-01T01:10:11Z] [SY8944954S] Expanding Unit 5...
+[2026-11-01T01:10:11Z] [SY8944954S] Opening 'Contenido unidad 5' from the dashboard...
+[2026-11-01T01:10:17Z] [SY8944954S] Unit 5 opened.
+[2026-11-01T01:10:35Z] [NZ4796614S] UNIT ERROR | Unit 04 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:10:35Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:10:36Z] [SZ5271225K] UNIT ERROR | Unit 04 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:10:36Z] [AY6677383Z] UNIT ERROR | Unit 04 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:10:36Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:10:38Z] [SZ5271225K] Diagnostic screenshot: mentoaula_diagnostics\SZ5271225K\unit_04_screenshot.png
+[2026-11-01T01:10:38Z] [SZ5271225K] Diagnostic HTML: mentoaula_diagnostics\SZ5271225K\unit_04_frame.html
+[2026-11-01T01:10:38Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 04 | error | 0 answers | 10/1001 units (1.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:10:38Z] [SZ5271225K] UNIT START | 05 | 5/13 remaining
+[2026-11-01T01:10:38Z] [NZ4796614S] Diagnostic screenshot: mentoaula_diagnostics\NZ4796614S\unit_04_screenshot.png
+[2026-11-01T01:10:38Z] [NZ4796614S] Diagnostic HTML: mentoaula_diagnostics\NZ4796614S\unit_04_frame.html
+[2026-11-01T01:10:38Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 04 | error | 0 answers | 10/1001 units (1.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:10:38Z] [NZ4796614S] UNIT START | 05 | 5/13 remaining
+[2026-11-01T01:10:40Z] [SZ5271225K] Expanding Unit 5...
+[2026-11-01T01:10:40Z] [NZ4796614S] Expanding Unit 5...
+[2026-11-01T01:10:40Z] [SZ5271225K] Opening 'Contenido unidad 5' from the dashboard...
+[2026-11-01T01:10:40Z] [NZ4796614S] Opening 'Contenido unidad 5' from the dashboard...
+[2026-11-01T01:10:43Z] [SY8944954S] Test opened.
+[2026-11-01T01:10:43Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:10:43Z] [A31917609A] Test opened.
+[2026-11-01T01:10:43Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:10:44Z] [AY6677383Z] Diagnostic screenshot: mentoaula_diagnostics\AY6677383Z\unit_04_screenshot.png
+[2026-11-01T01:10:44Z] [AY6677383Z] Diagnostic HTML: mentoaula_diagnostics\AY6677383Z\unit_04_frame.html
+[2026-11-01T01:10:44Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 04 | error | 0 answers | 10/1001 units (1.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:10:44Z] [AY6677383Z] UNIT START | 05 | 5/13 remaining
+[2026-11-01T01:10:45Z] [AY6677383Z] Expanding Unit 5...
+[2026-11-01T01:10:46Z] [AY6677383Z] Opening 'Contenido unidad 5' from the dashboard...
+[2026-11-01T01:10:47Z] [SZ5271225K] Unit 5 opened.
+[2026-11-01T01:10:47Z] [NZ4796614S] Unit 5 opened.
+[2026-11-01T01:10:51Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:10:51Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:10:51Z] [NZ4796614S] Test opened.
+[2026-11-01T01:10:51Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:10:51Z] [SZ5271225K] Test opened.
+[2026-11-01T01:10:51Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:10:51Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:10:51Z] [A31917609A]   1/10: ¿Cuál es la temperatura ideal de conservación del pescado fresco en refrigeración? -> A (attempt 1)
+[2026-11-01T01:10:52Z] [AY6677383Z] Unit 5 opened.
+[2026-11-01T01:10:52Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:10:52Z] [A31917609A]   2/10: ¿Qué se recomienda hacer con el aceite de fritura cuando está degradado? -> A (attempt 1)
+[2026-11-01T01:10:52Z] [SY8944954S]   1/10: ¿Qué síntoma indica la posible evolución hacia una reacción grave? -> A (attempt 1)
+[2026-11-01T01:10:52Z] [A31917609A]   3/10: ¿Qué barrera de protección es la membrana exterior que cubre la cáscara? -> C (attempt 1)
+[2026-11-01T01:10:52Z] [SY8944954S]   2/10: ¿Qué grupo poblacional se considera más vulnerable a las alergias alimentarias? -> C (attempt 1)
+[2026-11-01T01:10:53Z] [A31917609A]   4/10: ¿Cuál de los siguientes NO son alimentos de alto riesgo? -> C (attempt 1)
+[2026-11-01T01:10:53Z] [SY8944954S]   3/10: ¿Qué medida forma parte fundamental del tratamiento de una alergia alimentaria? -> D (attempt 1)
+[2026-11-01T01:10:53Z] [A31917609A]   5/10: ¿Cómo deben ser los ojos de un pescado para identificarlo como fresco? -> A (attempt 1)
+[2026-11-01T01:10:54Z] [SY8944954S]   4/10: ¿Cuál de los siguientes síntomas corresponde a una reacción alérgica leve? -> A (attempt 1)
+[2026-11-01T01:10:54Z] [A31917609A]   6/10: ¿A qué temperatura deben almacenarse, conservarse, transportarse o venderse las comidas calientes pr -> A (attempt 1)
+[2026-11-01T01:10:54Z] [SY8944954S]   5/10: ¿Qué prueba constituye el estándar de oro para confirmar una alergia alimentaria? -> C (attempt 1)
+[2026-11-01T01:10:54Z] [A31917609A]   7/10: ¿Qué indica la presencia de olor a amoniaco en un pescado en filetes? -> A (attempt 1)
+[2026-11-01T01:10:55Z] [SY8944954S]   6/10: ¿Qué caracteriza principalmente a una alergia alimentaria? -> A (attempt 1)
+[2026-11-01T01:10:55Z] [A31917609A]   8/10: ¿Qué técnica consiste en descongelar alimentos dentro del frigorífico? -> A (attempt 1)
+[2026-11-01T01:10:55Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:10:55Z] [SY8944954S]   7/10: ¿Qué factor de riesgo incrementa especialmente la probabilidad de desarrollar alergias alimentarias? -> B (attempt 1)
+[2026-11-01T01:10:55Z] [AY6677383Z] Test opened.
+[2026-11-01T01:10:55Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:10:55Z] [A31917609A]   9/10: ¿Cuál es la temperatura de fritura máxima? -> B (attempt 1)
+[2026-11-01T01:10:56Z] [SY8944954S]   8/10: ¿Qué tipo de reacción se produce en una intolerancia alimentaria? -> B (attempt 1)
+[2026-11-01T01:10:56Z] [A31917609A]   10/10: ¿A qué temperatura deben conservarse las comidas congeladas? -> A (attempt 1)
+[2026-11-01T01:10:56Z] [SY8944954S]   9/10: ¿Qué prueba diagnóstica consiste en aplicar cantidades mínimas del alérgeno sobre la piel? -> B (attempt 1)
+[2026-11-01T01:10:56Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:10:56Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:10:56Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:10:56Z] [A31917609A] PROGRESS | A31917609A | Unit 04 | corregir_clicked | 10 answers | 11/1001 units (1.10%) | 0/77 users finished | 0 for review
+[2026-11-01T01:10:57Z] [SY8944954S]   10/10: ¿Cuál de los siguientes es un signo típico de anafilaxia? -> C (attempt 1)
+[2026-11-01T01:10:57Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:10:57Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:10:57Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:10:57Z] [SY8944954S] PROGRESS | SY8944954S | Unit 05 | corregir_clicked | 10 answers | 12/1001 units (1.20%) | 0/77 users finished | 0 for review
+[2026-11-01T01:10:58Z] [A31917609A] UNIT START | 05 | 5/13 remaining
+[2026-11-01T01:10:59Z] [SY8944954S] UNIT START | 06 | 6/13 remaining
+[2026-11-01T01:11:00Z] [A31917609A] Expanding Unit 5...
+[2026-11-01T01:11:00Z] [A31917609A] Opening 'Contenido unidad 5' from the dashboard...
+[2026-11-01T01:11:00Z] [SY8944954S] Expanding Unit 6...
+[2026-11-01T01:11:01Z] [SY8944954S] Opening 'Contenido unidad 6' from the dashboard...
+[2026-11-01T01:11:01Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:11:01Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:11:01Z] [SZ5271225K]   1/10: ¿Cuál de los siguientes síntomas corresponde a una reacción alérgica leve? -> A (attempt 1)
+[2026-11-01T01:11:01Z] [NZ4796614S]   1/10: ¿Qué tipo de reacción se produce en una intolerancia alimentaria? -> B (attempt 1)
+[2026-11-01T01:11:02Z] [SZ5271225K]   2/10: ¿Qué tipo de reacción se produce en una intolerancia alimentaria? -> B (attempt 1)
+[2026-11-01T01:11:02Z] [NZ4796614S]   2/10: ¿Qué prueba diagnóstica consiste en aplicar cantidades mínimas del alérgeno sobre la piel? -> B (attempt 1)
+[2026-11-01T01:11:02Z] [SZ5271225K]   3/10: ¿Qué prueba constituye el estándar de oro para confirmar una alergia alimentaria? -> C (attempt 1)
+[2026-11-01T01:11:02Z] [NZ4796614S]   3/10: ¿Qué prueba constituye el estándar de oro para confirmar una alergia alimentaria? -> C (attempt 1)
+[2026-11-01T01:11:03Z] [SZ5271225K]   4/10: ¿Cuál de los siguientes es un signo típico de anafilaxia? -> C (attempt 1)
+[2026-11-01T01:11:03Z] [NZ4796614S]   4/10: ¿Cuál de los siguientes síntomas corresponde a una reacción alérgica leve? -> A (attempt 1)
+[2026-11-01T01:11:03Z] [SZ5271225K]   5/10: ¿Qué medida forma parte fundamental del tratamiento de una alergia alimentaria? -> D (attempt 1)
+[2026-11-01T01:11:04Z] [NZ4796614S]   5/10: ¿Qué síntoma indica la posible evolución hacia una reacción grave? -> A (attempt 1)
+[2026-11-01T01:11:04Z] [SZ5271225K]   6/10: ¿Qué grupo poblacional se considera más vulnerable a las alergias alimentarias? -> C (attempt 1)
+[2026-11-01T01:11:04Z] [NZ4796614S]   6/10: ¿Qué grupo poblacional se considera más vulnerable a las alergias alimentarias? -> C (attempt 1)
+[2026-11-01T01:11:04Z] [SZ5271225K]   7/10: ¿Qué factor de riesgo incrementa especialmente la probabilidad de desarrollar alergias alimentarias? -> B (attempt 1)
+[2026-11-01T01:11:05Z] [NZ4796614S]   7/10: ¿Cuál de los siguientes es un signo típico de anafilaxia? -> C (attempt 1)
+[2026-11-01T01:11:05Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:11:05Z] [AY6677383Z]   1/10: ¿Qué prueba diagnóstica consiste en aplicar cantidades mínimas del alérgeno sobre la piel? -> B (attempt 1)
+[2026-11-01T01:11:05Z] [SZ5271225K]   8/10: ¿Qué caracteriza principalmente a una alergia alimentaria? -> A (attempt 1)
+[2026-11-01T01:11:05Z] [NZ4796614S]   8/10: ¿Qué factor de riesgo incrementa especialmente la probabilidad de desarrollar alergias alimentarias? -> B (attempt 1)
+[2026-11-01T01:11:05Z] [SZ5271225K]   9/10: ¿Qué prueba diagnóstica consiste en aplicar cantidades mínimas del alérgeno sobre la piel? -> B (attempt 1)
+[2026-11-01T01:11:06Z] [AY6677383Z]   2/10: ¿Qué factor de riesgo incrementa especialmente la probabilidad de desarrollar alergias alimentarias? -> B (attempt 1)
+[2026-11-01T01:11:06Z] [NZ4796614S]   9/10: ¿Qué caracteriza principalmente a una alergia alimentaria? -> A (attempt 1)
+[2026-11-01T01:11:06Z] [A31917609A] Unit 5 opened.
+[2026-11-01T01:11:06Z] [SZ5271225K]   10/10: ¿Qué síntoma indica la posible evolución hacia una reacción grave? -> A (attempt 1)
+[2026-11-01T01:11:06Z] [SY8944954S] Unit 6 opened.
+[2026-11-01T01:11:06Z] [AY6677383Z]   3/10: ¿Qué caracteriza principalmente a una alergia alimentaria? -> A (attempt 1)
+[2026-11-01T01:11:06Z] [NZ4796614S]   10/10: ¿Qué medida forma parte fundamental del tratamiento de una alergia alimentaria? -> D (attempt 1)
+[2026-11-01T01:11:06Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:11:07Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:11:07Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:11:07Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:11:07Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:11:07Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 05 | corregir_clicked | 10 answers | 13/1001 units (1.30%) | 0/77 users finished | 1 for review
+[2026-11-01T01:11:07Z] [AY6677383Z]   4/10: ¿Qué grupo poblacional se considera más vulnerable a las alergias alimentarias? -> C (attempt 1)
+[2026-11-01T01:11:07Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:11:07Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 05 | corregir_clicked | 10 answers | 14/1001 units (1.40%) | 0/77 users finished | 0 for review
+[2026-11-01T01:11:07Z] [AY6677383Z]   5/10: ¿Qué prueba constituye el estándar de oro para confirmar una alergia alimentaria? -> C (attempt 1)
+[2026-11-01T01:11:08Z] [AY6677383Z]   6/10: ¿Qué tipo de reacción se produce en una intolerancia alimentaria? -> B (attempt 1)
+[2026-11-01T01:11:08Z] [SZ5271225K] UNIT START | 06 | 6/13 remaining
+[2026-11-01T01:11:08Z] [AY6677383Z]   7/10: ¿Cuál de los siguientes es un signo típico de anafilaxia? -> C (attempt 1)
+[2026-11-01T01:11:08Z] [NZ4796614S] UNIT START | 06 | 6/13 remaining
+[2026-11-01T01:11:09Z] [AY6677383Z]   8/10: ¿Qué medida forma parte fundamental del tratamiento de una alergia alimentaria? -> D (attempt 1)
+[2026-11-01T01:11:09Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:11:09Z] [AY6677383Z]   9/10: ¿Qué síntoma indica la posible evolución hacia una reacción grave? -> A (attempt 1)
+[2026-11-01T01:11:09Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:11:09Z] [A31917609A] Test opened.
+[2026-11-01T01:11:09Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:11:10Z] [SY8944954S] Test opened.
+[2026-11-01T01:11:10Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:11:10Z] [AY6677383Z]   10/10: ¿Cuál de los siguientes síntomas corresponde a una reacción alérgica leve? -> A (attempt 1)
+[2026-11-01T01:11:10Z] [SZ5271225K] Expanding Unit 6...
+[2026-11-01T01:11:10Z] [NZ4796614S] Expanding Unit 6...
+[2026-11-01T01:11:10Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:11:10Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:11:10Z] [SZ5271225K] Opening 'Contenido unidad 6' from the dashboard...
+[2026-11-01T01:11:10Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:11:10Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 05 | corregir_clicked | 10 answers | 15/1001 units (1.50%) | 0/77 users finished | 0 for review
+[2026-11-01T01:11:11Z] [NZ4796614S] Opening 'Contenido unidad 6' from the dashboard...
+[2026-11-01T01:11:12Z] [AY6677383Z] UNIT START | 06 | 6/13 remaining
+[2026-11-01T01:11:14Z] [AY6677383Z] Expanding Unit 6...
+[2026-11-01T01:11:14Z] [AY6677383Z] Opening 'Contenido unidad 6' from the dashboard...
+[2026-11-01T01:11:17Z] [NZ4796614S] Unit 6 opened.
+[2026-11-01T01:11:17Z] [SZ5271225K] Unit 6 opened.
+[2026-11-01T01:11:18Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:11:19Z] [A31917609A]   1/10: ¿Cuál de los siguientes es un signo típico de anafilaxia? -> C (attempt 1)
+[2026-11-01T01:11:19Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:11:19Z] [A31917609A]   2/10: ¿Qué prueba constituye el estándar de oro para confirmar una alergia alimentaria? -> C (attempt 1)
+[2026-11-01T01:11:19Z] [SY8944954S]   1/10: ¿Qué vía de contaminación cruzada implica el uso compartido de utensilios sin limpieza previa? -> B (attempt 1)
+[2026-11-01T01:11:19Z] [AY6677383Z] Unit 6 opened.
+[2026-11-01T01:11:20Z] [A31917609A]   3/10: ¿Qué síntoma indica la posible evolución hacia una reacción grave? -> A (attempt 1)
+[2026-11-01T01:11:20Z] [SY8944954S]   2/10: ¿Qué alérgeno puede estar presente de forma oculta en chocolates y bollería industrial? -> B (attempt 1)
+[2026-11-01T01:11:20Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:11:20Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:11:20Z] [NZ4796614S] Test opened.
+[2026-11-01T01:11:20Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:11:20Z] [A31917609A]   4/10: ¿Qué factor de riesgo incrementa especialmente la probabilidad de desarrollar alergias alimentarias? -> B (attempt 1)
+[2026-11-01T01:11:20Z] [SY8944954S]   3/10: ¿Cuál de los siguientes se considera un alérgeno emergente de origen vegetal? -> D (attempt 1)
+[2026-11-01T01:11:20Z] [SZ5271225K] Test opened.
+[2026-11-01T01:11:20Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:11:21Z] [A31917609A]   5/10: ¿Qué prueba diagnóstica consiste en aplicar cantidades mínimas del alérgeno sobre la piel? -> B (attempt 1)
+[2026-11-01T01:11:21Z] [SY8944954S]   4/10: ¿Qué es un alérgeno alimentario? -> B (attempt 1)
+[2026-11-01T01:11:21Z] [A31917609A]   6/10: ¿Qué tipo de reacción se produce en una intolerancia alimentaria? -> B (attempt 1)
+[2026-11-01T01:11:21Z] [SY8944954S]   5/10: ¿Cuál es un ejemplo de proteína alergénica del pescado? -> B (attempt 1)
+[2026-11-01T01:11:22Z] [A31917609A]   7/10: ¿Cuál de los siguientes síntomas corresponde a una reacción alérgica leve? -> A (attempt 1)
+[2026-11-01T01:11:22Z] [SY8944954S]   6/10: ¿Cuál de los siguientes grupos pertenece a los alérgenos de declaración obligatoria según el Reglame -> B (attempt 1)
+[2026-11-01T01:11:22Z] [A31917609A]   8/10: ¿Qué caracteriza principalmente a una alergia alimentaria? -> A (attempt 1)
+[2026-11-01T01:11:22Z] [SY8944954S]   7/10: ¿Qué ingrediente emergente puede generar reactividad cruzada con la alergia a crustáceos? -> B (attempt 1)
+[2026-11-01T01:11:23Z] [A31917609A]   9/10: ¿Qué grupo poblacional se considera más vulnerable a las alergias alimentarias? -> C (attempt 1)
+[2026-11-01T01:11:23Z] [SY8944954S]   8/10: ¿Qué grupo de alérgenos incluye a las almendras, nueces y avellanas? -> C (attempt 1)
+[2026-11-01T01:11:23Z] [SY8944954S]   9/10: ¿Cuál es una vía de contaminación cruzada aérea? -> A (attempt 1)
+[2026-11-01T01:11:23Z] [A31917609A]   10/10: ¿Qué medida forma parte fundamental del tratamiento de una alergia alimentaria? -> D (attempt 1)
+[2026-11-01T01:11:23Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:11:24Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:11:24Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:11:24Z] [SY8944954S]   10/10: ¿Qué característica destaca en los alérgenos emergentes? -> C (attempt 1)
+[2026-11-01T01:11:24Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:11:24Z] [A31917609A] PROGRESS | A31917609A | Unit 05 | corregir_clicked | 10 answers | 16/1001 units (1.60%) | 0/77 users finished | 0 for review
+[2026-11-01T01:11:24Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:11:24Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:11:24Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:11:24Z] [SY8944954S] PROGRESS | SY8944954S | Unit 06 | corregir_clicked | 10 answers | 17/1001 units (1.70%) | 0/77 users finished | 0 for review
+[2026-11-01T01:11:25Z] [AY6677383Z] Test opened.
+[2026-11-01T01:11:25Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:11:25Z] [A31917609A] UNIT START | 06 | 6/13 remaining
+[2026-11-01T01:11:26Z] [SY8944954S] UNIT START | 07 | 7/13 remaining
+[2026-11-01T01:11:27Z] [A31917609A] Expanding Unit 6...
+[2026-11-01T01:11:28Z] [A31917609A] Opening 'Contenido unidad 6' from the dashboard...
+[2026-11-01T01:11:28Z] [SY8944954S] Expanding Unit 7...
+[2026-11-01T01:11:28Z] [SY8944954S] Opening 'Contenido unidad 7' from the dashboard...
+[2026-11-01T01:11:34Z] [A31917609A] Unit 6 opened.
+[2026-11-01T01:11:34Z] [SY8944954S] Unit 7 opened.
+[2026-11-01T01:11:44Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:11:44Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:11:45Z] [A31917609A] Test opened.
+[2026-11-01T01:11:45Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:11:45Z] [AY6677383Z]   1/10: ¿Cuál es un ejemplo de proteína alergénica del pescado? -> B (attempt 1)
+[2026-11-01T01:11:45Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:11:45Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:11:45Z] [AY6677383Z]   2/10: ¿Qué ingrediente emergente puede generar reactividad cruzada con la alergia a crustáceos? -> B (attempt 1)
+[2026-11-01T01:11:45Z] [NZ4796614S]   1/10: ¿Qué característica destaca en los alérgenos emergentes? -> C (attempt 1)
+[2026-11-01T01:11:46Z] [SZ5271225K]   1/10: ¿Cuál de los siguientes grupos pertenece a los alérgenos de declaración obligatoria según el Reglame -> B (attempt 1)
+[2026-11-01T01:11:46Z] [AY6677383Z]   3/10: ¿Qué alérgeno puede estar presente de forma oculta en chocolates y bollería industrial? -> B (attempt 1)
+[2026-11-01T01:11:46Z] [NZ4796614S]   2/10: ¿Qué es un alérgeno alimentario? -> B (attempt 1)
+[2026-11-01T01:11:46Z] [SZ5271225K]   2/10: ¿Qué vía de contaminación cruzada implica el uso compartido de utensilios sin limpieza previa? -> B (attempt 1)
+[2026-11-01T01:11:46Z] [AY6677383Z]   4/10: ¿Qué es un alérgeno alimentario? -> B (attempt 1)
+[2026-11-01T01:11:47Z] [NZ4796614S]   3/10: ¿Cuál de los siguientes se considera un alérgeno emergente de origen vegetal? -> D (attempt 1)
+[2026-11-01T01:11:47Z] [SZ5271225K]   3/10: ¿Qué alérgeno puede estar presente de forma oculta en chocolates y bollería industrial? -> B (attempt 1)
+[2026-11-01T01:11:47Z] [AY6677383Z]   5/10: ¿Qué característica destaca en los alérgenos emergentes? -> C (attempt 1)
+[2026-11-01T01:11:47Z] [NZ4796614S]   4/10: ¿Cuál es una vía de contaminación cruzada aérea? -> A (attempt 1)
+[2026-11-01T01:11:47Z] [SZ5271225K]   4/10: ¿Qué ingrediente emergente puede generar reactividad cruzada con la alergia a crustáceos? -> B (attempt 1)
+[2026-11-01T01:11:47Z] [AY6677383Z]   6/10: ¿Qué grupo de alérgenos incluye a las almendras, nueces y avellanas? -> C (attempt 1)
+[2026-11-01T01:11:48Z] [SZ5271225K]   5/10: ¿Cuál es una vía de contaminación cruzada aérea? -> A (attempt 1)
+[2026-11-01T01:11:48Z] [NZ4796614S]   5/10: ¿Qué grupo de alérgenos incluye a las almendras, nueces y avellanas? -> C (attempt 1)
+[2026-11-01T01:11:48Z] [AY6677383Z]   7/10: ¿Qué vía de contaminación cruzada implica el uso compartido de utensilios sin limpieza previa? -> B (attempt 1)
+[2026-11-01T01:11:48Z] [SZ5271225K]   6/10: ¿Qué característica destaca en los alérgenos emergentes? -> C (attempt 1)
+[2026-11-01T01:11:48Z] [NZ4796614S]   6/10: ¿Qué alérgeno puede estar presente de forma oculta en chocolates y bollería industrial? -> B (attempt 1)
+[2026-11-01T01:11:48Z] [AY6677383Z]   8/10: ¿Cuál de los siguientes grupos pertenece a los alérgenos de declaración obligatoria según el Reglame -> B (attempt 1)
+[2026-11-01T01:11:49Z] [SZ5271225K]   7/10: ¿Cuál es un ejemplo de proteína alergénica del pescado? -> B (attempt 1)
+[2026-11-01T01:11:49Z] [NZ4796614S]   7/10: ¿Qué ingrediente emergente puede generar reactividad cruzada con la alergia a crustáceos? -> B (attempt 1)
+[2026-11-01T01:11:49Z] [AY6677383Z]   9/10: ¿Cuál es una vía de contaminación cruzada aérea? -> A (attempt 1)
+[2026-11-01T01:11:49Z] [SZ5271225K]   8/10: ¿Cuál de los siguientes se considera un alérgeno emergente de origen vegetal? -> D (attempt 1)
+[2026-11-01T01:11:49Z] [NZ4796614S]   8/10: ¿Cuál es un ejemplo de proteína alergénica del pescado? -> B (attempt 1)
+[2026-11-01T01:11:49Z] [AY6677383Z]   10/10: ¿Cuál de los siguientes se considera un alérgeno emergente de origen vegetal? -> D (attempt 1)
+[2026-11-01T01:11:50Z] [SZ5271225K]   9/10: ¿Qué grupo de alérgenos incluye a las almendras, nueces y avellanas? -> C (attempt 1)
+[2026-11-01T01:11:50Z] [NZ4796614S]   9/10: ¿Cuál de los siguientes grupos pertenece a los alérgenos de declaración obligatoria según el Reglame -> B (attempt 1)
+[2026-11-01T01:11:50Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:11:50Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:11:50Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:11:50Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 06 | corregir_clicked | 10 answers | 18/1001 units (1.80%) | 0/77 users finished | 0 for review
+[2026-11-01T01:11:50Z] [NZ4796614S]   10/10: ¿Qué vía de contaminación cruzada implica el uso compartido de utensilios sin limpieza previa? -> B (attempt 1)
+[2026-11-01T01:11:50Z] [SZ5271225K]   10/10: ¿Qué es un alérgeno alimentario? -> B (attempt 1)
+[2026-11-01T01:11:51Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:11:51Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:11:51Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:11:51Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:11:51Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:11:51Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 06 | corregir_clicked | 10 answers | 19/1001 units (1.90%) | 0/77 users finished | 1 for review
+[2026-11-01T01:11:51Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:11:51Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 06 | corregir_clicked | 10 answers | 20/1001 units (2.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:11:52Z] [AY6677383Z] UNIT START | 07 | 7/13 remaining
+[2026-11-01T01:11:52Z] [NZ4796614S] UNIT START | 07 | 7/13 remaining
+[2026-11-01T01:11:52Z] [SZ5271225K] UNIT START | 07 | 7/13 remaining
+[2026-11-01T01:11:53Z] [AY6677383Z] Expanding Unit 7...
+[2026-11-01T01:11:54Z] [AY6677383Z] Opening 'Contenido unidad 7' from the dashboard...
+[2026-11-01T01:11:54Z] [SZ5271225K] Expanding Unit 7...
+[2026-11-01T01:11:54Z] [NZ4796614S] Expanding Unit 7...
+[2026-11-01T01:11:55Z] [SZ5271225K] Opening 'Contenido unidad 7' from the dashboard...
+[2026-11-01T01:11:55Z] [NZ4796614S] Opening 'Contenido unidad 7' from the dashboard...
+[2026-11-01T01:12:00Z] [SZ5271225K] Unit 7 opened.
+[2026-11-01T01:12:00Z] [NZ4796614S] Unit 7 opened.
+[2026-11-01T01:12:01Z] [AY6677383Z] Unit 7 opened.
+[2026-11-01T01:12:10Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:12:10Z] [SY8944954S] Test opened.
+[2026-11-01T01:12:10Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:12:21Z] [A31917609A] UNIT ERROR | Unit 06 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:12:21Z] [A31917609A] Diagnostic screenshot: mentoaula_diagnostics\A31917609A\unit_06_screenshot.png
+[2026-11-01T01:12:21Z] [A31917609A] Diagnostic HTML: mentoaula_diagnostics\A31917609A\unit_06_frame.html
+[2026-11-01T01:12:21Z] [A31917609A] PROGRESS | A31917609A | Unit 06 | error | 0 answers | 20/1001 units (2.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:12:21Z] [A31917609A] UNIT START | 07 | 7/13 remaining
+[2026-11-01T01:12:23Z] [A31917609A] Expanding Unit 7...
+[2026-11-01T01:12:24Z] [A31917609A] Opening 'Contenido unidad 7' from the dashboard...
+[2026-11-01T01:12:27Z] [A31917609A] Unit 7 opened.
+[2026-11-01T01:12:31Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:12:32Z] [NZ4796614S] Test opened.
+[2026-11-01T01:12:32Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:12:32Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:12:32Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:12:32Z] [SZ5271225K] Test opened.
+[2026-11-01T01:12:32Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:12:32Z] [AY6677383Z] Test opened.
+[2026-11-01T01:12:32Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:12:37Z] [SY8944954S] UNIT ERROR | Unit 07 | error: RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.
+[2026-11-01T01:12:37Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:12:38Z] [SY8944954S] Diagnostic screenshot: mentoaula_diagnostics\SY8944954S\unit_07_screenshot.png
+[2026-11-01T01:12:38Z] [SY8944954S] Diagnostic HTML: mentoaula_diagnostics\SY8944954S\unit_07_frame.html
+[2026-11-01T01:12:38Z] [SY8944954S] PROGRESS | SY8944954S | Unit 07 | error | 0 answers | 20/1001 units (2.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:12:38Z] [SY8944954S] UNIT START | 08 | 8/13 remaining
+[2026-11-01T01:12:38Z] [A31917609A] Test opened.
+[2026-11-01T01:12:38Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:12:39Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:12:39Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:12:39Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:12:40Z] [SY8944954S] Expanding Unit 8...
+[2026-11-01T01:12:40Z] [SY8944954S] Opening 'Contenido unidad 8' from the dashboard...
+[2026-11-01T01:12:40Z] [AY6677383Z]   1/10: ¿Cuál es una vía de contaminación cruzada aérea? -> A (attempt 1)
+[2026-11-01T01:12:40Z] [NZ4796614S]   1/10: ¿Qué grupo de alérgenos incluye a las almendras, nueces y avellanas? -> C (attempt 1)
+[2026-11-01T01:12:41Z] [SZ5271225K]   1/10: ¿Qué característica destaca en los alérgenos emergentes? -> C (attempt 1)
+[2026-11-01T01:12:41Z] [NZ4796614S]   2/10: ¿Qué es un alérgeno alimentario? -> B (attempt 1)
+[2026-11-01T01:12:41Z] [AY6677383Z]   2/10: ¿Qué vía de contaminación cruzada implica el uso compartido de utensilios sin limpieza previa? -> B (attempt 1)
+[2026-11-01T01:12:41Z] [SZ5271225K]   2/10: ¿Qué ingrediente emergente puede generar reactividad cruzada con la alergia a crustáceos? -> B (attempt 1)
+[2026-11-01T01:12:41Z] [NZ4796614S]   3/10: ¿Cuál de los siguientes se considera un alérgeno emergente de origen vegetal? -> D (attempt 1)
+[2026-11-01T01:12:41Z] [AY6677383Z]   3/10: ¿Cuál de los siguientes se considera un alérgeno emergente de origen vegetal? -> D (attempt 1)
+[2026-11-01T01:12:42Z] [SZ5271225K]   3/10: ¿Qué es un alérgeno alimentario? -> B (attempt 1)
+[2026-11-01T01:12:42Z] [NZ4796614S]   4/10: ¿Qué vía de contaminación cruzada implica el uso compartido de utensilios sin limpieza previa? -> B (attempt 1)
+[2026-11-01T01:12:42Z] [AY6677383Z]   4/10: ¿Qué es un alérgeno alimentario? -> B (attempt 1)
+[2026-11-01T01:12:42Z] [SZ5271225K]   4/10: ¿Cuál es una vía de contaminación cruzada aérea? -> A (attempt 1)
+[2026-11-01T01:12:43Z] [NZ4796614S]   5/10: ¿Cuál es una vía de contaminación cruzada aérea? -> A (attempt 1)
+[2026-11-01T01:12:43Z] [AY6677383Z]   5/10: ¿Qué ingrediente emergente puede generar reactividad cruzada con la alergia a crustáceos? -> B (attempt 1)
+[2026-11-01T01:12:43Z] [SZ5271225K]   5/10: ¿Qué alérgeno puede estar presente de forma oculta en chocolates y bollería industrial? -> B (attempt 1)
+[2026-11-01T01:12:43Z] [NZ4796614S]   6/10: ¿Cuál de los siguientes grupos pertenece a los alérgenos de declaración obligatoria según el Reglame -> B (attempt 1)
+[2026-11-01T01:12:43Z] [AY6677383Z]   6/10: ¿Cuál es un ejemplo de proteína alergénica del pescado? -> B (attempt 1)
+[2026-11-01T01:12:43Z] [SZ5271225K]   6/10: ¿Cuál de los siguientes se considera un alérgeno emergente de origen vegetal? -> D (attempt 1)
+[2026-11-01T01:12:44Z] [AY6677383Z]   7/10: ¿Cuál de los siguientes grupos pertenece a los alérgenos de declaración obligatoria según el Reglame -> B (attempt 1)
+[2026-11-01T01:12:44Z] [NZ4796614S]   7/10: ¿Cuál es un ejemplo de proteína alergénica del pescado? -> B (attempt 1)
+[2026-11-01T01:12:44Z] [SZ5271225K]   7/10: ¿Cuál de los siguientes grupos pertenece a los alérgenos de declaración obligatoria según el Reglame -> B (attempt 1)
+[2026-11-01T01:12:44Z] [AY6677383Z]   8/10: ¿Qué grupo de alérgenos incluye a las almendras, nueces y avellanas? -> C (attempt 1)
+[2026-11-01T01:12:44Z] [NZ4796614S]   8/10: ¿Qué alérgeno puede estar presente de forma oculta en chocolates y bollería industrial? -> B (attempt 1)
+[2026-11-01T01:12:44Z] [SZ5271225K]   8/10: ¿Qué grupo de alérgenos incluye a las almendras, nueces y avellanas? -> C (attempt 1)
+[2026-11-01T01:12:45Z] [AY6677383Z]   9/10: ¿Qué característica destaca en los alérgenos emergentes? -> C (attempt 1)
+[2026-11-01T01:12:45Z] [NZ4796614S]   9/10: ¿Qué ingrediente emergente puede generar reactividad cruzada con la alergia a crustáceos? -> B (attempt 1)
+[2026-11-01T01:12:45Z] [SZ5271225K]   9/10: ¿Cuál es un ejemplo de proteína alergénica del pescado? -> B (attempt 1)
+[2026-11-01T01:12:45Z] [AY6677383Z]   10/10: ¿Qué alérgeno puede estar presente de forma oculta en chocolates y bollería industrial? -> B (attempt 1)
+[2026-11-01T01:12:45Z] [NZ4796614S]   10/10: ¿Qué característica destaca en los alérgenos emergentes? -> C (attempt 1)
+[2026-11-01T01:12:45Z] [SZ5271225K]   10/10: ¿Qué vía de contaminación cruzada implica el uso compartido de utensilios sin limpieza previa? -> B (attempt 1)
+[2026-11-01T01:12:46Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:12:46Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:12:46Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:12:46Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:12:46Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:12:46Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 07 | corregir_clicked | 10 answers | 21/1001 units (2.10%) | 0/77 users finished | 1 for review
+[2026-11-01T01:12:46Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:12:46Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 07 | corregir_clicked | 10 answers | 22/1001 units (2.20%) | 0/77 users finished | 0 for review
+[2026-11-01T01:12:46Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:12:46Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:12:46Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:12:46Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 07 | corregir_clicked | 10 answers | 23/1001 units (2.30%) | 0/77 users finished | 0 for review
+[2026-11-01T01:12:46Z] [SY8944954S] Unit 8 opened.
+[2026-11-01T01:12:47Z] [NZ4796614S] UNIT START | 08 | 8/13 remaining
+[2026-11-01T01:12:48Z] [AY6677383Z] UNIT START | 08 | 8/13 remaining
+[2026-11-01T01:12:48Z] [SZ5271225K] UNIT START | 08 | 8/13 remaining
+[2026-11-01T01:12:48Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:12:48Z] [A31917609A]   1/10: ¿Cuál de los siguientes grupos pertenece a los alérgenos de declaración obligatoria según el Reglame -> B (attempt 1)
+[2026-11-01T01:12:49Z] [NZ4796614S] Expanding Unit 8...
+[2026-11-01T01:12:49Z] [A31917609A]   2/10: ¿Qué es un alérgeno alimentario? -> B (attempt 1)
+[2026-11-01T01:12:49Z] [NZ4796614S] Opening 'Contenido unidad 8' from the dashboard...
+[2026-11-01T01:12:49Z] [A31917609A]   3/10: ¿Cuál de los siguientes se considera un alérgeno emergente de origen vegetal? -> D (attempt 1)
+[2026-11-01T01:12:50Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:12:50Z] [AY6677383Z] Expanding Unit 8...
+[2026-11-01T01:12:50Z] [SZ5271225K] Expanding Unit 8...
+[2026-11-01T01:12:50Z] [A31917609A]   4/10: ¿Qué ingrediente emergente puede generar reactividad cruzada con la alergia a crustáceos? -> B (attempt 1)
+[2026-11-01T01:12:50Z] [SZ5271225K] Opening 'Contenido unidad 8' from the dashboard...
+[2026-11-01T01:12:50Z] [AY6677383Z] Opening 'Contenido unidad 8' from the dashboard...
+[2026-11-01T01:12:50Z] [SY8944954S] Test opened.
+[2026-11-01T01:12:50Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:12:50Z] [A31917609A]   5/10: ¿Qué alérgeno puede estar presente de forma oculta en chocolates y bollería industrial? -> B (attempt 1)
+[2026-11-01T01:12:51Z] [A31917609A]   6/10: ¿Cuál es un ejemplo de proteína alergénica del pescado? -> B (attempt 1)
+[2026-11-01T01:12:52Z] [A31917609A]   7/10: ¿Qué vía de contaminación cruzada implica el uso compartido de utensilios sin limpieza previa? -> B (attempt 1)
+[2026-11-01T01:12:52Z] [A31917609A]   8/10: ¿Qué grupo de alérgenos incluye a las almendras, nueces y avellanas? -> C (attempt 1)
+[2026-11-01T01:12:53Z] [A31917609A]   9/10: ¿Cuál es una vía de contaminación cruzada aérea? -> A (attempt 1)
+[2026-11-01T01:12:53Z] [A31917609A]   10/10: ¿Qué característica destaca en los alérgenos emergentes? -> C (attempt 1)
+[2026-11-01T01:12:53Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:12:53Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:12:54Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:12:54Z] [A31917609A] PROGRESS | A31917609A | Unit 07 | corregir_clicked | 10 answers | 24/1001 units (2.40%) | 0/77 users finished | 0 for review
+[2026-11-01T01:12:54Z] [NZ4796614S] Unit 8 opened.
+[2026-11-01T01:12:55Z] [A31917609A] UNIT START | 08 | 8/13 remaining
+[2026-11-01T01:12:56Z] [SZ5271225K] Unit 8 opened.
+[2026-11-01T01:12:57Z] [AY6677383Z] Unit 8 opened.
+[2026-11-01T01:12:57Z] [A31917609A] Expanding Unit 8...
+[2026-11-01T01:12:57Z] [A31917609A] Opening 'Contenido unidad 8' from the dashboard...
+[2026-11-01T01:12:57Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:12:58Z] [NZ4796614S] Test opened.
+[2026-11-01T01:12:58Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:12:59Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:13:00Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:13:00Z] [SZ5271225K] Test opened.
+[2026-11-01T01:13:00Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:00Z] [AY6677383Z] Test opened.
+[2026-11-01T01:13:00Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:00Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:01Z] [SY8944954S]   1/10: ¿Qué elemento debe destacarse tipográficamente en el listado de ingredientes? -> B (attempt 1)
+[2026-11-01T01:13:01Z] [SY8944954S]   2/10: ¿Qué obligación tiene la persona manipuladora respecto a los alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:02Z] [SY8944954S]   3/10: ¿Cuál de las siguientes es una obligación del establecimiento alimentario? -> C (attempt 1)
+[2026-11-01T01:13:02Z] [SY8944954S]   4/10: ¿Qué legislación europea establece los principios de la seguridad alimentaria y la trazabilidad? -> D (attempt 1)
+[2026-11-01T01:13:03Z] [SY8944954S]   5/10: ¿Qué norma europea establece la obligación de declarar los 14 alérgenos principales en alimentos? -> B (attempt 1)
+[2026-11-01T01:13:03Z] [SY8944954S]   6/10: En caso de cambio de proveedor, el establecimiento debe... -> A (attempt 1)
+[2026-11-01T01:13:04Z] [SY8944954S]   7/10: ¿Cuál es el objetivo principal de la normativa sobre información alimentaria? -> C (attempt 1)
+[2026-11-01T01:13:04Z] [A31917609A] Unit 8 opened.
+[2026-11-01T01:13:04Z] [SY8944954S]   8/10: ¿Qué actuación es correcta durante una inspección sanitaria? -> B (attempt 1)
+[2026-11-01T01:13:05Z] [SY8944954S]   9/10: El Real Decreto 126/2015 regula principalmente... -> A (attempt 1)
+[2026-11-01T01:13:05Z] [SY8944954S]   10/10: ¿Qué documento suelen revisar las autoridades sanitarias durante una inspección? -> C (attempt 1)
+[2026-11-01T01:13:06Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:06Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:06Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:06Z] [SY8944954S] PROGRESS | SY8944954S | Unit 08 | corregir_clicked | 10 answers | 25/1001 units (2.50%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:07Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:13:08Z] [A31917609A] Test opened.
+[2026-11-01T01:13:08Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:08Z] [SY8944954S] UNIT START | 09 | 9/13 remaining
+[2026-11-01T01:13:09Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:09Z] [NZ4796614S]   1/10: En caso de cambio de proveedor, el establecimiento debe... -> A (attempt 1)
+[2026-11-01T01:13:09Z] [SY8944954S] Expanding Unit 9...
+[2026-11-01T01:13:09Z] [NZ4796614S]   2/10: ¿Qué legislación europea establece los principios de la seguridad alimentaria y la trazabilidad? -> D (attempt 1)
+[2026-11-01T01:13:10Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:10Z] [AY6677383Z]   1/10: ¿Cuál es el objetivo principal de la normativa sobre información alimentaria? -> C (attempt 1)
+[2026-11-01T01:13:10Z] [SY8944954S] Opening 'Contenido unidad 9' from the dashboard...
+[2026-11-01T01:13:10Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:10Z] [NZ4796614S]   3/10: ¿Qué actuación es correcta durante una inspección sanitaria? -> B (attempt 1)
+[2026-11-01T01:13:10Z] [SZ5271225K]   1/10: ¿Cuál es el objetivo principal de la normativa sobre información alimentaria? -> C (attempt 1)
+[2026-11-01T01:13:10Z] [AY6677383Z]   2/10: ¿Qué elemento debe destacarse tipográficamente en el listado de ingredientes? -> B (attempt 1)
+[2026-11-01T01:13:11Z] [NZ4796614S]   4/10: ¿Qué norma europea establece la obligación de declarar los 14 alérgenos principales en alimentos? -> B (attempt 1)
+[2026-11-01T01:13:11Z] [SZ5271225K]   2/10: ¿Qué legislación europea establece los principios de la seguridad alimentaria y la trazabilidad? -> D (attempt 1)
+[2026-11-01T01:13:11Z] [AY6677383Z]   3/10: ¿Qué documento suelen revisar las autoridades sanitarias durante una inspección? -> C (attempt 1)
+[2026-11-01T01:13:11Z] [NZ4796614S]   5/10: ¿Qué obligación tiene la persona manipuladora respecto a los alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:11Z] [SZ5271225K]   3/10: ¿Qué obligación tiene la persona manipuladora respecto a los alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:11Z] [AY6677383Z]   4/10: ¿Qué actuación es correcta durante una inspección sanitaria? -> B (attempt 1)
+[2026-11-01T01:13:12Z] [NZ4796614S]   6/10: ¿Cuál es el objetivo principal de la normativa sobre información alimentaria? -> C (attempt 1)
+[2026-11-01T01:13:12Z] [SZ5271225K]   4/10: El Real Decreto 126/2015 regula principalmente... -> A (attempt 1)
+[2026-11-01T01:13:12Z] [AY6677383Z]   5/10: ¿Cuál de las siguientes es una obligación del establecimiento alimentario? -> C (attempt 1)
+[2026-11-01T01:13:12Z] [NZ4796614S]   7/10: ¿Cuál de las siguientes es una obligación del establecimiento alimentario? -> C (attempt 1)
+[2026-11-01T01:13:12Z] [SZ5271225K]   5/10: En caso de cambio de proveedor, el establecimiento debe... -> A (attempt 1)
+[2026-11-01T01:13:12Z] [AY6677383Z]   6/10: ¿Qué norma europea establece la obligación de declarar los 14 alérgenos principales en alimentos? -> B (attempt 1)
+[2026-11-01T01:13:13Z] [NZ4796614S]   8/10: El Real Decreto 126/2015 regula principalmente... -> A (attempt 1)
+[2026-11-01T01:13:13Z] [SZ5271225K]   6/10: ¿Cuál de las siguientes es una obligación del establecimiento alimentario? -> C (attempt 1)
+[2026-11-01T01:13:13Z] [AY6677383Z]   7/10: En caso de cambio de proveedor, el establecimiento debe... -> A (attempt 1)
+[2026-11-01T01:13:13Z] [NZ4796614S]   9/10: ¿Qué documento suelen revisar las autoridades sanitarias durante una inspección? -> C (attempt 1)
+[2026-11-01T01:13:13Z] [SZ5271225K]   7/10: ¿Qué elemento debe destacarse tipográficamente en el listado de ingredientes? -> B (attempt 1)
+[2026-11-01T01:13:13Z] [AY6677383Z]   8/10: ¿Qué obligación tiene la persona manipuladora respecto a los alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:14Z] [NZ4796614S]   10/10: ¿Qué elemento debe destacarse tipográficamente en el listado de ingredientes? -> B (attempt 1)
+[2026-11-01T01:13:14Z] [SZ5271225K]   8/10: ¿Qué actuación es correcta durante una inspección sanitaria? -> B (attempt 1)
+[2026-11-01T01:13:14Z] [AY6677383Z]   9/10: El Real Decreto 126/2015 regula principalmente... -> A (attempt 1)
+[2026-11-01T01:13:14Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:14Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:14Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:14Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 08 | corregir_clicked | 10 answers | 26/1001 units (2.60%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:14Z] [SZ5271225K]   9/10: ¿Qué documento suelen revisar las autoridades sanitarias durante una inspección? -> C (attempt 1)
+[2026-11-01T01:13:14Z] [AY6677383Z]   10/10: ¿Qué legislación europea establece los principios de la seguridad alimentaria y la trazabilidad? -> D (attempt 1)
+[2026-11-01T01:13:15Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:15Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:15Z] [SZ5271225K]   10/10: ¿Qué norma europea establece la obligación de declarar los 14 alérgenos principales en alimentos? -> B (attempt 1)
+[2026-11-01T01:13:15Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:15Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 08 | corregir_clicked | 10 answers | 27/1001 units (2.70%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:15Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:15Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:16Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:16Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 08 | corregir_clicked | 10 answers | 28/1001 units (2.80%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:16Z] [SY8944954S] Unit 9 opened.
+[2026-11-01T01:13:16Z] [NZ4796614S] UNIT START | 09 | 9/13 remaining
+[2026-11-01T01:13:17Z] [AY6677383Z] UNIT START | 09 | 9/13 remaining
+[2026-11-01T01:13:17Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:17Z] [SZ5271225K] UNIT START | 09 | 9/13 remaining
+[2026-11-01T01:13:18Z] [NZ4796614S] Expanding Unit 9...
+[2026-11-01T01:13:18Z] [A31917609A]   1/10: En caso de cambio de proveedor, el establecimiento debe... -> A (attempt 1)
+[2026-11-01T01:13:18Z] [NZ4796614S] Opening 'Contenido unidad 9' from the dashboard...
+[2026-11-01T01:13:18Z] [AY6677383Z] Expanding Unit 9...
+[2026-11-01T01:13:18Z] [A31917609A]   2/10: ¿Qué obligación tiene la persona manipuladora respecto a los alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:19Z] [AY6677383Z] Opening 'Contenido unidad 9' from the dashboard...
+[2026-11-01T01:13:19Z] [A31917609A]   3/10: ¿Qué actuación es correcta durante una inspección sanitaria? -> B (attempt 1)
+[2026-11-01T01:13:19Z] [SZ5271225K] Expanding Unit 9...
+[2026-11-01T01:13:19Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:13:19Z] [SY8944954S] Test opened.
+[2026-11-01T01:13:19Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:19Z] [SZ5271225K] Opening 'Contenido unidad 9' from the dashboard...
+[2026-11-01T01:13:19Z] [A31917609A]   4/10: ¿Qué documento suelen revisar las autoridades sanitarias durante una inspección? -> C (attempt 1)
+[2026-11-01T01:13:20Z] [A31917609A]   5/10: ¿Qué elemento debe destacarse tipográficamente en el listado de ingredientes? -> B (attempt 1)
+[2026-11-01T01:13:20Z] [A31917609A]   6/10: ¿Qué legislación europea establece los principios de la seguridad alimentaria y la trazabilidad? -> D (attempt 1)
+[2026-11-01T01:13:21Z] [A31917609A]   7/10: ¿Qué norma europea establece la obligación de declarar los 14 alérgenos principales en alimentos? -> B (attempt 1)
+[2026-11-01T01:13:21Z] [A31917609A]   8/10: ¿Cuál es el objetivo principal de la normativa sobre información alimentaria? -> C (attempt 1)
+[2026-11-01T01:13:22Z] [A31917609A]   9/10: ¿Cuál de las siguientes es una obligación del establecimiento alimentario? -> C (attempt 1)
+[2026-11-01T01:13:22Z] [A31917609A]   10/10: El Real Decreto 126/2015 regula principalmente... -> A (attempt 1)
+[2026-11-01T01:13:23Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:23Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:23Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:23Z] [A31917609A] PROGRESS | A31917609A | Unit 08 | corregir_clicked | 10 answers | 29/1001 units (2.90%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:24Z] [NZ4796614S] Unit 9 opened.
+[2026-11-01T01:13:24Z] [SZ5271225K] Unit 9 opened.
+[2026-11-01T01:13:24Z] [AY6677383Z] Unit 9 opened.
+[2026-11-01T01:13:25Z] [A31917609A] UNIT START | 09 | 9/13 remaining
+[2026-11-01T01:13:26Z] [A31917609A] Expanding Unit 9...
+[2026-11-01T01:13:27Z] [A31917609A] Opening 'Contenido unidad 9' from the dashboard...
+[2026-11-01T01:13:27Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:13:27Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:13:27Z] [NZ4796614S] Test opened.
+[2026-11-01T01:13:27Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:27Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:13:27Z] [SZ5271225K] Test opened.
+[2026-11-01T01:13:27Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:28Z] [AY6677383Z] Test opened.
+[2026-11-01T01:13:28Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:28Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:28Z] [SY8944954S]   1/10: ¿En qué fase del APPCC deben integrarse los alérgenos como peligro? -> C (attempt 1)
+[2026-11-01T01:13:29Z] [SY8944954S]   2/10: ¿Qué documento es imprescindible solicitar al proveedor para verificar la presencia de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:29Z] [SY8944954S]   3/10: ¿Qué elemento forma parte de un sistema de trazabilidad eficaz? -> C (attempt 1)
+[2026-11-01T01:13:30Z] [SY8944954S]   4/10: ¿Cuál es el orden recomendado en procesos de elaboración? -> A (attempt 1)
+[2026-11-01T01:13:30Z] [SY8944954S]   5/10: ¿A qué tipo de peligro se asocian los alérgenos en el sistema APPCC? -> C (attempt 1)
+[2026-11-01T01:13:31Z] [SY8944954S]   6/10: ¿Qué afirmación es correcta respecto a la limpieza de alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:31Z] [SY8944954S]   7/10: ¿Qué incluye un plan de control de alérgenos? -> D (attempt 1)
+[2026-11-01T01:13:32Z] [SY8944954S]   8/10: ¿Cuál es una medida adecuada para el almacenamiento seguro de materias primas con alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:32Z] [SY8944954S]   9/10: ¿Qué principio debe cumplir el etiquetado de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:33Z] [A31917609A] Unit 9 opened.
+[2026-11-01T01:13:33Z] [SY8944954S]   10/10: ¿Qué práctica es adecuada durante el servicio de un plato apto para personas con alergias? -> D (attempt 1)
+[2026-11-01T01:13:33Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:33Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:33Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:33Z] [SY8944954S] PROGRESS | SY8944954S | Unit 09 | corregir_clicked | 10 answers | 30/1001 units (3.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:35Z] [SY8944954S] UNIT START | 10 | 10/13 remaining
+[2026-11-01T01:13:36Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:13:36Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:36Z] [A31917609A] Test opened.
+[2026-11-01T01:13:36Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:36Z] [AY6677383Z]   1/10: ¿En qué fase del APPCC deben integrarse los alérgenos como peligro? -> C (attempt 1)
+[2026-11-01T01:13:36Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:37Z] [NZ4796614S]   1/10: ¿A qué tipo de peligro se asocian los alérgenos en el sistema APPCC? -> C (attempt 1)
+[2026-11-01T01:13:37Z] [SY8944954S] Expanding Unit 10...
+[2026-11-01T01:13:37Z] [AY6677383Z]   2/10: ¿Qué práctica es adecuada durante el servicio de un plato apto para personas con alergias? -> D (attempt 1)
+[2026-11-01T01:13:37Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:37Z] [SY8944954S] Opening 'Contenido unidad 10' from the dashboard...
+[2026-11-01T01:13:37Z] [SZ5271225K]   1/10: ¿Qué afirmación es correcta respecto a la limpieza de alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:37Z] [NZ4796614S]   2/10: ¿Cuál es el orden recomendado en procesos de elaboración? -> A (attempt 1)
+[2026-11-01T01:13:37Z] [AY6677383Z]   3/10: ¿Cuál es el orden recomendado en procesos de elaboración? -> A (attempt 1)
+[2026-11-01T01:13:38Z] [SZ5271225K]   2/10: ¿Qué incluye un plan de control de alérgenos? -> D (attempt 1)
+[2026-11-01T01:13:38Z] [NZ4796614S]   3/10: ¿Qué incluye un plan de control de alérgenos? -> D (attempt 1)
+[2026-11-01T01:13:38Z] [AY6677383Z]   4/10: ¿Qué incluye un plan de control de alérgenos? -> D (attempt 1)
+[2026-11-01T01:13:38Z] [SZ5271225K]   3/10: ¿Qué principio debe cumplir el etiquetado de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:38Z] [NZ4796614S]   4/10: ¿Qué principio debe cumplir el etiquetado de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:38Z] [AY6677383Z]   5/10: ¿A qué tipo de peligro se asocian los alérgenos en el sistema APPCC? -> C (attempt 1)
+[2026-11-01T01:13:39Z] [SZ5271225K]   4/10: ¿Qué práctica es adecuada durante el servicio de un plato apto para personas con alergias? -> D (attempt 1)
+[2026-11-01T01:13:39Z] [NZ4796614S]   5/10: ¿Qué documento es imprescindible solicitar al proveedor para verificar la presencia de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:39Z] [AY6677383Z]   6/10: ¿Qué documento es imprescindible solicitar al proveedor para verificar la presencia de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:39Z] [NZ4796614S]   6/10: ¿Qué elemento forma parte de un sistema de trazabilidad eficaz? -> C (attempt 1)
+[2026-11-01T01:13:39Z] [SZ5271225K]   5/10: ¿Cuál es el orden recomendado en procesos de elaboración? -> A (attempt 1)
+[2026-11-01T01:13:39Z] [AY6677383Z]   7/10: ¿Qué afirmación es correcta respecto a la limpieza de alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:40Z] [NZ4796614S]   7/10: ¿Qué afirmación es correcta respecto a la limpieza de alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:40Z] [SZ5271225K]   6/10: ¿Cuál es una medida adecuada para el almacenamiento seguro de materias primas con alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:40Z] [AY6677383Z]   8/10: ¿Qué elemento forma parte de un sistema de trazabilidad eficaz? -> C (attempt 1)
+[2026-11-01T01:13:40Z] [SZ5271225K]   7/10: ¿Qué elemento forma parte de un sistema de trazabilidad eficaz? -> C (attempt 1)
+[2026-11-01T01:13:40Z] [NZ4796614S]   8/10: ¿Cuál es una medida adecuada para el almacenamiento seguro de materias primas con alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:40Z] [AY6677383Z]   9/10: ¿Cuál es una medida adecuada para el almacenamiento seguro de materias primas con alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:41Z] [NZ4796614S]   9/10: ¿En qué fase del APPCC deben integrarse los alérgenos como peligro? -> C (attempt 1)
+[2026-11-01T01:13:41Z] [SZ5271225K]   8/10: ¿En qué fase del APPCC deben integrarse los alérgenos como peligro? -> C (attempt 1)
+[2026-11-01T01:13:41Z] [AY6677383Z]   10/10: ¿Qué principio debe cumplir el etiquetado de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:41Z] [NZ4796614S]   10/10: ¿Qué práctica es adecuada durante el servicio de un plato apto para personas con alergias? -> D (attempt 1)
+[2026-11-01T01:13:41Z] [SZ5271225K]   9/10: ¿A qué tipo de peligro se asocian los alérgenos en el sistema APPCC? -> C (attempt 1)
+[2026-11-01T01:13:41Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:41Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:41Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:41Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 09 | corregir_clicked | 10 answers | 31/1001 units (3.10%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:42Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:42Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:42Z] [SZ5271225K]   10/10: ¿Qué documento es imprescindible solicitar al proveedor para verificar la presencia de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:42Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:42Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 09 | corregir_clicked | 10 answers | 32/1001 units (3.20%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:42Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:42Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:42Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:42Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 09 | corregir_clicked | 10 answers | 33/1001 units (3.30%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:43Z] [SY8944954S] Unit 10 opened.
+[2026-11-01T01:13:43Z] [AY6677383Z] UNIT START | 10 | 10/13 remaining
+[2026-11-01T01:13:43Z] [NZ4796614S] UNIT START | 10 | 10/13 remaining
+[2026-11-01T01:13:44Z] [SZ5271225K] UNIT START | 10 | 10/13 remaining
+[2026-11-01T01:13:45Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:45Z] [AY6677383Z] Expanding Unit 10...
+[2026-11-01T01:13:45Z] [A31917609A]   1/10: ¿Qué principio debe cumplir el etiquetado de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:45Z] [NZ4796614S] Expanding Unit 10...
+[2026-11-01T01:13:45Z] [AY6677383Z] Opening 'Contenido unidad 10' from the dashboard...
+[2026-11-01T01:13:45Z] [A31917609A]   2/10: ¿Qué documento es imprescindible solicitar al proveedor para verificar la presencia de alérgenos? -> B (attempt 1)
+[2026-11-01T01:13:46Z] [NZ4796614S] Opening 'Contenido unidad 10' from the dashboard...
+[2026-11-01T01:13:46Z] [SZ5271225K] Expanding Unit 10...
+[2026-11-01T01:13:46Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:13:46Z] [A31917609A]   3/10: ¿Cuál es el orden recomendado en procesos de elaboración? -> A (attempt 1)
+[2026-11-01T01:13:46Z] [SZ5271225K] Opening 'Contenido unidad 10' from the dashboard...
+[2026-11-01T01:13:46Z] [SY8944954S] Test opened.
+[2026-11-01T01:13:46Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:46Z] [A31917609A]   4/10: ¿A qué tipo de peligro se asocian los alérgenos en el sistema APPCC? -> C (attempt 1)
+[2026-11-01T01:13:47Z] [A31917609A]   5/10: ¿Qué práctica es adecuada durante el servicio de un plato apto para personas con alergias? -> D (attempt 1)
+[2026-11-01T01:13:48Z] [A31917609A]   6/10: ¿En qué fase del APPCC deben integrarse los alérgenos como peligro? -> C (attempt 1)
+[2026-11-01T01:13:48Z] [A31917609A]   7/10: ¿Qué afirmación es correcta respecto a la limpieza de alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:49Z] [A31917609A]   8/10: ¿Qué incluye un plan de control de alérgenos? -> D (attempt 1)
+[2026-11-01T01:13:49Z] [A31917609A]   9/10: ¿Qué elemento forma parte de un sistema de trazabilidad eficaz? -> C (attempt 1)
+[2026-11-01T01:13:50Z] [A31917609A]   10/10: ¿Cuál es una medida adecuada para el almacenamiento seguro de materias primas con alérgenos? -> C (attempt 1)
+[2026-11-01T01:13:50Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:13:50Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:13:50Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:13:50Z] [A31917609A] PROGRESS | A31917609A | Unit 09 | corregir_clicked | 10 answers | 34/1001 units (3.40%) | 0/77 users finished | 0 for review
+[2026-11-01T01:13:51Z] [AY6677383Z] Unit 10 opened.
+[2026-11-01T01:13:52Z] [A31917609A] UNIT START | 10 | 10/13 remaining
+[2026-11-01T01:13:52Z] [NZ4796614S] Unit 10 opened.
+[2026-11-01T01:13:53Z] [SZ5271225K] Unit 10 opened.
+[2026-11-01T01:13:53Z] [A31917609A] Expanding Unit 10...
+[2026-11-01T01:13:54Z] [A31917609A] Opening 'Contenido unidad 10' from the dashboard...
+[2026-11-01T01:13:54Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:13:54Z] [AY6677383Z] Test opened.
+[2026-11-01T01:13:54Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:55Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:13:56Z] [NZ4796614S] Test opened.
+[2026-11-01T01:13:56Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:56Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:13:56Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:13:56Z] [SY8944954S]   1/10: ¿Cuáles de las siguientes situaciones se corresponden con condiciones del trabajo relacionadas con e -> A (attempt 1)
+[2026-11-01T01:13:56Z] [SZ5271225K] Test opened.
+[2026-11-01T01:13:56Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:13:57Z] [SY8944954S]   2/10: El Reglamento de los Servicios de Prevención, aprobado en el Real Decreto 39/1997. -> D (attempt 1)
+[2026-11-01T01:13:57Z] [SY8944954S]   3/10: La Ley 31/1995, de prevención de riesgos laborales: -> A (attempt 1)
+[2026-11-01T01:13:58Z] [SY8944954S]   4/10: Un accidente que tiene lugar en el camino de casa al trabajo: -> B (attempt 1)
+[2026-11-01T01:13:58Z] [SY8944954S]   5/10: Un riesgo laboral se define como: -> B (attempt 1)
+[2026-11-01T01:13:59Z] [SY8944954S]   6/10: En materia de prevención de riesgos laborales: -> C (attempt 1)
+[2026-11-01T01:14:00Z] [SY8944954S]   7/10: ¿Cuáles son las categorías en las que se suelen agrupar las condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:14:00Z] [A31917609A] Unit 10 opened.
+[2026-11-01T01:14:00Z] [SY8944954S]   8/10: Las consecuencias de los riesgos profesionales -> B (attempt 1)
+[2026-11-01T01:14:01Z] [SY8944954S]   9/10: Las condiciones de trabajo son: -> D (attempt 1)
+[2026-11-01T01:14:01Z] [SY8944954S]   10/10: La higiene industrial: -> D (attempt 1)
+[2026-11-01T01:14:02Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:02Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:02Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:02Z] [SY8944954S] PROGRESS | SY8944954S | Unit 10 | corregir_clicked | 10 answers | 35/1001 units (3.50%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:03Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:14:03Z] [SY8944954S] UNIT START | 11 | 11/13 remaining
+[2026-11-01T01:14:04Z] [A31917609A] Test opened.
+[2026-11-01T01:14:04Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:04Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:04Z] [AY6677383Z]   1/10: La Ley 31/1995, de prevención de riesgos laborales: -> A (attempt 1)
+[2026-11-01T01:14:04Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:04Z] [NZ4796614S]   1/10: Las consecuencias de los riesgos profesionales -> B (attempt 1)
+[2026-11-01T01:14:05Z] [AY6677383Z]   2/10: Un riesgo laboral se define como: -> B (attempt 1)
+[2026-11-01T01:14:05Z] [NZ4796614S]   2/10: El Reglamento de los Servicios de Prevención, aprobado en el Real Decreto 39/1997. -> D (attempt 1)
+[2026-11-01T01:14:05Z] [SY8944954S] Expanding Unit 11...
+[2026-11-01T01:14:05Z] [AY6677383Z]   3/10: La higiene industrial: -> D (attempt 1)
+[2026-11-01T01:14:05Z] [NZ4796614S]   3/10: Un accidente que tiene lugar en el camino de casa al trabajo: -> B (attempt 1)
+[2026-11-01T01:14:06Z] [SY8944954S] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-01T01:14:06Z] [AY6677383Z]   4/10: En materia de prevención de riesgos laborales: -> C (attempt 1)
+[2026-11-01T01:14:06Z] [NZ4796614S]   4/10: Las condiciones de trabajo son: -> D (attempt 1)
+[2026-11-01T01:14:06Z] [AY6677383Z]   5/10: Las condiciones de trabajo son: -> D (attempt 1)
+[2026-11-01T01:14:06Z] [NZ4796614S]   5/10: Un riesgo laboral se define como: -> B (attempt 1)
+[2026-11-01T01:14:06Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:07Z] [SZ5271225K]   1/10: Un riesgo laboral se define como: -> B (attempt 1)
+[2026-11-01T01:14:07Z] [AY6677383Z]   6/10: ¿Cuáles de las siguientes situaciones se corresponden con condiciones del trabajo relacionadas con e -> A (attempt 1)
+[2026-11-01T01:14:07Z] [NZ4796614S]   6/10: ¿Cuáles de las siguientes situaciones se corresponden con condiciones del trabajo relacionadas con e -> A (attempt 1)
+[2026-11-01T01:14:07Z] [SZ5271225K]   2/10: La higiene industrial: -> D (attempt 1)
+[2026-11-01T01:14:07Z] [AY6677383Z]   7/10: ¿Cuáles son las categorías en las que se suelen agrupar las condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:14:07Z] [NZ4796614S]   7/10: La higiene industrial: -> D (attempt 1)
+[2026-11-01T01:14:08Z] [AY6677383Z]   8/10: Las consecuencias de los riesgos profesionales -> B (attempt 1)
+[2026-11-01T01:14:08Z] [SZ5271225K]   3/10: El Reglamento de los Servicios de Prevención, aprobado en el Real Decreto 39/1997. -> D (attempt 1)
+[2026-11-01T01:14:08Z] [NZ4796614S]   8/10: En materia de prevención de riesgos laborales: -> C (attempt 1)
+[2026-11-01T01:14:08Z] [AY6677383Z]   9/10: El Reglamento de los Servicios de Prevención, aprobado en el Real Decreto 39/1997. -> D (attempt 1)
+[2026-11-01T01:14:08Z] [SZ5271225K]   4/10: Las condiciones de trabajo son: -> D (attempt 1)
+[2026-11-01T01:14:08Z] [NZ4796614S]   9/10: ¿Cuáles son las categorías en las que se suelen agrupar las condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:14:09Z] [SZ5271225K]   5/10: En materia de prevención de riesgos laborales: -> C (attempt 1)
+[2026-11-01T01:14:09Z] [AY6677383Z]   10/10: Un accidente que tiene lugar en el camino de casa al trabajo: -> B (attempt 1)
+[2026-11-01T01:14:09Z] [NZ4796614S]   10/10: La Ley 31/1995, de prevención de riesgos laborales: -> A (attempt 1)
+[2026-11-01T01:14:09Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:09Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:09Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:09Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 10 | corregir_clicked | 10 answers | 36/1001 units (3.60%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:09Z] [SZ5271225K]   6/10: La Ley 31/1995, de prevención de riesgos laborales: -> A (attempt 1)
+[2026-11-01T01:14:09Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:09Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:10Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:10Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 10 | corregir_clicked | 10 answers | 37/1001 units (3.70%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:10Z] [SZ5271225K]   7/10: ¿Cuáles de las siguientes situaciones se corresponden con condiciones del trabajo relacionadas con e -> A (attempt 1)
+[2026-11-01T01:14:10Z] [SZ5271225K]   8/10: ¿Cuáles son las categorías en las que se suelen agrupar las condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:14:11Z] [AY6677383Z] UNIT START | 11 | 11/13 remaining
+[2026-11-01T01:14:11Z] [SZ5271225K]   9/10: Las consecuencias de los riesgos profesionales -> B (attempt 1)
+[2026-11-01T01:14:11Z] [NZ4796614S] UNIT START | 11 | 11/13 remaining
+[2026-11-01T01:14:12Z] [SZ5271225K]   10/10: Un accidente que tiene lugar en el camino de casa al trabajo: -> B (attempt 1)
+[2026-11-01T01:14:12Z] [SY8944954S] Unit 11 opened.
+[2026-11-01T01:14:12Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:12Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:12Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:12Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 10 | corregir_clicked | 10 answers | 38/1001 units (3.80%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:12Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:12Z] [A31917609A]   1/10: La higiene industrial: -> D (attempt 1)
+[2026-11-01T01:14:13Z] [AY6677383Z] Expanding Unit 11...
+[2026-11-01T01:14:13Z] [NZ4796614S] Expanding Unit 11...
+[2026-11-01T01:14:13Z] [A31917609A]   2/10: Un riesgo laboral se define como: -> B (attempt 1)
+[2026-11-01T01:14:13Z] [AY6677383Z] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-01T01:14:13Z] [NZ4796614S] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-01T01:14:14Z] [A31917609A]   3/10: La Ley 31/1995, de prevención de riesgos laborales: -> A (attempt 1)
+[2026-11-01T01:14:14Z] [SZ5271225K] UNIT START | 11 | 11/13 remaining
+[2026-11-01T01:14:14Z] [A31917609A]   4/10: ¿Cuáles de las siguientes situaciones se corresponden con condiciones del trabajo relacionadas con e -> A (attempt 1)
+[2026-11-01T01:14:15Z] [A31917609A]   5/10: El Reglamento de los Servicios de Prevención, aprobado en el Real Decreto 39/1997. -> D (attempt 1)
+[2026-11-01T01:14:15Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:14:15Z] [SY8944954S] Test opened.
+[2026-11-01T01:14:15Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:15Z] [A31917609A]   6/10: Las condiciones de trabajo son: -> D (attempt 1)
+[2026-11-01T01:14:15Z] [SZ5271225K] Expanding Unit 11...
+[2026-11-01T01:14:16Z] [A31917609A]   7/10: ¿Cuáles son las categorías en las que se suelen agrupar las condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:14:16Z] [SZ5271225K] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-01T01:14:16Z] [A31917609A]   8/10: Un accidente que tiene lugar en el camino de casa al trabajo: -> B (attempt 1)
+[2026-11-01T01:14:17Z] [A31917609A]   9/10: En materia de prevención de riesgos laborales: -> C (attempt 1)
+[2026-11-01T01:14:17Z] [A31917609A]   10/10: Las consecuencias de los riesgos profesionales -> B (attempt 1)
+[2026-11-01T01:14:18Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:18Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:18Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:18Z] [A31917609A] PROGRESS | A31917609A | Unit 10 | corregir_clicked | 10 answers | 39/1001 units (3.90%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:19Z] [AY6677383Z] Unit 11 opened.
+[2026-11-01T01:14:19Z] [A31917609A] UNIT START | 11 | 11/13 remaining
+[2026-11-01T01:14:19Z] [NZ4796614S] Unit 11 opened.
+[2026-11-01T01:14:21Z] [A31917609A] Expanding Unit 11...
+[2026-11-01T01:14:21Z] [SZ5271225K] Unit 11 opened.
+[2026-11-01T01:14:21Z] [A31917609A] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-01T01:14:22Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:14:22Z] [AY6677383Z] Test opened.
+[2026-11-01T01:14:22Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:23Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:14:23Z] [NZ4796614S] Test opened.
+[2026-11-01T01:14:23Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:24Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:25Z] [SY8944954S]   1/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-01T01:14:25Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:14:25Z] [SZ5271225K] Test opened.
+[2026-11-01T01:14:25Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:25Z] [SY8944954S]   2/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-01T01:14:26Z] [SY8944954S]   3/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-01T01:14:26Z] [SY8944954S]   4/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-01T01:14:27Z] [SY8944954S]   5/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-01T01:14:27Z] [SY8944954S]   6/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-01T01:14:28Z] [A31917609A] Unit 11 opened.
+[2026-11-01T01:14:28Z] [SY8944954S]   7/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-01T01:14:28Z] [SY8944954S]   8/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-01T01:14:29Z] [SY8944954S]   9/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-01T01:14:30Z] [SY8944954S]   10/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-01T01:14:30Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:30Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:30Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:30Z] [SY8944954S] PROGRESS | SY8944954S | Unit 11 | corregir_clicked | 10 answers | 40/1001 units (4.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:31Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:14:31Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:31Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:31Z] [AY6677383Z]   1/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-01T01:14:31Z] [A31917609A] Test opened.
+[2026-11-01T01:14:31Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:32Z] [SY8944954S] UNIT START | 12 | 12/13 remaining
+[2026-11-01T01:14:32Z] [AY6677383Z]   2/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-01T01:14:32Z] [NZ4796614S]   1/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-01T01:14:32Z] [AY6677383Z]   3/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-01T01:14:32Z] [NZ4796614S]   2/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-01T01:14:33Z] [NZ4796614S]   3/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-01T01:14:33Z] [AY6677383Z]   4/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-01T01:14:33Z] [SY8944954S] Expanding Unit 12...
+[2026-11-01T01:14:34Z] [AY6677383Z]   5/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-01T01:14:34Z] [NZ4796614S]   4/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-01T01:14:34Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:34Z] [SY8944954S] Opening 'Contenido unidad 12' from the dashboard...
+[2026-11-01T01:14:34Z] [SZ5271225K]   1/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-01T01:14:34Z] [NZ4796614S]   5/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-01T01:14:34Z] [AY6677383Z]   6/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-01T01:14:34Z] [SZ5271225K]   2/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-01T01:14:35Z] [NZ4796614S]   6/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-01T01:14:35Z] [AY6677383Z]   7/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-01T01:14:35Z] [SZ5271225K]   3/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-01T01:14:35Z] [AY6677383Z]   8/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-01T01:14:35Z] [NZ4796614S]   7/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-01T01:14:35Z] [SZ5271225K]   4/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-01T01:14:36Z] [NZ4796614S]   8/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-01T01:14:36Z] [AY6677383Z]   9/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-01T01:14:36Z] [SZ5271225K]   5/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-01T01:14:36Z] [NZ4796614S]   9/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-01T01:14:36Z] [AY6677383Z]   10/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-01T01:14:37Z] [SZ5271225K]   6/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-01T01:14:37Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:37Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:37Z] [NZ4796614S]   10/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-01T01:14:37Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:37Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 11 | corregir_clicked | 10 answers | 41/1001 units (4.10%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:37Z] [SZ5271225K]   7/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-01T01:14:37Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:37Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:37Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:37Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 11 | corregir_clicked | 10 answers | 42/1001 units (4.20%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:38Z] [SZ5271225K]   8/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-01T01:14:38Z] [SZ5271225K]   9/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-01T01:14:38Z] [AY6677383Z] UNIT START | 12 | 12/13 remaining
+[2026-11-01T01:14:39Z] [SZ5271225K]   10/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-01T01:14:39Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:39Z] [NZ4796614S] UNIT START | 12 | 12/13 remaining
+[2026-11-01T01:14:39Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:39Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:39Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:39Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 11 | corregir_clicked | 10 answers | 43/1001 units (4.30%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:40Z] [SY8944954S] Unit 12 opened.
+[2026-11-01T01:14:40Z] [A31917609A]   1/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-01T01:14:40Z] [AY6677383Z] Expanding Unit 12...
+[2026-11-01T01:14:40Z] [A31917609A]   2/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-01T01:14:41Z] [NZ4796614S] Expanding Unit 12...
+[2026-11-01T01:14:41Z] [AY6677383Z] Opening 'Contenido unidad 12' from the dashboard...
+[2026-11-01T01:14:41Z] [SZ5271225K] UNIT START | 12 | 12/13 remaining
+[2026-11-01T01:14:41Z] [A31917609A]   3/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-01T01:14:41Z] [NZ4796614S] Opening 'Contenido unidad 12' from the dashboard...
+[2026-11-01T01:14:41Z] [A31917609A]   4/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-01T01:14:42Z] [A31917609A]   5/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-01T01:14:43Z] [A31917609A]   6/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-01T01:14:43Z] [SZ5271225K] Expanding Unit 12...
+[2026-11-01T01:14:43Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:14:43Z] [SZ5271225K] Opening 'Contenido unidad 12' from the dashboard...
+[2026-11-01T01:14:43Z] [A31917609A]   7/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-01T01:14:43Z] [SY8944954S] Test opened.
+[2026-11-01T01:14:43Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:44Z] [A31917609A]   8/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-01T01:14:44Z] [A31917609A]   9/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-01T01:14:45Z] [A31917609A]   10/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-01T01:14:45Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:45Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:45Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:45Z] [A31917609A] PROGRESS | A31917609A | Unit 11 | corregir_clicked | 10 answers | 44/1001 units (4.40%) | 0/77 users finished | 0 for review
+[2026-11-01T01:14:47Z] [A31917609A] UNIT START | 12 | 12/13 remaining
+[2026-11-01T01:14:47Z] [AY6677383Z] Unit 12 opened.
+[2026-11-01T01:14:47Z] [NZ4796614S] Unit 12 opened.
+[2026-11-01T01:14:48Z] [SZ5271225K] Unit 12 opened.
+[2026-11-01T01:14:49Z] [A31917609A] Expanding Unit 12...
+[2026-11-01T01:14:49Z] [A31917609A] Opening 'Contenido unidad 12' from the dashboard...
+[2026-11-01T01:14:50Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:14:51Z] [AY6677383Z] Test opened.
+[2026-11-01T01:14:51Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:51Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:14:51Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:14:51Z] [SZ5271225K] Test opened.
+[2026-11-01T01:14:51Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:51Z] [NZ4796614S] Test opened.
+[2026-11-01T01:14:51Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:53Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:14:53Z] [SY8944954S]   1/10: ¿Algunas de las causas de la insatisfacción laboral pueden ser? -> A (attempt 1)
+[2026-11-01T01:14:53Z] [SY8944954S]   2/10: ¿El mantenimiento del orden y la limpieza puede evitar daños por? -> C (attempt 1)
+[2026-11-01T01:14:54Z] [SY8944954S]   3/10: ¿El origen de la carga de trabajo puede estar en algunas de las siguientes condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:14:54Z] [A31917609A] Unit 12 opened.
+[2026-11-01T01:14:54Z] [SY8944954S]   4/10: En trabajo sentado con pantallas, ¿qué medidas deben adoptarse? -> D (attempt 1)
+[2026-11-01T01:14:55Z] [SY8944954S]   5/10: ¿Una iluminación adecuada puede evitar daños derivados de? -> B (attempt 1)
+[2026-11-01T01:14:55Z] [SY8944954S]   6/10: ¿Cuáles son las causas principales de las situaciones de riesgo relacionadas con las condiciones de  -> C (attempt 1)
+[2026-11-01T01:14:56Z] [SY8944954S]   7/10: ¿Algunas medidas preventivas que puede adoptar el personal respecto a los lugares de trabajo son? -> D (attempt 1)
+[2026-11-01T01:14:57Z] [SY8944954S]   8/10: Según la guía del INSST, ¿es usuaria de pantallas de visualización de datos una persona que...? -> A (attempt 1)
+[2026-11-01T01:14:57Z] [SY8944954S]   9/10: ¿Algunas situaciones de riesgo de tareas administrativas y de atención al público relacionadas con l -> A (attempt 1)
+[2026-11-01T01:14:58Z] [SY8944954S]   10/10: Cuando se trabaja mucho tiempo de pie, ¿qué medidas deben tenerse en cuenta? -> C (attempt 1)
+[2026-11-01T01:14:58Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:14:58Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:14:58Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:14:58Z] [A31917609A] Test opened.
+[2026-11-01T01:14:58Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:14:58Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:14:58Z] [SY8944954S] PROGRESS | SY8944954S | Unit 12 | corregir_clicked | 10 answers | 45/1001 units (4.50%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:00Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:15:00Z] [SY8944954S] UNIT START | 13 | 13/13 remaining
+[2026-11-01T01:15:01Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:15:01Z] [AY6677383Z]   1/10: En trabajo sentado con pantallas, ¿qué medidas deben adoptarse? -> D (attempt 1)
+[2026-11-01T01:15:01Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:15:01Z] [NZ4796614S]   1/10: Según la guía del INSST, ¿es usuaria de pantallas de visualización de datos una persona que...? -> A (attempt 1)
+[2026-11-01T01:15:01Z] [AY6677383Z]   2/10: ¿El origen de la carga de trabajo puede estar en algunas de las siguientes condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:15:01Z] [SZ5271225K]   1/10: ¿Cuáles son las causas principales de las situaciones de riesgo relacionadas con las condiciones de  -> C (attempt 1)
+[2026-11-01T01:15:01Z] [SY8944954S] Expanding Unit 13...
+[2026-11-01T01:15:02Z] [NZ4796614S]   2/10: ¿Algunas situaciones de riesgo de tareas administrativas y de atención al público relacionadas con l -> A (attempt 1)
+[2026-11-01T01:15:02Z] [AY6677383Z]   3/10: ¿Algunas de las causas de la insatisfacción laboral pueden ser? -> A (attempt 1)
+[2026-11-01T01:15:02Z] [SY8944954S] Opening 'Contenido unidad 13' from the dashboard...
+[2026-11-01T01:15:02Z] [SZ5271225K]   2/10: ¿Algunas situaciones de riesgo de tareas administrativas y de atención al público relacionadas con l -> A (attempt 1)
+[2026-11-01T01:15:02Z] [NZ4796614S]   3/10: ¿El origen de la carga de trabajo puede estar en algunas de las siguientes condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:15:02Z] [AY6677383Z]   4/10: ¿Algunas medidas preventivas que puede adoptar el personal respecto a los lugares de trabajo son? -> D (attempt 1)
+[2026-11-01T01:15:02Z] [SZ5271225K]   3/10: ¿Algunas medidas preventivas que puede adoptar el personal respecto a los lugares de trabajo son? -> D (attempt 1)
+[2026-11-01T01:15:03Z] [NZ4796614S]   4/10: ¿Algunas medidas preventivas que puede adoptar el personal respecto a los lugares de trabajo son? -> D (attempt 1)
+[2026-11-01T01:15:03Z] [AY6677383Z]   5/10: ¿Algunas situaciones de riesgo de tareas administrativas y de atención al público relacionadas con l -> A (attempt 1)
+[2026-11-01T01:15:03Z] [SZ5271225K]   4/10: ¿El mantenimiento del orden y la limpieza puede evitar daños por? -> C (attempt 1)
+[2026-11-01T01:15:03Z] [NZ4796614S]   5/10: En trabajo sentado con pantallas, ¿qué medidas deben adoptarse? -> D (attempt 1)
+[2026-11-01T01:15:03Z] [AY6677383Z]   6/10: ¿El mantenimiento del orden y la limpieza puede evitar daños por? -> C (attempt 1)
+[2026-11-01T01:15:04Z] [SZ5271225K]   5/10: ¿Algunas de las causas de la insatisfacción laboral pueden ser? -> A (attempt 1)
+[2026-11-01T01:15:04Z] [NZ4796614S]   6/10: ¿Cuáles son las causas principales de las situaciones de riesgo relacionadas con las condiciones de  -> C (attempt 1)
+[2026-11-01T01:15:04Z] [AY6677383Z]   7/10: ¿Una iluminación adecuada puede evitar daños derivados de? -> B (attempt 1)
+[2026-11-01T01:15:04Z] [SZ5271225K]   6/10: En trabajo sentado con pantallas, ¿qué medidas deben adoptarse? -> D (attempt 1)
+[2026-11-01T01:15:04Z] [NZ4796614S]   7/10: ¿Una iluminación adecuada puede evitar daños derivados de? -> B (attempt 1)
+[2026-11-01T01:15:04Z] [AY6677383Z]   8/10: ¿Cuáles son las causas principales de las situaciones de riesgo relacionadas con las condiciones de  -> C (attempt 1)
+[2026-11-01T01:15:05Z] [SZ5271225K]   7/10: Cuando se trabaja mucho tiempo de pie, ¿qué medidas deben tenerse en cuenta? -> C (attempt 1)
+[2026-11-01T01:15:05Z] [NZ4796614S]   8/10: ¿El mantenimiento del orden y la limpieza puede evitar daños por? -> C (attempt 1)
+[2026-11-01T01:15:05Z] [AY6677383Z]   9/10: Según la guía del INSST, ¿es usuaria de pantallas de visualización de datos una persona que...? -> A (attempt 1)
+[2026-11-01T01:15:05Z] [SZ5271225K]   8/10: Según la guía del INSST, ¿es usuaria de pantallas de visualización de datos una persona que...? -> A (attempt 1)
+[2026-11-01T01:15:05Z] [NZ4796614S]   9/10: ¿Algunas de las causas de la insatisfacción laboral pueden ser? -> A (attempt 1)
+[2026-11-01T01:15:05Z] [AY6677383Z]   10/10: Cuando se trabaja mucho tiempo de pie, ¿qué medidas deben tenerse en cuenta? -> C (attempt 1)
+[2026-11-01T01:15:06Z] [SZ5271225K]   9/10: ¿El origen de la carga de trabajo puede estar en algunas de las siguientes condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:15:06Z] [NZ4796614S]   10/10: Cuando se trabaja mucho tiempo de pie, ¿qué medidas deben tenerse en cuenta? -> C (attempt 1)
+[2026-11-01T01:15:06Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:15:06Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:15:06Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:15:06Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 12 | corregir_clicked | 10 answers | 46/1001 units (4.60%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:06Z] [SZ5271225K]   10/10: ¿Una iluminación adecuada puede evitar daños derivados de? -> B (attempt 1)
+[2026-11-01T01:15:06Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:15:06Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:15:06Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:15:07Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 12 | corregir_clicked | 10 answers | 47/1001 units (4.70%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:07Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:15:07Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:15:07Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:15:07Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 12 | corregir_clicked | 10 answers | 48/1001 units (4.80%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:07Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:15:08Z] [AY6677383Z] UNIT START | 13 | 13/13 remaining
+[2026-11-01T01:15:08Z] [A31917609A]   1/10: ¿Algunas medidas preventivas que puede adoptar el personal respecto a los lugares de trabajo son? -> D (attempt 1)
+[2026-11-01T01:15:08Z] [NZ4796614S] UNIT START | 13 | 13/13 remaining
+[2026-11-01T01:15:08Z] [A31917609A]   2/10: En trabajo sentado con pantallas, ¿qué medidas deben adoptarse? -> D (attempt 1)
+[2026-11-01T01:15:08Z] [SY8944954S] Unit 13 opened.
+[2026-11-01T01:15:08Z] [SZ5271225K] UNIT START | 13 | 13/13 remaining
+[2026-11-01T01:15:09Z] [A31917609A]   3/10: ¿El origen de la carga de trabajo puede estar en algunas de las siguientes condiciones de trabajo? -> B (attempt 1)
+[2026-11-01T01:15:09Z] [A31917609A]   4/10: ¿Cuáles son las causas principales de las situaciones de riesgo relacionadas con las condiciones de  -> C (attempt 1)
+[2026-11-01T01:15:09Z] [AY6677383Z] Expanding Unit 13...
+[2026-11-01T01:15:10Z] [AY6677383Z] Opening 'Contenido unidad 13' from the dashboard...
+[2026-11-01T01:15:10Z] [NZ4796614S] Expanding Unit 13...
+[2026-11-01T01:15:10Z] [A31917609A]   5/10: ¿El mantenimiento del orden y la limpieza puede evitar daños por? -> C (attempt 1)
+[2026-11-01T01:15:10Z] [SZ5271225K] Expanding Unit 13...
+[2026-11-01T01:15:10Z] [NZ4796614S] Opening 'Contenido unidad 13' from the dashboard...
+[2026-11-01T01:15:10Z] [A31917609A]   6/10: Según la guía del INSST, ¿es usuaria de pantallas de visualización de datos una persona que...? -> A (attempt 1)
+[2026-11-01T01:15:10Z] [SZ5271225K] Opening 'Contenido unidad 13' from the dashboard...
+[2026-11-01T01:15:11Z] [A31917609A]   7/10: ¿Una iluminación adecuada puede evitar daños derivados de? -> B (attempt 1)
+[2026-11-01T01:15:11Z] [SY8944954S] Opening right-side Índice...
+[2026-11-01T01:15:11Z] [A31917609A]   8/10: ¿Algunas situaciones de riesgo de tareas administrativas y de atención al público relacionadas con l -> A (attempt 1)
+[2026-11-01T01:15:12Z] [SY8944954S] Test opened.
+[2026-11-01T01:15:12Z] [SY8944954S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:15:12Z] [A31917609A]   9/10: Cuando se trabaja mucho tiempo de pie, ¿qué medidas deben tenerse en cuenta? -> C (attempt 1)
+[2026-11-01T01:15:13Z] [A31917609A]   10/10: ¿Algunas de las causas de la insatisfacción laboral pueden ser? -> A (attempt 1)
+[2026-11-01T01:15:13Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:15:13Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:15:13Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:15:13Z] [A31917609A] PROGRESS | A31917609A | Unit 12 | corregir_clicked | 10 answers | 49/1001 units (4.90%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:15Z] [A31917609A] UNIT START | 13 | 13/13 remaining
+[2026-11-01T01:15:15Z] [AY6677383Z] Unit 13 opened.
+[2026-11-01T01:15:16Z] [A31917609A] Expanding Unit 13...
+[2026-11-01T01:15:17Z] [SZ5271225K] Unit 13 opened.
+[2026-11-01T01:15:17Z] [NZ4796614S] Unit 13 opened.
+[2026-11-01T01:15:17Z] [A31917609A] Opening 'Contenido unidad 13' from the dashboard...
+[2026-11-01T01:15:19Z] [AY6677383Z] Opening right-side Índice...
+[2026-11-01T01:15:20Z] [SZ5271225K] Opening right-side Índice...
+[2026-11-01T01:15:20Z] [NZ4796614S] Opening right-side Índice...
+[2026-11-01T01:15:20Z] [SZ5271225K] Test opened.
+[2026-11-01T01:15:20Z] [SZ5271225K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:15:20Z] [NZ4796614S] Test opened.
+[2026-11-01T01:15:20Z] [NZ4796614S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:15:20Z] [AY6677383Z] Test opened.
+[2026-11-01T01:15:20Z] [AY6677383Z] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:15:21Z] [SY8944954S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:15:21Z] [SY8944954S]   1/10: La formación de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:22Z] [SY8944954S]   2/10: Una empresa debe constituir un Servicio de Prevención Propio: -> A (attempt 1)
+[2026-11-01T01:15:22Z] [A31917609A] Unit 13 opened.
+[2026-11-01T01:15:22Z] [SY8944954S]   3/10: El organismo que realiza las funciones de vigilancia del cumplimiento de la normativa de prevención  -> C (attempt 1)
+[2026-11-01T01:15:23Z] [SY8944954S]   4/10: Las Comunidades Autónomas tienen funciones en materia de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:23Z] [SY8944954S]   5/10: Todas las actividades preventivas pueden ser asumidas por personal propio de la empresa -> C (attempt 1)
+[2026-11-01T01:15:24Z] [SY8944954S]   6/10: Para realizar la evaluación de riesgos -> B (attempt 1)
+[2026-11-01T01:15:25Z] [SY8944954S]   7/10: Para la implantación del sistema de prevención de riesgos laborales en la empresa -> C (attempt 1)
+[2026-11-01T01:15:25Z] [SY8944954S]   8/10: La integración de la prevención de riesgos laborales -> A (attempt 1)
+[2026-11-01T01:15:26Z] [A31917609A] Opening right-side Índice...
+[2026-11-01T01:15:26Z] [SY8944954S]   9/10: La planificación de la actividad preventiva -> D (attempt 1)
+[2026-11-01T01:15:26Z] [A31917609A] Test opened.
+[2026-11-01T01:15:26Z] [A31917609A] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:15:26Z] [SY8944954S]   10/10: El responsable de una empresa puede asumir la organización preventiva personalmente cuando: -> D (attempt 1)
+[2026-11-01T01:15:27Z] [SY8944954S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:15:27Z] [SY8944954S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:15:27Z] [SY8944954S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:15:27Z] [SY8944954S] PROGRESS | SY8944954S | Unit 13 | corregir_clicked | 10 answers | 50/1001 units (5.00%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:28Z] [SY8944954S] ACCOUNT DONE | Global 50/1001 (5.00%).
+[2026-11-01T01:15:28Z] [manager] BOOTSTRAP 7/77 | AY3333971C
+[2026-11-01T01:15:28Z] [AY3333971C] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:15:29Z] [NZ4796614S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:15:30Z] [NZ4796614S]   1/10: Para la implantación del sistema de prevención de riesgos laborales en la empresa -> C (attempt 1)
+[2026-11-01T01:15:30Z] [AY6677383Z] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:15:30Z] [AY6677383Z]   1/10: El organismo que realiza las funciones de vigilancia del cumplimiento de la normativa de prevención  -> C (attempt 1)
+[2026-11-01T01:15:30Z] [NZ4796614S]   2/10: Para realizar la evaluación de riesgos -> B (attempt 1)
+[2026-11-01T01:15:30Z] [SZ5271225K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:15:30Z] [SZ5271225K]   1/10: El responsable de una empresa puede asumir la organización preventiva personalmente cuando: -> D (attempt 1)
+[2026-11-01T01:15:30Z] [AY6677383Z]   2/10: La integración de la prevención de riesgos laborales -> A (attempt 1)
+[2026-11-01T01:15:31Z] [NZ4796614S]   3/10: Una empresa debe constituir un Servicio de Prevención Propio: -> A (attempt 1)
+[2026-11-01T01:15:31Z] [SZ5271225K]   2/10: Para realizar la evaluación de riesgos -> B (attempt 1)
+[2026-11-01T01:15:31Z] [AY6677383Z]   3/10: Para realizar la evaluación de riesgos -> B (attempt 1)
+[2026-11-01T01:15:31Z] [NZ4796614S]   4/10: La formación de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:32Z] [SZ5271225K]   3/10: Para la implantación del sistema de prevención de riesgos laborales en la empresa -> C (attempt 1)
+[2026-11-01T01:15:32Z] [AY6677383Z]   4/10: Las Comunidades Autónomas tienen funciones en materia de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:32Z] [NZ4796614S]   5/10: La integración de la prevención de riesgos laborales -> A (attempt 1)
+[2026-11-01T01:15:32Z] [SZ5271225K]   4/10: La formación de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:32Z] [AY6677383Z]   5/10: Todas las actividades preventivas pueden ser asumidas por personal propio de la empresa -> C (attempt 1)
+[2026-11-01T01:15:32Z] [NZ4796614S]   6/10: Las Comunidades Autónomas tienen funciones en materia de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:33Z] [SZ5271225K]   5/10: La planificación de la actividad preventiva -> D (attempt 1)
+[2026-11-01T01:15:33Z] [AY6677383Z]   6/10: Una empresa debe constituir un Servicio de Prevención Propio: -> A (attempt 1)
+[2026-11-01T01:15:33Z] [NZ4796614S]   7/10: La planificación de la actividad preventiva -> D (attempt 1)
+[2026-11-01T01:15:33Z] [SZ5271225K]   6/10: Una empresa debe constituir un Servicio de Prevención Propio: -> A (attempt 1)
+[2026-11-01T01:15:33Z] [AY6677383Z]   7/10: Para la implantación del sistema de prevención de riesgos laborales en la empresa -> C (attempt 1)
+[2026-11-01T01:15:33Z] [NZ4796614S]   8/10: Todas las actividades preventivas pueden ser asumidas por personal propio de la empresa -> C (attempt 1)
+[2026-11-01T01:15:34Z] [SZ5271225K]   7/10: El organismo que realiza las funciones de vigilancia del cumplimiento de la normativa de prevención  -> C (attempt 1)
+[2026-11-01T01:15:34Z] [AY6677383Z]   8/10: La planificación de la actividad preventiva -> D (attempt 1)
+[2026-11-01T01:15:34Z] [NZ4796614S]   9/10: El responsable de una empresa puede asumir la organización preventiva personalmente cuando: -> D (attempt 1)
+[2026-11-01T01:15:34Z] [SZ5271225K]   8/10: Todas las actividades preventivas pueden ser asumidas por personal propio de la empresa -> C (attempt 1)
+[2026-11-01T01:15:34Z] [AY6677383Z]   9/10: El responsable de una empresa puede asumir la organización preventiva personalmente cuando: -> D (attempt 1)
+[2026-11-01T01:15:34Z] [NZ4796614S]   10/10: El organismo que realiza las funciones de vigilancia del cumplimiento de la normativa de prevención  -> C (attempt 1)
+[2026-11-01T01:15:35Z] [SZ5271225K]   9/10: La integración de la prevención de riesgos laborales -> A (attempt 1)
+[2026-11-01T01:15:35Z] [NZ4796614S] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:15:35Z] [NZ4796614S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:15:35Z] [AY6677383Z]   10/10: La formación de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:35Z] [NZ4796614S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:15:35Z] [NZ4796614S] PROGRESS | NZ4796614S | Unit 13 | corregir_clicked | 10 answers | 51/1001 units (5.09%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:35Z] [A31917609A] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:15:35Z] [AY6677383Z] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:15:35Z] [AY6677383Z] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:15:35Z] [SZ5271225K]   10/10: Las Comunidades Autónomas tienen funciones en materia de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:35Z] [A31917609A]   1/10: Para la implantación del sistema de prevención de riesgos laborales en la empresa -> C (attempt 1)
+[2026-11-01T01:15:35Z] [AY6677383Z] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:15:35Z] [AY6677383Z] PROGRESS | AY6677383Z | Unit 13 | corregir_clicked | 10 answers | 52/1001 units (5.19%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:36Z] [SZ5271225K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:15:36Z] [SZ5271225K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:15:36Z] [SZ5271225K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:15:36Z] [SZ5271225K] PROGRESS | SZ5271225K | Unit 13 | corregir_clicked | 10 answers | 53/1001 units (5.29%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:36Z] [A31917609A]   2/10: Las Comunidades Autónomas tienen funciones en materia de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:36Z] [NZ4796614S] ACCOUNT DONE | Global 53/1001 (5.29%).
+[2026-11-01T01:15:37Z] [manager] BOOTSTRAP 8/77 | AX5554093F
+[2026-11-01T01:15:37Z] [AX5554093F] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:15:37Z] [A31917609A]   3/10: Una empresa debe constituir un Servicio de Prevención Propio: -> A (attempt 1)
+[2026-11-01T01:15:37Z] [AY6677383Z] ACCOUNT DONE | Global 53/1001 (5.29%).
+[2026-11-01T01:15:37Z] [manager] BOOTSTRAP 9/77 | SX4461560C
+[2026-11-01T01:15:37Z] [SX4461560C] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:15:37Z] [A31917609A]   4/10: La planificación de la actividad preventiva -> D (attempt 1)
+[2026-11-01T01:15:37Z] [SZ5271225K] ACCOUNT DONE | Global 53/1001 (5.29%).
+[2026-11-01T01:15:38Z] [manager] BOOTSTRAP 10/77 | SY9118104K
+[2026-11-01T01:15:38Z] [SY9118104K] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:15:38Z] [A31917609A]   5/10: Para realizar la evaluación de riesgos -> B (attempt 1)
+[2026-11-01T01:15:38Z] [A31917609A]   6/10: El organismo que realiza las funciones de vigilancia del cumplimiento de la normativa de prevención  -> C (attempt 1)
+[2026-11-01T01:15:39Z] [A31917609A]   7/10: La integración de la prevención de riesgos laborales -> A (attempt 1)
+[2026-11-01T01:15:39Z] [A31917609A]   8/10: Todas las actividades preventivas pueden ser asumidas por personal propio de la empresa -> C (attempt 1)
+[2026-11-01T01:15:40Z] [A31917609A]   9/10: La formación de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-01T01:15:40Z] [A31917609A]   10/10: El responsable de una empresa puede asumir la organización preventiva personalmente cuando: -> D (attempt 1)
+[2026-11-01T01:15:41Z] [A31917609A] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:15:41Z] [A31917609A] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:15:41Z] [A31917609A] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:15:41Z] [A31917609A] PROGRESS | A31917609A | Unit 13 | corregir_clicked | 10 answers | 54/1001 units (5.39%) | 0/77 users finished | 0 for review
+[2026-11-01T01:15:42Z] [A31917609A] ACCOUNT DONE | Global 54/1001 (5.39%).
+[2026-11-01T01:15:42Z] [manager] BOOTSTRAP 11/77 | GZ0145367N
+[2026-11-01T01:15:42Z] [GZ0145367N] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:15:45Z] [AY3333971C] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:15:54Z] [AX5554093F] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:15:54Z] [SX4461560C] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:15:54Z] [SY9118104K] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:15:58Z] [GZ0145367N] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:16:05Z] [AY3333971C] Login attempt 2/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:16:13Z] [AX5554093F] Logged in; authenticated dashboard detected.
+[2026-11-01T01:16:13Z] [AX5554093F] UNIT START | 01 | 1/13 remaining
+[2026-11-01T01:16:14Z] [SY9118104K] Logged in; authenticated dashboard detected.
+[2026-11-01T01:16:14Z] [SY9118104K] UNIT START | 01 | 1/13 remaining
+[2026-11-01T01:16:14Z] [SX4461560C] Logged in; authenticated dashboard detected.
+[2026-11-01T01:16:14Z] [SX4461560C] UNIT START | 01 | 1/13 remaining
+[2026-11-01T01:16:15Z] [AX5554093F] Expanding Unit 1...
+[2026-11-01T01:16:15Z] [AX5554093F] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-01T01:16:16Z] [SY9118104K] Expanding Unit 1...
+[2026-11-01T01:16:16Z] [SX4461560C] Expanding Unit 1...
+[2026-11-01T01:16:16Z] [SY9118104K] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-01T01:16:17Z] [SX4461560C] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-01T01:16:18Z] [GZ0145367N] Logged in; authenticated dashboard detected.
+[2026-11-01T01:16:18Z] [GZ0145367N] UNIT START | 01 | 1/13 remaining
+[2026-11-01T01:16:19Z] [GZ0145367N] Expanding Unit 1...
+[2026-11-01T01:16:20Z] [GZ0145367N] Opening 'Contenido unidad 1' from the dashboard...
+[2026-11-01T01:16:23Z] [AX5554093F] Unit 1 opened.
+[2026-11-01T01:16:23Z] [SY9118104K] Unit 1 opened.
+[2026-11-01T01:16:24Z] [SX4461560C] Unit 1 opened.
+[2026-11-01T01:16:26Z] [GZ0145367N] Unit 1 opened.
+[2026-11-01T01:16:27Z] [AX5554093F] Opening right-side Índice...
+[2026-11-01T01:16:27Z] [AX5554093F] Test opened.
+[2026-11-01T01:16:27Z] [AX5554093F] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:16:27Z] [SY9118104K] Opening right-side Índice...
+[2026-11-01T01:16:27Z] [SY9118104K] Test opened.
+[2026-11-01T01:16:27Z] [SY9118104K] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:16:28Z] [SX4461560C] Opening right-side Índice...
+[2026-11-01T01:16:28Z] [SX4461560C] Test opened.
+[2026-11-01T01:16:28Z] [SX4461560C] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:16:30Z] [GZ0145367N] Opening right-side Índice...
+[2026-11-01T01:16:30Z] [GZ0145367N] Test opened.
+[2026-11-01T01:16:30Z] [GZ0145367N] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:16:31Z] [AY3333971C] Login attempt 3/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:16:31Z] [AY3333971C] ACCOUNT ERROR | TimeoutError: Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id="btnLogin" type="submit" value="Acceder al Campus" class="btn btn-success btne bold-700 w-100"/>
+  - attempting click ac
+[2026-11-01T01:16:31Z] [manager] BOOTSTRAP 12/77 | AZ0987412G
+[2026-11-01T01:16:31Z] [AZ0987412G] START | 13 remaining unit tests. Session isolated.
+[2026-11-01T01:16:37Z] [AX5554093F] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:16:37Z] [AX5554093F]   1/10: ¿Qué tipo de microorganismo es el responsable de la salmonelosis? -> B (attempt 1)
+[2026-11-01T01:16:38Z] [AX5554093F]   2/10: ¿Qué condición favorece que los microorganismos se reproduzcan más rápido? -> A (attempt 1)
+[2026-11-01T01:16:38Z] [SY9118104K] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:16:38Z] [SY9118104K]   1/10: ¿Cuál de los siguientes alimentos son una causa común de salmonella? -> A (attempt 1)
+[2026-11-01T01:16:38Z] [AX5554093F]   3/10: ¿Qué se considera una fruta oleaginosa? -> B (attempt 1)
+[2026-11-01T01:16:38Z] [SY9118104K]   2/10: ¿Qué se puede conseguir calentando suficientemente un alimento contaminado? -> A (attempt 1)
+[2026-11-01T01:16:39Z] [AX5554093F]   4/10: ¿Cuál de los siguientes alimentos son una causa común de salmonella? -> A (attempt 1)
+[2026-11-01T01:16:39Z] [SY9118104K]   3/10: ¿Cómo se conoce también la brucelosis? -> A (attempt 1)
+[2026-11-01T01:16:39Z] [AX5554093F]   5/10: ¿Cuál de las siguientes infecciones es la más violenta, con una tasa de mortalidad más alta, entre u -> C (attempt 1)
+[2026-11-01T01:16:39Z] [SX4461560C] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:16:39Z] [GZ0145367N] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:16:40Z] [SY9118104K]   4/10: ¿Qué condición favorece que los microorganismos se reproduzcan más rápido? -> A (attempt 1)
+[2026-11-01T01:16:40Z] [SX4461560C]   1/10: ¿Qué condición favorece que los microorganismos se reproduzcan más rápido? -> A (attempt 1)
+[2026-11-01T01:16:40Z] [AX5554093F]   6/10: ¿Cuánto mide el gusano anisakis? -> A (attempt 1)
+[2026-11-01T01:16:40Z] [GZ0145367N]   1/10: ¿Cuál de las siguientes infecciones es la más violenta, con una tasa de mortalidad más alta, entre u -> C (attempt 1)
+[2026-11-01T01:16:40Z] [SY9118104K]   5/10: ¿Cuánto mide el gusano anisakis? -> A (attempt 1)
+[2026-11-01T01:16:40Z] [SX4461560C]   2/10: ¿Cómo se conoce también la brucelosis? -> A (attempt 1)
+[2026-11-01T01:16:40Z] [AX5554093F]   7/10: ¿Qué se puede conseguir calentando suficientemente un alimento contaminado? -> A (attempt 1)
+[2026-11-01T01:16:40Z] [GZ0145367N]   2/10: ¿Qué se considera una fruta oleaginosa? -> B (attempt 1)
+[2026-11-01T01:16:41Z] [SY9118104K]   6/10: ¿Qué se considera una fruta oleaginosa? -> B (attempt 1)
+[2026-11-01T01:16:41Z] [SX4461560C]   3/10: ¿Qué tipo de microorganismo es el responsable de la salmonelosis? -> B (attempt 1)
+[2026-11-01T01:16:41Z] [AX5554093F]   8/10: ¿Cuál es la duración de la intoxicación por estafilococos? -> A (attempt 1)
+[2026-11-01T01:16:41Z] [GZ0145367N]   3/10: ¿Cuál de los siguientes alimentos son una causa común de salmonella? -> A (attempt 1)
+[2026-11-01T01:16:41Z] [SY9118104K]   7/10: ¿Cuál es la duración de la intoxicación por estafilococos? -> A (attempt 1)
+[2026-11-01T01:16:41Z] [SX4461560C]   4/10: ¿Cuál de las siguientes infecciones es la más violenta, con una tasa de mortalidad más alta, entre u -> C (attempt 1)
+[2026-11-01T01:16:41Z] [AX5554093F]   9/10: ¿Cómo se conoce también la brucelosis? -> A (attempt 1)
+[2026-11-01T01:16:41Z] [GZ0145367N]   4/10: ¿Qué se puede conseguir calentando suficientemente un alimento contaminado? -> A (attempt 1)
+[2026-11-01T01:16:42Z] [SY9118104K]   8/10: ¿Cuál de las siguientes infecciones es la más violenta, con una tasa de mortalidad más alta, entre u -> C (attempt 1)
+[2026-11-01T01:16:42Z] [AX5554093F]   10/10: ¿Cuál de estos es un cereal? -> A (attempt 1)
+[2026-11-01T01:16:42Z] [SX4461560C]   5/10: ¿Qué se puede conseguir calentando suficientemente un alimento contaminado? -> A (attempt 1)
+[2026-11-01T01:16:42Z] [GZ0145367N]   5/10: ¿Cuál es la duración de la intoxicación por estafilococos? -> A (attempt 1)
+[2026-11-01T01:16:42Z] [SY9118104K]   9/10: ¿Qué tipo de microorganismo es el responsable de la salmonelosis? -> B (attempt 1)
+[2026-11-01T01:16:42Z] [AX5554093F] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:16:42Z] [AX5554093F] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:16:42Z] [SX4461560C]   6/10: ¿Qué se considera una fruta oleaginosa? -> B (attempt 1)
+[2026-11-01T01:16:42Z] [GZ0145367N]   6/10: ¿Cuánto mide el gusano anisakis? -> A (attempt 1)
+[2026-11-01T01:16:42Z] [AX5554093F] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:16:42Z] [AX5554093F] PROGRESS | AX5554093F | Unit 01 | corregir_clicked | 10 answers | 55/1001 units (5.49%) | 0/77 users finished | 0 for review
+[2026-11-01T01:16:43Z] [SY9118104K]   10/10: ¿Cuál de estos es un cereal? -> A (attempt 1)
+[2026-11-01T01:16:43Z] [SX4461560C]   7/10: ¿Cuál de los siguientes alimentos son una causa común de salmonella? -> A (attempt 1)
+[2026-11-01T01:16:43Z] [GZ0145367N]   7/10: ¿Qué condición favorece que los microorganismos se reproduzcan más rápido? -> A (attempt 1)
+[2026-11-01T01:16:43Z] [SY9118104K] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:16:43Z] [SY9118104K] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:16:43Z] [SY9118104K] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:16:43Z] [SY9118104K] PROGRESS | SY9118104K | Unit 01 | corregir_clicked | 10 answers | 56/1001 units (5.59%) | 0/77 users finished | 0 for review
+[2026-11-01T01:16:43Z] [SX4461560C]   8/10: ¿Cuál es la duración de la intoxicación por estafilococos? -> A (attempt 1)
+[2026-11-01T01:16:43Z] [GZ0145367N]   8/10: ¿Cuál de estos es un cereal? -> A (attempt 1)
+[2026-11-01T01:16:44Z] [GZ0145367N]   9/10: ¿Qué tipo de microorganismo es el responsable de la salmonelosis? -> B (attempt 1)
+[2026-11-01T01:16:44Z] [SX4461560C]   9/10: ¿Cuánto mide el gusano anisakis? -> A (attempt 1)
+[2026-11-01T01:16:44Z] [AX5554093F] UNIT START | 02 | 2/13 remaining
+[2026-11-01T01:16:44Z] [SX4461560C]   10/10: ¿Cuál de estos es un cereal? -> A (attempt 1)
+[2026-11-01T01:16:44Z] [GZ0145367N]   10/10: ¿Cómo se conoce también la brucelosis? -> A (attempt 1)
+[2026-11-01T01:16:45Z] [SY9118104K] UNIT START | 02 | 2/13 remaining
+[2026-11-01T01:16:45Z] [SX4461560C] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:16:45Z] [SX4461560C] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:16:45Z] [GZ0145367N] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:16:45Z] [GZ0145367N] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:16:45Z] [SX4461560C] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:16:45Z] [SX4461560C] PROGRESS | SX4461560C | Unit 01 | corregir_clicked | 10 answers | 57/1001 units (5.69%) | 0/77 users finished | 1 for review
+[2026-11-01T01:16:45Z] [GZ0145367N] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:16:45Z] [GZ0145367N] PROGRESS | GZ0145367N | Unit 01 | corregir_clicked | 10 answers | 58/1001 units (5.79%) | 0/77 users finished | 0 for review
+[2026-11-01T01:16:46Z] [AX5554093F] Expanding Unit 2...
+[2026-11-01T01:16:46Z] [AX5554093F] Opening 'Contenido unidad 2' from the dashboard...
+[2026-11-01T01:16:46Z] [SY9118104K] Expanding Unit 2...
+[2026-11-01T01:16:47Z] [AZ0987412G] Login attempt 1/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:16:47Z] [SX4461560C] UNIT START | 02 | 2/13 remaining
+[2026-11-01T01:16:47Z] [GZ0145367N] UNIT START | 02 | 2/13 remaining
+[2026-11-01T01:16:47Z] [SY9118104K] Opening 'Contenido unidad 2' from the dashboard...
+[2026-11-01T01:16:48Z] [GZ0145367N] Expanding Unit 2...
+[2026-11-01T01:16:48Z] [SX4461560C] Expanding Unit 2...
+[2026-11-01T01:16:49Z] [SX4461560C] Opening 'Contenido unidad 2' from the dashboard...
+[2026-11-01T01:16:49Z] [GZ0145367N] Opening 'Contenido unidad 2' from the dashboard...
+[2026-11-01T01:17:01Z] [AX5554093F] UNIT ERROR | Unit 02 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:01Z] [AX5554093F] PROGRESS | AX5554093F | Unit 02 | error | 0 answers | 58/1001 units (5.79%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:01Z] [AX5554093F] UNIT START | 03 | 3/13 remaining
+[2026-11-01T01:17:02Z] [SY9118104K] UNIT ERROR | Unit 02 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:02Z] [SY9118104K] PROGRESS | SY9118104K | Unit 02 | error | 0 answers | 58/1001 units (5.79%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:02Z] [SY9118104K] UNIT START | 03 | 3/13 remaining
+[2026-11-01T01:17:03Z] [AX5554093F] Expanding Unit 3...
+[2026-11-01T01:17:03Z] [AX5554093F] Opening 'Contenido unidad 3' from the dashboard...
+[2026-11-01T01:17:04Z] [SY9118104K] Expanding Unit 3...
+[2026-11-01T01:17:04Z] [SX4461560C] UNIT ERROR | Unit 02 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:04Z] [SX4461560C] PROGRESS | SX4461560C | Unit 02 | error | 0 answers | 58/1001 units (5.79%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:04Z] [SX4461560C] UNIT START | 03 | 3/13 remaining
+[2026-11-01T01:17:04Z] [GZ0145367N] UNIT ERROR | Unit 02 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:04Z] [GZ0145367N] PROGRESS | GZ0145367N | Unit 02 | error | 0 answers | 58/1001 units (5.79%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:04Z] [GZ0145367N] UNIT START | 03 | 3/13 remaining
+[2026-11-01T01:17:04Z] [SY9118104K] Opening 'Contenido unidad 3' from the dashboard...
+[2026-11-01T01:17:06Z] [SX4461560C] Expanding Unit 3...
+[2026-11-01T01:17:06Z] [GZ0145367N] Expanding Unit 3...
+[2026-11-01T01:17:06Z] [SX4461560C] Opening 'Contenido unidad 3' from the dashboard...
+[2026-11-01T01:17:06Z] [GZ0145367N] Opening 'Contenido unidad 3' from the dashboard...
+[2026-11-01T01:17:09Z] [AX5554093F] Unit 3 opened.
+[2026-11-01T01:17:13Z] [AX5554093F] Opening right-side Índice...
+[2026-11-01T01:17:13Z] [AX5554093F] Test opened.
+[2026-11-01T01:17:13Z] [AX5554093F] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:17:19Z] [SY9118104K] UNIT ERROR | Unit 03 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:19Z] [SY9118104K] PROGRESS | SY9118104K | Unit 03 | error | 0 answers | 58/1001 units (5.79%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:19Z] [SY9118104K] UNIT START | 04 | 4/13 remaining
+[2026-11-01T01:17:20Z] [AZ0987412G] Login attempt 2/3 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-01T01:17:21Z] [SY9118104K] Expanding Unit 4...
+[2026-11-01T01:17:21Z] [SX4461560C] UNIT ERROR | Unit 03 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:21Z] [SX4461560C] PROGRESS | SX4461560C | Unit 03 | error | 0 answers | 58/1001 units (5.79%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:21Z] [SX4461560C] UNIT START | 04 | 4/13 remaining
+[2026-11-01T01:17:21Z] [GZ0145367N] UNIT ERROR | Unit 03 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:21Z] [GZ0145367N] PROGRESS | GZ0145367N | Unit 03 | error | 0 answers | 58/1001 units (5.79%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:21Z] [GZ0145367N] UNIT START | 04 | 4/13 remaining
+[2026-11-01T01:17:21Z] [SY9118104K] Opening 'Contenido unidad 4' from the dashboard...
+[2026-11-01T01:17:22Z] [AX5554093F] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-01T01:17:22Z] [AX5554093F]   1/10: ¿Cuántos son los grupos de sustancias o productos que causan alergias e intolerancias y sobre cuya p -> B (attempt 1)
+[2026-11-01T01:17:23Z] [SX4461560C] Expanding Unit 4...
+[2026-11-01T01:17:23Z] [GZ0145367N] Expanding Unit 4...
+[2026-11-01T01:17:23Z] [AX5554093F]   2/10: ¿Cuántas son las fases básicas en toda operación de higienización? -> A (attempt 1)
+[2026-11-01T01:17:23Z] [SX4461560C] Opening 'Contenido unidad 4' from the dashboard...
+[2026-11-01T01:17:23Z] [GZ0145367N] Opening 'Contenido unidad 4' from the dashboard...
+[2026-11-01T01:17:23Z] [AX5554093F]   3/10: ¿Cuál de los siguientes es un principio básico del APPCC? -> C (attempt 1)
+[2026-11-01T01:17:24Z] [AX5554093F]   4/10: ¿Cuál de los siguientes es uno de los síntomas más comunes que se pueden producir por una alergia? -> A (attempt 1)
+[2026-11-01T01:17:24Z] [AX5554093F]   5/10: ¿Qué se elimina con la esterilización? -> B (attempt 1)
+[2026-11-01T01:17:25Z] [AX5554093F]   6/10: ¿Qué significa la sigla APPCC? -> B (attempt 1)
+[2026-11-01T01:17:25Z] [AX5554093F]   7/10: ¿En qué fase del proceso de higienización se eliminan restos visibles de suciedad? -> A (attempt 1)
+[2026-11-01T01:17:26Z] [AX5554093F]   8/10: ¿Cuál de estos productos suele ser un alérgeno común? -> A (attempt 1)
+[2026-11-01T01:17:26Z] [AX5554093F]   9/10: ¿Qué elemento debe estar SIEMPRE definido en un Punto Crítico de Control? -> A (attempt 1)
+[2026-11-01T01:17:27Z] [AX5554093F]   10/10: ¿Qué es la destrucción parcial de los microorganismos existentes? -> B (attempt 1)
+[2026-11-01T01:17:27Z] [AX5554093F] All 10 answers verified as selected in the current quiz.
+[2026-11-01T01:17:27Z] [AX5554093F] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-01T01:17:27Z] [AX5554093F] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-01T01:17:27Z] [AX5554093F] PROGRESS | AX5554093F | Unit 03 | corregir_clicked | 10 answers | 59/1001 units (5.89%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:29Z] [AX5554093F] UNIT START | 04 | 4/13 remaining
+[2026-11-01T01:17:31Z] [AX5554093F] Expanding Unit 4...
+[2026-11-01T01:17:31Z] [AX5554093F] Opening 'Contenido unidad 4' from the dashboard...
+[2026-11-01T01:17:36Z] [AX5554093F] Unit 4 opened.
+[2026-11-01T01:17:36Z] [SY9118104K] UNIT ERROR | Unit 04 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:36Z] [SY9118104K] PROGRESS | SY9118104K | Unit 04 | error | 0 answers | 59/1001 units (5.89%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:36Z] [SY9118104K] UNIT START | 05 | 5/13 remaining
+[2026-11-01T01:17:38Z] [SY9118104K] Expanding Unit 5...
+[2026-11-01T01:17:38Z] [SX4461560C] UNIT ERROR | Unit 04 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:38Z] [SX4461560C] PROGRESS | SX4461560C | Unit 04 | error | 0 answers | 59/1001 units (5.89%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:38Z] [SX4461560C] UNIT START | 05 | 5/13 remaining
+[2026-11-01T01:17:38Z] [GZ0145367N] UNIT ERROR | Unit 04 | error: TimeoutError: Timeout 15000ms exceeded while waiting for event "page"
+[2026-11-01T01:17:38Z] [GZ0145367N] PROGRESS | GZ0145367N | Unit 04 | error | 0 answers | 59/1001 units (5.89%) | 0/77 users finished | 0 for review
+[2026-11-01T01:17:38Z] [GZ0145367N] UNIT START | 05 | 5/13 remaining
+[2026-11-01T01:17:39Z] [SY9118104K] Opening 'Contenido unidad 5' from the dashboard...
+[2026-11-01T01:17:39Z] [AX5554093F] Opening right-side Índice...
+[2026-11-01T01:17:40Z] [AX5554093F] Test opened.
+[2026-11-01T01:17:40Z] [AX5554093F] Finding the quiz questions (including SCORM iframes)...
+[2026-11-01T01:17:40Z] [SX4461560C] Interrupted during Unit 5; checkpoint preserved.
+[2026-11-01T01:17:40Z] [SX4461560C] Session cancelled; completed checkpoints preserved.
+[2026-11-01T01:17:40Z] [SY9118104K] Interrupted during Unit 5; checkpoint preserved.
+[2026-11-01T01:17:40Z] [SY9118104K] Session cancelled; completed checkpoints preserved.
+[2026-11-01T01:17:40Z] [GZ0145367N] Interrupted during Unit 5; checkpoint preserved.
+[2026-11-01T01:17:40Z] [GZ0145367N] Session cancelled; completed checkpoints preserved.
+[2026-11-01T01:17:40Z] [AX5554093F] Interrupted during Unit 4; checkpoint preserved.
+[2026-11-01T01:17:40Z] [AX5554093F] Session cancelled; completed checkpoints preserved.
+[2026-11-01T01:17:40Z] [AZ0987412G] Session cancelled; completed checkpoints preserved.

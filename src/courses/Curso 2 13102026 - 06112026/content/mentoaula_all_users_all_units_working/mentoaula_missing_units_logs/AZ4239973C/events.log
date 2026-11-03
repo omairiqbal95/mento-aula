@@ -1,0 +1,24 @@
+2026-11-01 20:29:52,816 [INFO] Automatic login (headless=True). Waiting for visible login form...
+2026-11-01 20:29:52,901 [INFO] Using verified MentoAula login controls #usuario / #password
+2026-11-01 20:29:52,957 [INFO] Filled credential fields (user=usuario, password=[redacted]
+2026-11-01 20:29:52,966 [INFO] Submitting verified MentoAula button #btnLogin
+2026-11-01 20:29:55,466 [INFO] Waiting for authenticated dashboard (32s remaining)...
+2026-11-01 20:30:03,452 [INFO] Waiting for authenticated dashboard (24s remaining)...
+2026-11-01 20:30:10,647 [INFO] Login verified successfully: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:30:13,252 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:30:13,253 [INFO] BEGIN target unit 12 (1 targets). Full-course time baseline 31.17 hours
+2026-11-01 20:30:14,406 [INFO] Unit 12 | expanding accordion #tod12 | frame: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:30:14,597 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:30:14,597 [INFO] Unit 12 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:30:20,323 [INFO] Unit 12 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:30:20,337 [INFO] Unit 12 | waiting for nested SCORM content; frames=2
+2026-11-01 20:30:25,131 [INFO] Unit 12 | waiting for nested SCORM content; frames=3
+2026-11-01 20:30:25,415 [INFO] Unit 12 | waiting for nested SCORM content; frames=4
+2026-11-01 20:30:27,316 [INFO] Unit 12 | real lesson content detected: /general/prt/prg/test.php (4039 chars; 5 frames)
+2026-11-01 20:30:27,405 [INFO] Unit 12 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:30:31,088 [WARNING] Unit 12 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:30:31,175 [INFO] Unit 12 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-012/12/test12.htm?width=782&height=485&man_uri=&e
+2026-11-01 20:30:31,281 [INFO] Unit 12 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:30:31,281 [INFO] Unit 12 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:30:31,282 [INFO] NAVIGATED target unit 12; 1/1 targets navigated
+2026-11-01 20:30:31,296 [INFO] ALL 1 target units traversed (automated load-test navigation only).

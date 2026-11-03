@@ -1,0 +1,31 @@
+{
+  "account": "IZ5322064F",
+  "completed_unit_count": 5,
+  "completed_unit_navigations": [
+    4,
+    5,
+    10,
+    11,
+    13
+  ],
+  "current_unit": 0,
+  "current_unit_states": 1,
+  "current_unit_toc_entries": 0,
+  "description": "NAVIGATION ONLY; not a training certificate or proof of human attendance.",
+  "finished_at": "2026-11-01T20:32:58+00:00",
+  "last_error": "",
+  "last_navigation_action": "unit opened",
+  "retries": 0,
+  "session_started_at": "2026-11-01T20:30:49+00:00",
+  "status": "navigation_complete",
+  "target_session_hours": 29.465,
+  "target_units": [
+    4,
+    5,
+    10,
+    11,
+    13
+  ],
+  "total_units": 5,
+  "updated_at": "2026-11-01T20:32:58+00:00"
+}

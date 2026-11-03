@@ -1,0 +1,783 @@
+{
+  "description": "Labels observed in V11.1 event logs, NOT a complete or authoritative syllabus; useful for manual regression comparisons.",
+  "course_unit_sections": {
+    "1": [
+      {
+        "label": "1. Terminología básica",
+        "observations": 2
+      },
+      {
+        "label": "3. Riesgos para la salud derivados del consumo de alimentos incorrectamente manipulados",
+        "observations": 2
+      },
+      {
+        "label": "Ejercicios",
+        "observations": 2
+      },
+      {
+        "label": "Enfermedades transmitidas por los alimentos",
+        "observations": 2
+      },
+      {
+        "label": "Introducción",
+        "observations": 2
+      },
+      {
+        "label": "Objetivos",
+        "observations": 2
+      },
+      {
+        "label": "Resumen",
+        "observations": 2
+      },
+      {
+        "label": "Aplicación práctica. Enfermedades transmitidas por los alimentos",
+        "observations": 1
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 1
+      }
+    ],
+    "2": [
+      {
+        "label": "Alteración y contaminación de alimentos",
+        "observations": 33
+      },
+      {
+        "label": "Aplicación práctica. Métodos de conservación",
+        "observations": 32
+      },
+      {
+        "label": "5. Métodos principales de conservación de alimentos",
+        "observations": 30
+      },
+      {
+        "label": "Ejercicios",
+        "observations": 30
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 27
+      },
+      {
+        "label": "2. Contaminación de alimentos. Concepto y tipos de contaminantes",
+        "observations": 26
+      },
+      {
+        "label": "3. Fuentes de contaminación bacteriana",
+        "observations": 26
+      },
+      {
+        "label": "Objetivos",
+        "observations": 26
+      },
+      {
+        "label": "4. Factores que contribuyen al crecimiento bacteriano",
+        "observations": 25
+      },
+      {
+        "label": "Introducción",
+        "observations": 25
+      },
+      {
+        "label": "1. Alteración de alimentos",
+        "observations": 24
+      },
+      {
+        "label": "Resumen",
+        "observations": 23
+      },
+      {
+        "label": "5.1. Métodos que utilizan el frío",
+        "observations": 2
+      },
+      {
+        "label": "5.2. Métodos que utilizan el calor",
+        "observations": 2
+      },
+      {
+        "label": "5.4. Diferentes tipos de envasado",
+        "observations": 2
+      },
+      {
+        "label": "5.5. Aplicación de radiaciones",
+        "observations": 2
+      },
+      {
+        "label": "2.1. Contaminación biótica",
+        "observations": 1
+      },
+      {
+        "label": "2.2. Contaminación abiótica",
+        "observations": 1
+      },
+      {
+        "label": "4.1. Temperatura",
+        "observations": 1
+      },
+      {
+        "label": "4.2. Humedad",
+        "observations": 1
+      },
+      {
+        "label": "5.3. Eliminación de agua",
+        "observations": 1
+      }
+    ],
+    "3": [
+      {
+        "label": "Prevención de enfermedades de transmisión alimentaria",
+        "observations": 34
+      },
+      {
+        "label": "5. Manejo de residuos",
+        "observations": 32
+      },
+      {
+        "label": "4. Control de plagas",
+        "observations": 30
+      },
+      {
+        "label": "Resumen",
+        "observations": 29
+      },
+      {
+        "label": "3. Limpieza y desinfección. Higiene de los locales y equipos",
+        "observations": 28
+      },
+      {
+        "label": "2. Requisitos higiénico-sanitarios de la industria alimentaria",
+        "observations": 27
+      },
+      {
+        "label": "6. La responsabilidad de la empresa en cuanto a la prevención de enfermedades de transmisión alimentaria",
+        "observations": 27
+      },
+      {
+        "label": "1. El papel de los manipuladores como responsables de la prevención de las enfermedades de transmisión alimentaria",
+        "observations": 26
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 25
+      },
+      {
+        "label": "3.1. Terminología",
+        "observations": 3
+      },
+      {
+        "label": "3.2. Programa de limpieza y desinfección",
+        "observations": 3
+      },
+      {
+        "label": "3.3. Productos de limpieza y desinfección",
+        "observations": 1
+      },
+      {
+        "label": "4.1. Necesidad de controlar las plagas",
+        "observations": 1
+      },
+      {
+        "label": "4.2. Cómo controlar las plagas",
+        "observations": 1
+      },
+      {
+        "label": "6.1. Conceptos",
+        "observations": 1
+      },
+      {
+        "label": "6.2. Principios básicos del APPCC",
+        "observations": 1
+      },
+      {
+        "label": "6.3. Ejemplo de aplicación del APPCC",
+        "observations": 1
+      },
+      {
+        "label": "6.4. Responsabilidad de la empresa con relación a los manipuladores de alimentos",
+        "observations": 1
+      },
+      {
+        "label": "6.5. Etiquetado de sustancias que causan alergias e intolerancias",
+        "observations": 1
+      }
+    ],
+    "4": [
+      {
+        "label": "Manipulación de comidas preparadas",
+        "observations": 47
+      },
+      {
+        "label": "2. Comidas preparadas",
+        "observations": 45
+      },
+      {
+        "label": "1. Alimentos de alto riesgo",
+        "observations": 42
+      },
+      {
+        "label": "3. Principales peligros asociados a la actividad de elaboración y servicio de comidas",
+        "observations": 42
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 35
+      },
+      {
+        "label": "Resumen",
+        "observations": 34
+      },
+      {
+        "label": "1.1. Huevos y ovoproductos",
+        "observations": 2
+      },
+      {
+        "label": "1.2. Leche y productos lácteos",
+        "observations": 2
+      },
+      {
+        "label": "1.3. Aves",
+        "observations": 2
+      },
+      {
+        "label": "1.4. Carne y productos cárnicos cocinados",
+        "observations": 1
+      },
+      {
+        "label": "2.1. Requisitos de las comidas preparadas",
+        "observations": 1
+      }
+    ],
+    "5": [
+      {
+        "label": "Aplicación práctica. Diferencia entre intolerancias alimentarias y alergias alimentarias",
+        "observations": 40
+      },
+      {
+        "label": "Resumen",
+        "observations": 39
+      },
+      {
+        "label": "4. Factores de riesgo y grupos poblacionales más vulnerables",
+        "observations": 37
+      },
+      {
+        "label": "Ejercicios",
+        "observations": 37
+      },
+      {
+        "label": "Introducción",
+        "observations": 37
+      },
+      {
+        "label": "3. Manifestaciones clínicas: síntomas leves, graves y anafilaxia",
+        "observations": 36
+      },
+      {
+        "label": "1. Conceptos básicos: diferencia entre alergia e intolerancia alimentaria",
+        "observations": 35
+      },
+      {
+        "label": "2. Principales tipos de intolerancias alimentarias no inmunológicas",
+        "observations": 35
+      },
+      {
+        "label": "Objetivos",
+        "observations": 34
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 33
+      },
+      {
+        "label": "5. Diagnóstico y tratamiento médico de las alergias alimentarias",
+        "observations": 28
+      },
+      {
+        "label": "Alergias e intolerancias alimentarias",
+        "observations": 28
+      }
+    ],
+    "6": [
+      {
+        "label": "Mapa conceptual",
+        "observations": 39
+      },
+      {
+        "label": "Objetivos",
+        "observations": 38
+      },
+      {
+        "label": "4. Vías de contaminación cruzada con alérgenos",
+        "observations": 37
+      },
+      {
+        "label": "2. Principales alérgenos reconocidos por la legislación y normativa vigente. Manipulación y características",
+        "observations": 36
+      },
+      {
+        "label": "3. Alérgenos emergentes y nuevos ingredientes alimentarios",
+        "observations": 35
+      },
+      {
+        "label": "Resumen",
+        "observations": 35
+      },
+      {
+        "label": "1. Definición y clasificación de alérgenos alimentarios",
+        "observations": 34
+      },
+      {
+        "label": "Introducción",
+        "observations": 21
+      },
+      {
+        "label": "Tipos de alérgenos",
+        "observations": 6
+      }
+    ],
+    "7": [
+      {
+        "label": "Prevención de riesgos en alergias alimentarias",
+        "observations": 46
+      },
+      {
+        "label": "2. Identificación de puntos críticos en la manipulación, producción y servicio",
+        "observations": 44
+      },
+      {
+        "label": "1. Buenas prácticas de manipulación para evitar contaminación cruzada",
+        "observations": 43
+      },
+      {
+        "label": "3. Diseño higiénico de las instalaciones y flujos de trabajo",
+        "observations": 43
+      },
+      {
+        "label": "Aplicación práctica. Identificación de riesgos de contaminación cruzada",
+        "observations": 43
+      },
+      {
+        "label": "5. Formación y sensibilización del personal manipulador",
+        "observations": 41
+      },
+      {
+        "label": "Ejercicios",
+        "observations": 41
+      },
+      {
+        "label": "Introducción",
+        "observations": 41
+      },
+      {
+        "label": "Objetivos",
+        "observations": 40
+      },
+      {
+        "label": "Resumen",
+        "observations": 40
+      },
+      {
+        "label": "6. Actuación ante casos de emergencia: atención inmediata a una reacción alérgica",
+        "observations": 39
+      },
+      {
+        "label": "4. Control y limpieza específica para la eliminación de restos de alérgenos",
+        "observations": 36
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 36
+      },
+      {
+        "label": "Unidad 7:",
+        "observations": 1
+      }
+    ],
+    "8": [
+      {
+        "label": "Objetivos",
+        "observations": 42
+      },
+      {
+        "label": "2. Obligaciones de los establecimientos de alimentación y del manipulador de alimentos",
+        "observations": 40
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 40
+      },
+      {
+        "label": "Resumen",
+        "observations": 39
+      },
+      {
+        "label": "3. Control e inspección por parte de las autoridades sanitarias",
+        "observations": 36
+      },
+      {
+        "label": "Introducción",
+        "observations": 35
+      },
+      {
+        "label": "Legislación y normativa aplicable y de obligado cumplimiento",
+        "observations": 34
+      },
+      {
+        "label": "1. Marco normativo europeo y nacional sobre información alimentaria y alérgenos",
+        "observations": 33
+      }
+    ],
+    "9": [
+      {
+        "label": "Gestión de alérgenos en el sector de la alimentación",
+        "observations": 31
+      },
+      {
+        "label": "Ejercicios",
+        "observations": 30
+      },
+      {
+        "label": "3. Etiquetado obligatorio de alérgenos: principios, símbolos y lenguaje claro",
+        "observations": 29
+      },
+      {
+        "label": "Aplicación práctica. Diseño del plan de control de alérgenos",
+        "observations": 29
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 28
+      },
+      {
+        "label": "Resumen",
+        "observations": 28
+      },
+      {
+        "label": "1. Introducción a la gestión de alérgenos dentro del sistema APPCC",
+        "observations": 27
+      },
+      {
+        "label": "2. Identificación, evaluación y control de riesgos relacionados con alérgenos",
+        "observations": 27
+      },
+      {
+        "label": "6. Comunicación con proveedores y consumidores",
+        "observations": 27
+      },
+      {
+        "label": "Objetivos",
+        "observations": 27
+      },
+      {
+        "label": "4. Protocolos internos para el control de alérgenos",
+        "observations": 26
+      },
+      {
+        "label": "8. Casos prácticos de gestión en restauración, comedores colectivos e industria alimentaria",
+        "observations": 25
+      },
+      {
+        "label": "Introducción",
+        "observations": 25
+      },
+      {
+        "label": "7. Auditorías internas y mejora continua en la gestión de alérgenos",
+        "observations": 23
+      },
+      {
+        "label": "5. Elaboración y aplicación de planes de control de alérgenos",
+        "observations": 22
+      }
+    ],
+    "10": [
+      {
+        "label": "Ejercicio práctico 2. Accidentes de trabajo",
+        "observations": 31
+      },
+      {
+        "label": "Objetivos",
+        "observations": 31
+      },
+      {
+        "label": "Ejercicios",
+        "observations": 30
+      },
+      {
+        "label": "3. Marco normativo básico en materia de prevención de riesgos laborales",
+        "observations": 29
+      },
+      {
+        "label": "Ejercicio práctico 1. Enfermedades profesionales",
+        "observations": 28
+      },
+      {
+        "label": "Introducción",
+        "observations": 28
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 28
+      },
+      {
+        "label": "1. El trabajo y la salud",
+        "observations": 26
+      },
+      {
+        "label": "2. Riesgos profesionales",
+        "observations": 26
+      },
+      {
+        "label": "Resumen",
+        "observations": 25
+      },
+      {
+        "label": "Conceptos básicos sobre seguridad y salud en el trabajo",
+        "observations": 20
+      },
+      {
+        "label": "2.1. Factores de riesgo",
+        "observations": 1
+      },
+      {
+        "label": "2.2. Consecuencias de los riesgos profesionales",
+        "observations": 1
+      },
+      {
+        "label": "3.1. Derechos y deberes básicos",
+        "observations": 1
+      },
+      {
+        "label": "3.3. Legislación básica aplicable",
+        "observations": 1
+      },
+      {
+        "label": "Unidad 10:",
+        "observations": 1
+      }
+    ],
+    "11": [
+      {
+        "label": "3. Riesgos ligados al medio ambiente de trabajo",
+        "observations": 23
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 23
+      },
+      {
+        "label": "Objetivos",
+        "observations": 22
+      },
+      {
+        "label": "1. Riesgos ligados a las condiciones de seguridad",
+        "observations": 21
+      },
+      {
+        "label": "8. El control de la salud de los trabajadores",
+        "observations": 20
+      },
+      {
+        "label": "2. Las señales de seguridad",
+        "observations": 19
+      },
+      {
+        "label": "5. La protección de la Seguridad y la salud de los trabajadores en el trabajo",
+        "observations": 19
+      },
+      {
+        "label": "6. Planes de emergencia y evacuación",
+        "observations": 19
+      },
+      {
+        "label": "7. Primeros auxilios",
+        "observations": 19
+      },
+      {
+        "label": "Ejercicio práctico. Riesgos laborales generales",
+        "observations": 19
+      },
+      {
+        "label": "Ejercicios",
+        "observations": 19
+      },
+      {
+        "label": "Resumen",
+        "observations": 19
+      },
+      {
+        "label": "4. La carga de trabajo, la fatiga y la insatisfacción laboral",
+        "observations": 18
+      },
+      {
+        "label": "Introducción",
+        "observations": 12
+      },
+      {
+        "label": "Riesgos generales y su prevención",
+        "observations": 6
+      },
+      {
+        "label": "1.2. Las herramientas",
+        "observations": 2
+      },
+      {
+        "label": "1.3. Las máquinas",
+        "observations": 2
+      },
+      {
+        "label": "1.6. Almacenamiento, manipulación y transporte",
+        "observations": 2
+      },
+      {
+        "label": "1.1. El lugar y la superficie de trabajo",
+        "observations": 1
+      },
+      {
+        "label": "1.4. La electricidad",
+        "observations": 1
+      },
+      {
+        "label": "1.5. Los incendios",
+        "observations": 1
+      },
+      {
+        "label": "1.7. Trabajos de mantenimiento",
+        "observations": 1
+      }
+    ],
+    "12": [
+      {
+        "label": "Riesgos específicos y su prevención en el sector correspondiente a la actividad de la empresa",
+        "observations": 23
+      },
+      {
+        "label": "Ejercicio práctico. Situaciones de riesgo específicas",
+        "observations": 22
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 21
+      },
+      {
+        "label": "2. Medidas preventivas elementales a adoptar",
+        "observations": 20
+      },
+      {
+        "label": "Ejercicios",
+        "observations": 20
+      },
+      {
+        "label": "Introducción",
+        "observations": 20
+      },
+      {
+        "label": "Resumen",
+        "observations": 20
+      },
+      {
+        "label": "1. Riesgos relacionados con las condiciones de seguridad de la actividad específica",
+        "observations": 19
+      },
+      {
+        "label": "Objetivos",
+        "observations": 19
+      },
+      {
+        "label": "2.1. Condiciones de seguridad",
+        "observations": 4
+      },
+      {
+        "label": "2.3. Fatiga e insatisfacción laboral",
+        "observations": 4
+      },
+      {
+        "label": "2.2. Medio ambiente de trabajo",
+        "observations": 3
+      }
+    ],
+    "13": [
+      {
+        "label": "Elementos básicos de gestión de la prevención de riesgos",
+        "observations": 27
+      },
+      {
+        "label": "2. El sistema de prevención de riesgos laborales",
+        "observations": 26
+      },
+      {
+        "label": "1. La gestión de la prevención de riesgos laborales en la empresa",
+        "observations": 25
+      },
+      {
+        "label": "3. Modalidades de recursos humanos y materiales para el desarrollo de actividades preventivas",
+        "observations": 25
+      },
+      {
+        "label": "4. Organismos públicos relacionados con la seguridad y salud en el trabajo",
+        "observations": 25
+      },
+      {
+        "label": "Resumen",
+        "observations": 25
+      },
+      {
+        "label": "Introducción",
+        "observations": 23
+      },
+      {
+        "label": "Ejercicio práctico. Elementos básicos de gestión de la prevención de riesgos",
+        "observations": 22
+      },
+      {
+        "label": "Mapa conceptual",
+        "observations": 22
+      },
+      {
+        "label": "Objetivos",
+        "observations": 22
+      },
+      {
+        "label": "Ejercicios",
+        "observations": 20
+      },
+      {
+        "label": "2.1. El Sistema de prevención y el Plan de prevención",
+        "observations": 2
+      },
+      {
+        "label": "2.2. Integración de la prevención",
+        "observations": 2
+      },
+      {
+        "label": "2.3. Evaluación de riesgos",
+        "observations": 2
+      },
+      {
+        "label": "2.4. Planificación y seguimiento de la actividad preventiva",
+        "observations": 2
+      },
+      {
+        "label": "2.5. Control y mejora de la actividad preventiva",
+        "observations": 2
+      },
+      {
+        "label": "2.6. Documentación",
+        "observations": 2
+      },
+      {
+        "label": "4.1. Instituciones y organismos internacionales",
+        "observations": 1
+      },
+      {
+        "label": "4.2. Organismos nacionales",
+        "observations": 1
+      },
+      {
+        "label": "4.3. Organismos de carácter autonómico",
+        "observations": 1
+      }
+    ]
+  }
+}

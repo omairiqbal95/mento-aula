@@ -1,0 +1,148 @@
+[2026-11-02T17:57:50Z] [manager] Accounts supplied: 1 distinct accounts.
+[2026-11-02T17:57:50Z] [manager] Units/account: 5 | Total units: 5 | Already done: 0 (0.00%).
+[2026-11-02T17:57:50Z] [manager] Pending accounts: 1 | max concurrency 1 | bootstrap gap 0s
+[2026-11-02T17:57:50Z] [manager] Answer delay (0.0, 0.0), test delay (0.0, 0.0), Corregir ENABLED.
+[2026-11-02T17:57:53Z] [manager] BOOTSTRAP 1/1 | MZ0812830S
+[2026-11-02T17:57:53Z] [MZ0812830S] START | 5 remaining unit tests. Session isolated.
+[2026-11-02T17:58:12Z] [MZ0812830S] Login attempt 1/2 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-02T17:58:33Z] [MZ0812830S] Login attempt 2/2 failed: TimeoutError (Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id=)
+[2026-11-02T17:58:33Z] [MZ0812830S] ACCOUNT ERROR | TimeoutError: Locator.click: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("#btnLogin").first
+    - locator resolved to <input id="btnLogin" type="submit" value="Acceder al Campus" class="btn btn-success btne bold-700 w-100"/>
+  - attempting click ac
+[2026-11-02T17:58:33Z] [manager] FINAL | 0/5 unit tests (0.00%) | 0/1 users fully processed | 0 to review
+[2026-11-02T17:58:33Z] [manager] Checkpoint: state_MZ0812830S_8_9_11_12_13.sqlite | Snapshot: state_MZ0812830S_8_9_11_12_13.progress.json | Log: state_MZ0812830S_8_9_11_12_13.log
+[2026-11-02T18:06:35Z] [manager] Accounts supplied: 1 distinct accounts.
+[2026-11-02T18:06:35Z] [manager] Units/account: 5 | Total units: 5 | Already done: 0 (0.00%).
+[2026-11-02T18:06:35Z] [manager] Pending accounts: 1 | max concurrency 1 | bootstrap gap 0s
+[2026-11-02T18:06:35Z] [manager] Answer delay (0.0, 0.0), test delay (0.0, 0.0), Corregir ENABLED.
+[2026-11-02T18:06:36Z] [manager] BOOTSTRAP 1/1 | MZ0812830S
+[2026-11-02T18:06:36Z] [MZ0812830S] START | 5 remaining unit tests. Session isolated.
+[2026-11-02T18:06:40Z] [MZ0812830S] Session cancelled; completed checkpoints preserved.
+[2026-11-02T18:07:06Z] [manager] Accounts supplied: 1 distinct accounts.
+[2026-11-02T18:07:06Z] [manager] Units/account: 5 | Total units: 5 | Already done: 0 (0.00%).
+[2026-11-02T18:07:06Z] [manager] Pending accounts: 1 | max concurrency 1 | bootstrap gap 0s
+[2026-11-02T18:07:06Z] [manager] Answer delay (0.0, 0.0), test delay (0.0, 0.0), Corregir ENABLED.
+[2026-11-02T18:07:06Z] [manager] BOOTSTRAP 1/1 | MZ0812830S
+[2026-11-02T18:07:06Z] [MZ0812830S] START | 5 remaining unit tests. Session isolated.
+[2026-11-02T18:07:20Z] [MZ0812830S] Logged in; authenticated dashboard detected.
+[2026-11-02T18:07:20Z] [MZ0812830S] UNIT START | 08 | 1/5 remaining
+[2026-11-02T18:07:21Z] [MZ0812830S] Expanding Unit 8...
+[2026-11-02T18:07:22Z] [MZ0812830S] Opening 'Contenido unidad 8' from the dashboard...
+[2026-11-02T18:07:27Z] [MZ0812830S] Unit 8 opened.
+[2026-11-02T18:07:30Z] [MZ0812830S] Opening right-side Índice...
+[2026-11-02T18:07:31Z] [MZ0812830S] Test opened.
+[2026-11-02T18:07:31Z] [MZ0812830S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T18:07:39Z] [MZ0812830S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T18:07:40Z] [MZ0812830S]   1/10: ¿Cuál de las siguientes es una obligación del establecimiento alimentario? -> C (attempt 1)
+[2026-11-02T18:07:40Z] [MZ0812830S]   2/10: ¿Qué obligación tiene la persona manipuladora respecto a los alérgenos? -> C (attempt 1)
+[2026-11-02T18:07:41Z] [MZ0812830S]   3/10: En caso de cambio de proveedor, el establecimiento debe... -> A (attempt 1)
+[2026-11-02T18:07:41Z] [MZ0812830S]   4/10: ¿Qué elemento debe destacarse tipográficamente en el listado de ingredientes? -> B (attempt 1)
+[2026-11-02T18:07:41Z] [MZ0812830S]   5/10: ¿Qué norma europea establece la obligación de declarar los 14 alérgenos principales en alimentos? -> B (attempt 1)
+[2026-11-02T18:07:42Z] [MZ0812830S]   6/10: ¿Qué documento suelen revisar las autoridades sanitarias durante una inspección? -> C (attempt 1)
+[2026-11-02T18:07:42Z] [MZ0812830S]   7/10: El Real Decreto 126/2015 regula principalmente... -> A (attempt 1)
+[2026-11-02T18:07:43Z] [MZ0812830S]   8/10: ¿Qué legislación europea establece los principios de la seguridad alimentaria y la trazabilidad? -> D (attempt 1)
+[2026-11-02T18:07:43Z] [MZ0812830S]   9/10: ¿Qué actuación es correcta durante una inspección sanitaria? -> B (attempt 1)
+[2026-11-02T18:07:44Z] [MZ0812830S]   10/10: ¿Cuál es el objetivo principal de la normativa sobre información alimentaria? -> C (attempt 1)
+[2026-11-02T18:07:44Z] [MZ0812830S] All 10 answers verified as selected in the current quiz.
+[2026-11-02T18:07:44Z] [MZ0812830S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T18:07:44Z] [MZ0812830S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T18:07:44Z] [MZ0812830S] PROGRESS | MZ0812830S | Unit 08 | corregir_clicked | 10 answers | 1/5 units (20.00%) | 0/1 users finished | 0 for review
+[2026-11-02T18:07:46Z] [MZ0812830S] UNIT START | 09 | 2/5 remaining
+[2026-11-02T18:07:47Z] [MZ0812830S] Expanding Unit 9...
+[2026-11-02T18:07:48Z] [MZ0812830S] Opening 'Contenido unidad 9' from the dashboard...
+[2026-11-02T18:07:53Z] [MZ0812830S] Unit 9 opened.
+[2026-11-02T18:07:57Z] [MZ0812830S] Opening right-side Índice...
+[2026-11-02T18:07:57Z] [MZ0812830S] Test opened.
+[2026-11-02T18:07:57Z] [MZ0812830S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T18:08:06Z] [MZ0812830S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T18:08:06Z] [MZ0812830S]   1/10: ¿Qué práctica es adecuada durante el servicio de un plato apto para personas con alergias? -> D (attempt 1)
+[2026-11-02T18:08:06Z] [MZ0812830S]   2/10: ¿En qué fase del APPCC deben integrarse los alérgenos como peligro? -> C (attempt 1)
+[2026-11-02T18:08:07Z] [MZ0812830S]   3/10: ¿Qué afirmación es correcta respecto a la limpieza de alérgenos? -> C (attempt 1)
+[2026-11-02T18:08:07Z] [MZ0812830S]   4/10: ¿Qué elemento forma parte de un sistema de trazabilidad eficaz? -> C (attempt 1)
+[2026-11-02T18:08:08Z] [MZ0812830S]   5/10: ¿Cuál es una medida adecuada para el almacenamiento seguro de materias primas con alérgenos? -> C (attempt 1)
+[2026-11-02T18:08:08Z] [MZ0812830S]   6/10: ¿Qué principio debe cumplir el etiquetado de alérgenos? -> B (attempt 1)
+[2026-11-02T18:08:09Z] [MZ0812830S]   7/10: ¿Cuál es el orden recomendado en procesos de elaboración? -> A (attempt 1)
+[2026-11-02T18:08:09Z] [MZ0812830S]   8/10: ¿Qué documento es imprescindible solicitar al proveedor para verificar la presencia de alérgenos? -> B (attempt 1)
+[2026-11-02T18:08:09Z] [MZ0812830S]   9/10: ¿Qué incluye un plan de control de alérgenos? -> D (attempt 1)
+[2026-11-02T18:08:10Z] [MZ0812830S]   10/10: ¿A qué tipo de peligro se asocian los alérgenos en el sistema APPCC? -> C (attempt 1)
+[2026-11-02T18:08:10Z] [MZ0812830S] All 10 answers verified as selected in the current quiz.
+[2026-11-02T18:08:10Z] [MZ0812830S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T18:08:10Z] [MZ0812830S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T18:08:10Z] [MZ0812830S] PROGRESS | MZ0812830S | Unit 09 | corregir_clicked | 10 answers | 2/5 units (40.00%) | 0/1 users finished | 0 for review
+[2026-11-02T18:08:12Z] [MZ0812830S] UNIT START | 11 | 3/5 remaining
+[2026-11-02T18:08:13Z] [MZ0812830S] Expanding Unit 11...
+[2026-11-02T18:08:14Z] [MZ0812830S] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-02T18:08:19Z] [MZ0812830S] Unit 11 opened.
+[2026-11-02T18:08:22Z] [MZ0812830S] Opening right-side Índice...
+[2026-11-02T18:08:22Z] [MZ0812830S] Test opened.
+[2026-11-02T18:08:22Z] [MZ0812830S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T18:08:30Z] [MZ0812830S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T18:08:31Z] [MZ0812830S]   1/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-02T18:08:31Z] [MZ0812830S]   2/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-02T18:08:32Z] [MZ0812830S]   3/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-02T18:08:32Z] [MZ0812830S]   4/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-02T18:08:33Z] [MZ0812830S]   5/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-02T18:08:33Z] [MZ0812830S]   6/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-02T18:08:34Z] [MZ0812830S]   7/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-02T18:08:34Z] [MZ0812830S]   8/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-02T18:08:35Z] [MZ0812830S]   9/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-02T18:08:35Z] [MZ0812830S]   10/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-02T18:08:36Z] [MZ0812830S] All 10 answers verified as selected in the current quiz.
+[2026-11-02T18:08:36Z] [MZ0812830S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T18:08:36Z] [MZ0812830S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T18:08:36Z] [MZ0812830S] PROGRESS | MZ0812830S | Unit 11 | corregir_clicked | 10 answers | 3/5 units (60.00%) | 0/1 users finished | 0 for review
+[2026-11-02T18:08:37Z] [MZ0812830S] UNIT START | 12 | 4/5 remaining
+[2026-11-02T18:08:39Z] [MZ0812830S] Expanding Unit 12...
+[2026-11-02T18:08:39Z] [MZ0812830S] Opening 'Contenido unidad 12' from the dashboard...
+[2026-11-02T18:08:45Z] [MZ0812830S] Unit 12 opened.
+[2026-11-02T18:08:48Z] [MZ0812830S] Opening right-side Índice...
+[2026-11-02T18:08:48Z] [MZ0812830S] Test opened.
+[2026-11-02T18:08:48Z] [MZ0812830S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T18:08:57Z] [MZ0812830S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T18:08:58Z] [MZ0812830S]   1/10: Según la guía del INSST, ¿es usuaria de pantallas de visualización de datos una persona que...? -> A (attempt 1)
+[2026-11-02T18:08:58Z] [MZ0812830S]   2/10: ¿El mantenimiento del orden y la limpieza puede evitar daños por? -> C (attempt 1)
+[2026-11-02T18:08:59Z] [MZ0812830S]   3/10: ¿Algunas de las causas de la insatisfacción laboral pueden ser? -> A (attempt 1)
+[2026-11-02T18:08:59Z] [MZ0812830S]   4/10: En trabajo sentado con pantallas, ¿qué medidas deben adoptarse? -> D (attempt 1)
+[2026-11-02T18:09:00Z] [MZ0812830S]   5/10: ¿Algunas situaciones de riesgo de tareas administrativas y de atención al público relacionadas con l -> A (attempt 1)
+[2026-11-02T18:09:00Z] [MZ0812830S]   6/10: ¿Algunas medidas preventivas que puede adoptar el personal respecto a los lugares de trabajo son? -> D (attempt 1)
+[2026-11-02T18:09:01Z] [MZ0812830S]   7/10: Cuando se trabaja mucho tiempo de pie, ¿qué medidas deben tenerse en cuenta? -> C (attempt 1)
+[2026-11-02T18:09:01Z] [MZ0812830S]   8/10: ¿El origen de la carga de trabajo puede estar en algunas de las siguientes condiciones de trabajo? -> B (attempt 1)
+[2026-11-02T18:09:02Z] [MZ0812830S]   9/10: ¿Una iluminación adecuada puede evitar daños derivados de? -> B (attempt 1)
+[2026-11-02T18:09:02Z] [MZ0812830S]   10/10: ¿Cuáles son las causas principales de las situaciones de riesgo relacionadas con las condiciones de  -> C (attempt 1)
+[2026-11-02T18:09:03Z] [MZ0812830S] All 10 answers verified as selected in the current quiz.
+[2026-11-02T18:09:03Z] [MZ0812830S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T18:09:03Z] [MZ0812830S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T18:09:03Z] [MZ0812830S] PROGRESS | MZ0812830S | Unit 12 | corregir_clicked | 10 answers | 4/5 units (80.00%) | 0/1 users finished | 0 for review
+[2026-11-02T18:09:04Z] [MZ0812830S] UNIT START | 13 | 5/5 remaining
+[2026-11-02T18:09:06Z] [MZ0812830S] Expanding Unit 13...
+[2026-11-02T18:09:06Z] [MZ0812830S] Opening 'Contenido unidad 13' from the dashboard...
+[2026-11-02T18:09:12Z] [MZ0812830S] Unit 13 opened.
+[2026-11-02T18:09:15Z] [MZ0812830S] Opening right-side Índice...
+[2026-11-02T18:09:15Z] [MZ0812830S] Test opened.
+[2026-11-02T18:09:15Z] [MZ0812830S] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T18:09:24Z] [MZ0812830S] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T18:09:24Z] [MZ0812830S]   1/10: Para realizar la evaluación de riesgos -> B (attempt 1)
+[2026-11-02T18:09:24Z] [MZ0812830S]   2/10: El organismo que realiza las funciones de vigilancia del cumplimiento de la normativa de prevención  -> C (attempt 1)
+[2026-11-02T18:09:25Z] [MZ0812830S]   3/10: Las Comunidades Autónomas tienen funciones en materia de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-02T18:09:25Z] [MZ0812830S]   4/10: La planificación de la actividad preventiva -> D (attempt 1)
+[2026-11-02T18:09:26Z] [MZ0812830S]   5/10: Una empresa debe constituir un Servicio de Prevención Propio: -> A (attempt 1)
+[2026-11-02T18:09:26Z] [MZ0812830S]   6/10: La formación de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-02T18:09:27Z] [MZ0812830S]   7/10: El responsable de una empresa puede asumir la organización preventiva personalmente cuando: -> D (attempt 1)
+[2026-11-02T18:09:27Z] [MZ0812830S]   8/10: Para la implantación del sistema de prevención de riesgos laborales en la empresa -> C (attempt 1)
+[2026-11-02T18:09:28Z] [MZ0812830S]   9/10: Todas las actividades preventivas pueden ser asumidas por personal propio de la empresa -> C (attempt 1)
+[2026-11-02T18:09:28Z] [MZ0812830S]   10/10: La integración de la prevención de riesgos laborales -> A (attempt 1)
+[2026-11-02T18:09:29Z] [MZ0812830S] All 10 answers verified as selected in the current quiz.
+[2026-11-02T18:09:29Z] [MZ0812830S] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T18:09:29Z] [MZ0812830S] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T18:09:29Z] [MZ0812830S] PROGRESS | MZ0812830S | Unit 13 | corregir_clicked | 10 answers | 5/5 units (100.00%) | 1/1 users finished | 0 for review
+[2026-11-02T18:09:30Z] [MZ0812830S] ACCOUNT DONE | Global 5/5 (100.00%).
+[2026-11-02T18:09:30Z] [manager] FINAL | 5/5 unit tests (100.00%) | 1/1 users fully processed | 0 to review
+[2026-11-02T18:09:30Z] [manager] Checkpoint: state_MZ0812830S_8_9_11_12_13.sqlite | Snapshot: state_MZ0812830S_8_9_11_12_13.progress.json | Log: state_MZ0812830S_8_9_11_12_13.log

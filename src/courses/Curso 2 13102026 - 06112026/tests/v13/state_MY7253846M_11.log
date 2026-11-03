@@ -1,0 +1,32 @@
+[2026-11-02T17:57:50Z] [manager] Accounts supplied: 1 distinct accounts.
+[2026-11-02T17:57:50Z] [manager] Units/account: 1 | Total units: 1 | Already done: 0 (0.00%).
+[2026-11-02T17:57:50Z] [manager] Pending accounts: 1 | max concurrency 1 | bootstrap gap 0s
+[2026-11-02T17:57:50Z] [manager] Answer delay (0.0, 0.0), test delay (0.0, 0.0), Corregir ENABLED.
+[2026-11-02T17:57:53Z] [manager] BOOTSTRAP 1/1 | MY7253846M
+[2026-11-02T17:57:53Z] [MY7253846M] START | 1 remaining unit tests. Session isolated.
+[2026-11-02T17:58:10Z] [MY7253846M] Logged in; authenticated dashboard detected.
+[2026-11-02T17:58:10Z] [MY7253846M] UNIT START | 11 | 1/1 remaining
+[2026-11-02T17:58:11Z] [MY7253846M] Expanding Unit 11...
+[2026-11-02T17:58:12Z] [MY7253846M] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-02T17:58:17Z] [MY7253846M] Unit 11 opened.
+[2026-11-02T17:58:21Z] [MY7253846M] Opening right-side Índice...
+[2026-11-02T17:58:21Z] [MY7253846M] Test opened.
+[2026-11-02T17:58:21Z] [MY7253846M] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:58:31Z] [MY7253846M] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:58:31Z] [MY7253846M]   1/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-02T17:58:32Z] [MY7253846M]   2/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-02T17:58:32Z] [MY7253846M]   3/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-02T17:58:33Z] [MY7253846M]   4/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-02T17:58:33Z] [MY7253846M]   5/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-02T17:58:34Z] [MY7253846M]   6/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-02T17:58:34Z] [MY7253846M]   7/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-02T17:58:35Z] [MY7253846M]   8/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-02T17:58:35Z] [MY7253846M]   9/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-02T17:58:36Z] [MY7253846M]   10/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-02T17:58:36Z] [MY7253846M] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:58:36Z] [MY7253846M] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:58:36Z] [MY7253846M] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:58:36Z] [MY7253846M] PROGRESS | MY7253846M | Unit 11 | corregir_clicked | 10 answers | 1/1 units (100.00%) | 1/1 users finished | 0 for review
+[2026-11-02T17:58:39Z] [MY7253846M] ACCOUNT DONE | Global 1/1 (100.00%).
+[2026-11-02T17:58:39Z] [manager] FINAL | 1/1 unit tests (100.00%) | 1/1 users fully processed | 0 to review
+[2026-11-02T17:58:39Z] [manager] Checkpoint: state_MY7253846M_11.sqlite | Snapshot: state_MY7253846M_11.progress.json | Log: state_MY7253846M_11.log

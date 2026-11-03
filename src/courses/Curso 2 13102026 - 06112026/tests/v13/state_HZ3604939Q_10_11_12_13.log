@@ -1,0 +1,98 @@
+[2026-11-02T17:57:50Z] [manager] Accounts supplied: 1 distinct accounts.
+[2026-11-02T17:57:50Z] [manager] Units/account: 4 | Total units: 4 | Already done: 0 (0.00%).
+[2026-11-02T17:57:50Z] [manager] Pending accounts: 1 | max concurrency 1 | bootstrap gap 0s
+[2026-11-02T17:57:50Z] [manager] Answer delay (0.0, 0.0), test delay (0.0, 0.0), Corregir ENABLED.
+[2026-11-02T17:57:53Z] [manager] BOOTSTRAP 1/1 | HZ3604939Q
+[2026-11-02T17:57:53Z] [HZ3604939Q] START | 4 remaining unit tests. Session isolated.
+[2026-11-02T17:58:10Z] [HZ3604939Q] Logged in; authenticated dashboard detected.
+[2026-11-02T17:58:10Z] [HZ3604939Q] UNIT START | 10 | 1/4 remaining
+[2026-11-02T17:58:12Z] [HZ3604939Q] Expanding Unit 10...
+[2026-11-02T17:58:13Z] [HZ3604939Q] Opening 'Contenido unidad 10' from the dashboard...
+[2026-11-02T17:58:18Z] [HZ3604939Q] Unit 10 opened.
+[2026-11-02T17:58:21Z] [HZ3604939Q] Opening right-side Índice...
+[2026-11-02T17:58:21Z] [HZ3604939Q] Test opened.
+[2026-11-02T17:58:21Z] [HZ3604939Q] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:58:29Z] [HZ3604939Q] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:58:30Z] [HZ3604939Q]   1/10: Las consecuencias de los riesgos profesionales -> B (attempt 1)
+[2026-11-02T17:58:30Z] [HZ3604939Q]   2/10: Un riesgo laboral se define como: -> B (attempt 1)
+[2026-11-02T17:58:31Z] [HZ3604939Q]   3/10: Las condiciones de trabajo son: -> D (attempt 1)
+[2026-11-02T17:58:32Z] [HZ3604939Q]   4/10: Un accidente que tiene lugar en el camino de casa al trabajo: -> B (attempt 1)
+[2026-11-02T17:58:32Z] [HZ3604939Q]   5/10: ¿Cuáles de las siguientes situaciones se corresponden con condiciones del trabajo relacionadas con e -> A (attempt 1)
+[2026-11-02T17:58:33Z] [HZ3604939Q]   6/10: ¿Cuáles son las categorías en las que se suelen agrupar las condiciones de trabajo? -> B (attempt 1)
+[2026-11-02T17:58:33Z] [HZ3604939Q]   7/10: En materia de prevención de riesgos laborales: -> C (attempt 1)
+[2026-11-02T17:58:34Z] [HZ3604939Q]   8/10: La higiene industrial: -> D (attempt 1)
+[2026-11-02T17:58:34Z] [HZ3604939Q]   9/10: El Reglamento de los Servicios de Prevención, aprobado en el Real Decreto 39/1997. -> D (attempt 1)
+[2026-11-02T17:58:35Z] [HZ3604939Q]   10/10: La Ley 31/1995, de prevención de riesgos laborales: -> A (attempt 1)
+[2026-11-02T17:58:35Z] [HZ3604939Q] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:58:35Z] [HZ3604939Q] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:58:35Z] [HZ3604939Q] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:58:35Z] [HZ3604939Q] PROGRESS | HZ3604939Q | Unit 10 | corregir_clicked | 10 answers | 1/4 units (25.00%) | 0/1 users finished | 0 for review
+[2026-11-02T17:58:37Z] [HZ3604939Q] UNIT START | 11 | 2/4 remaining
+[2026-11-02T17:58:38Z] [HZ3604939Q] Expanding Unit 11...
+[2026-11-02T17:58:39Z] [HZ3604939Q] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-02T17:58:44Z] [HZ3604939Q] Unit 11 opened.
+[2026-11-02T17:58:47Z] [HZ3604939Q] Opening right-side Índice...
+[2026-11-02T17:58:48Z] [HZ3604939Q] Test opened.
+[2026-11-02T17:58:48Z] [HZ3604939Q] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:58:55Z] [HZ3604939Q] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:58:56Z] [HZ3604939Q]   1/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-02T17:58:57Z] [HZ3604939Q]   2/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-02T17:58:57Z] [HZ3604939Q]   3/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-02T17:58:58Z] [HZ3604939Q]   4/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-02T17:58:58Z] [HZ3604939Q]   5/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-02T17:58:59Z] [HZ3604939Q]   6/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-02T17:58:59Z] [HZ3604939Q]   7/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-02T17:59:00Z] [HZ3604939Q]   8/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-02T17:59:00Z] [HZ3604939Q]   9/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-02T17:59:01Z] [HZ3604939Q]   10/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-02T17:59:01Z] [HZ3604939Q] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:59:01Z] [HZ3604939Q] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:59:01Z] [HZ3604939Q] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:59:01Z] [HZ3604939Q] PROGRESS | HZ3604939Q | Unit 11 | corregir_clicked | 10 answers | 2/4 units (50.00%) | 0/1 users finished | 0 for review
+[2026-11-02T17:59:03Z] [HZ3604939Q] UNIT START | 12 | 3/4 remaining
+[2026-11-02T17:59:04Z] [HZ3604939Q] Expanding Unit 12...
+[2026-11-02T17:59:05Z] [HZ3604939Q] Opening 'Contenido unidad 12' from the dashboard...
+[2026-11-02T17:59:11Z] [HZ3604939Q] Unit 12 opened.
+[2026-11-02T17:59:14Z] [HZ3604939Q] Opening right-side Índice...
+[2026-11-02T17:59:14Z] [HZ3604939Q] Test opened.
+[2026-11-02T17:59:14Z] [HZ3604939Q] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:59:25Z] [HZ3604939Q] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:59:25Z] [HZ3604939Q]   1/10: ¿Algunas situaciones de riesgo de tareas administrativas y de atención al público relacionadas con l -> A (attempt 1)
+[2026-11-02T17:59:26Z] [HZ3604939Q]   2/10: ¿Algunas medidas preventivas que puede adoptar el personal respecto a los lugares de trabajo son? -> D (attempt 1)
+[2026-11-02T17:59:26Z] [HZ3604939Q]   3/10: ¿El origen de la carga de trabajo puede estar en algunas de las siguientes condiciones de trabajo? -> B (attempt 1)
+[2026-11-02T17:59:27Z] [HZ3604939Q]   4/10: ¿Algunas de las causas de la insatisfacción laboral pueden ser? -> A (attempt 1)
+[2026-11-02T17:59:27Z] [HZ3604939Q]   5/10: Según la guía del INSST, ¿es usuaria de pantallas de visualización de datos una persona que...? -> A (attempt 1)
+[2026-11-02T17:59:28Z] [HZ3604939Q]   6/10: En trabajo sentado con pantallas, ¿qué medidas deben adoptarse? -> D (attempt 1)
+[2026-11-02T17:59:28Z] [HZ3604939Q]   7/10: ¿El mantenimiento del orden y la limpieza puede evitar daños por? -> C (attempt 1)
+[2026-11-02T17:59:29Z] [HZ3604939Q]   8/10: ¿Cuáles son las causas principales de las situaciones de riesgo relacionadas con las condiciones de  -> C (attempt 1)
+[2026-11-02T17:59:29Z] [HZ3604939Q]   9/10: ¿Una iluminación adecuada puede evitar daños derivados de? -> B (attempt 1)
+[2026-11-02T17:59:30Z] [HZ3604939Q]   10/10: Cuando se trabaja mucho tiempo de pie, ¿qué medidas deben tenerse en cuenta? -> C (attempt 1)
+[2026-11-02T17:59:30Z] [HZ3604939Q] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:59:30Z] [HZ3604939Q] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:59:30Z] [HZ3604939Q] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:59:30Z] [HZ3604939Q] PROGRESS | HZ3604939Q | Unit 12 | corregir_clicked | 10 answers | 3/4 units (75.00%) | 0/1 users finished | 0 for review
+[2026-11-02T17:59:32Z] [HZ3604939Q] UNIT START | 13 | 4/4 remaining
+[2026-11-02T17:59:33Z] [HZ3604939Q] Expanding Unit 13...
+[2026-11-02T17:59:34Z] [HZ3604939Q] Opening 'Contenido unidad 13' from the dashboard...
+[2026-11-02T17:59:41Z] [HZ3604939Q] Unit 13 opened.
+[2026-11-02T17:59:44Z] [HZ3604939Q] Opening right-side Índice...
+[2026-11-02T17:59:45Z] [HZ3604939Q] Test opened.
+[2026-11-02T17:59:45Z] [HZ3604939Q] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:59:52Z] [HZ3604939Q] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:59:52Z] [HZ3604939Q]   1/10: El responsable de una empresa puede asumir la organización preventiva personalmente cuando: -> D (attempt 1)
+[2026-11-02T17:59:53Z] [HZ3604939Q]   2/10: Una empresa debe constituir un Servicio de Prevención Propio: -> A (attempt 1)
+[2026-11-02T17:59:53Z] [HZ3604939Q]   3/10: La planificación de la actividad preventiva -> D (attempt 1)
+[2026-11-02T17:59:54Z] [HZ3604939Q]   4/10: Para la implantación del sistema de prevención de riesgos laborales en la empresa -> C (attempt 1)
+[2026-11-02T17:59:54Z] [HZ3604939Q]   5/10: La formación de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-02T17:59:55Z] [HZ3604939Q]   6/10: El organismo que realiza las funciones de vigilancia del cumplimiento de la normativa de prevención  -> C (attempt 1)
+[2026-11-02T17:59:55Z] [HZ3604939Q]   7/10: Todas las actividades preventivas pueden ser asumidas por personal propio de la empresa -> C (attempt 1)
+[2026-11-02T17:59:56Z] [HZ3604939Q]   8/10: La integración de la prevención de riesgos laborales -> A (attempt 1)
+[2026-11-02T17:59:56Z] [HZ3604939Q]   9/10: Las Comunidades Autónomas tienen funciones en materia de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-02T17:59:57Z] [HZ3604939Q]   10/10: Para realizar la evaluación de riesgos -> B (attempt 1)
+[2026-11-02T17:59:57Z] [HZ3604939Q] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:59:57Z] [HZ3604939Q] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:59:57Z] [HZ3604939Q] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:59:57Z] [HZ3604939Q] PROGRESS | HZ3604939Q | Unit 13 | corregir_clicked | 10 answers | 4/4 units (100.00%) | 1/1 users finished | 0 for review
+[2026-11-02T17:59:59Z] [HZ3604939Q] ACCOUNT DONE | Global 4/4 (100.00%).
+[2026-11-02T17:59:59Z] [manager] FINAL | 4/4 unit tests (100.00%) | 1/1 users fully processed | 0 to review
+[2026-11-02T17:59:59Z] [manager] Checkpoint: state_HZ3604939Q_10_11_12_13.sqlite | Snapshot: state_HZ3604939Q_10_11_12_13.progress.json | Log: state_HZ3604939Q_10_11_12_13.log

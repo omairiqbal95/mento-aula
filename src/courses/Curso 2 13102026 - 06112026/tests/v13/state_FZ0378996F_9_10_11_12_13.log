@@ -1,0 +1,120 @@
+[2026-11-02T17:57:50Z] [manager] Accounts supplied: 1 distinct accounts.
+[2026-11-02T17:57:50Z] [manager] Units/account: 5 | Total units: 5 | Already done: 0 (0.00%).
+[2026-11-02T17:57:50Z] [manager] Pending accounts: 1 | max concurrency 1 | bootstrap gap 0s
+[2026-11-02T17:57:50Z] [manager] Answer delay (0.0, 0.0), test delay (0.0, 0.0), Corregir ENABLED.
+[2026-11-02T17:57:53Z] [manager] BOOTSTRAP 1/1 | FZ0378996F
+[2026-11-02T17:57:53Z] [FZ0378996F] START | 5 remaining unit tests. Session isolated.
+[2026-11-02T17:58:10Z] [FZ0378996F] Logged in; authenticated dashboard detected.
+[2026-11-02T17:58:10Z] [FZ0378996F] UNIT START | 09 | 1/5 remaining
+[2026-11-02T17:58:12Z] [FZ0378996F] Expanding Unit 9...
+[2026-11-02T17:58:12Z] [FZ0378996F] Opening 'Contenido unidad 9' from the dashboard...
+[2026-11-02T17:58:18Z] [FZ0378996F] Unit 9 opened.
+[2026-11-02T17:58:21Z] [FZ0378996F] Opening right-side Índice...
+[2026-11-02T17:58:21Z] [FZ0378996F] Test opened.
+[2026-11-02T17:58:21Z] [FZ0378996F] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:58:30Z] [FZ0378996F] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:58:30Z] [FZ0378996F]   1/10: ¿En qué fase del APPCC deben integrarse los alérgenos como peligro? -> C (attempt 1)
+[2026-11-02T17:58:31Z] [FZ0378996F]   2/10: ¿Cuál es una medida adecuada para el almacenamiento seguro de materias primas con alérgenos? -> C (attempt 1)
+[2026-11-02T17:58:31Z] [FZ0378996F]   3/10: ¿A qué tipo de peligro se asocian los alérgenos en el sistema APPCC? -> C (attempt 1)
+[2026-11-02T17:58:32Z] [FZ0378996F]   4/10: ¿Cuál es el orden recomendado en procesos de elaboración? -> A (attempt 1)
+[2026-11-02T17:58:32Z] [FZ0378996F]   5/10: ¿Qué elemento forma parte de un sistema de trazabilidad eficaz? -> C (attempt 1)
+[2026-11-02T17:58:33Z] [FZ0378996F]   6/10: ¿Qué principio debe cumplir el etiquetado de alérgenos? -> B (attempt 1)
+[2026-11-02T17:58:33Z] [FZ0378996F]   7/10: ¿Qué incluye un plan de control de alérgenos? -> D (attempt 1)
+[2026-11-02T17:58:34Z] [FZ0378996F]   8/10: ¿Qué documento es imprescindible solicitar al proveedor para verificar la presencia de alérgenos? -> B (attempt 1)
+[2026-11-02T17:58:34Z] [FZ0378996F]   9/10: ¿Qué afirmación es correcta respecto a la limpieza de alérgenos? -> C (attempt 1)
+[2026-11-02T17:58:35Z] [FZ0378996F]   10/10: ¿Qué práctica es adecuada durante el servicio de un plato apto para personas con alergias? -> D (attempt 1)
+[2026-11-02T17:58:35Z] [FZ0378996F] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:58:35Z] [FZ0378996F] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:58:35Z] [FZ0378996F] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:58:35Z] [FZ0378996F] PROGRESS | FZ0378996F | Unit 09 | corregir_clicked | 10 answers | 1/5 units (20.00%) | 0/1 users finished | 0 for review
+[2026-11-02T17:58:37Z] [FZ0378996F] UNIT START | 10 | 2/5 remaining
+[2026-11-02T17:58:38Z] [FZ0378996F] Expanding Unit 10...
+[2026-11-02T17:58:39Z] [FZ0378996F] Opening 'Contenido unidad 10' from the dashboard...
+[2026-11-02T17:58:45Z] [FZ0378996F] Unit 10 opened.
+[2026-11-02T17:58:48Z] [FZ0378996F] Opening right-side Índice...
+[2026-11-02T17:58:48Z] [FZ0378996F] Test opened.
+[2026-11-02T17:58:48Z] [FZ0378996F] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:58:55Z] [FZ0378996F] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:58:55Z] [FZ0378996F]   1/10: Las condiciones de trabajo son: -> D (attempt 1)
+[2026-11-02T17:58:56Z] [FZ0378996F]   2/10: La Ley 31/1995, de prevención de riesgos laborales: -> A (attempt 1)
+[2026-11-02T17:58:56Z] [FZ0378996F]   3/10: El Reglamento de los Servicios de Prevención, aprobado en el Real Decreto 39/1997. -> D (attempt 1)
+[2026-11-02T17:58:57Z] [FZ0378996F]   4/10: Un accidente que tiene lugar en el camino de casa al trabajo: -> B (attempt 1)
+[2026-11-02T17:58:57Z] [FZ0378996F]   5/10: La higiene industrial: -> D (attempt 1)
+[2026-11-02T17:58:58Z] [FZ0378996F]   6/10: Las consecuencias de los riesgos profesionales -> B (attempt 1)
+[2026-11-02T17:58:59Z] [FZ0378996F]   7/10: ¿Cuáles son las categorías en las que se suelen agrupar las condiciones de trabajo? -> B (attempt 1)
+[2026-11-02T17:58:59Z] [FZ0378996F]   8/10: Un riesgo laboral se define como: -> B (attempt 1)
+[2026-11-02T17:59:00Z] [FZ0378996F]   9/10: ¿Cuáles de las siguientes situaciones se corresponden con condiciones del trabajo relacionadas con e -> A (attempt 1)
+[2026-11-02T17:59:00Z] [FZ0378996F]   10/10: En materia de prevención de riesgos laborales: -> C (attempt 1)
+[2026-11-02T17:59:01Z] [FZ0378996F] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:59:01Z] [FZ0378996F] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:59:01Z] [FZ0378996F] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:59:01Z] [FZ0378996F] PROGRESS | FZ0378996F | Unit 10 | corregir_clicked | 10 answers | 2/5 units (40.00%) | 0/1 users finished | 0 for review
+[2026-11-02T17:59:02Z] [FZ0378996F] UNIT START | 11 | 3/5 remaining
+[2026-11-02T17:59:04Z] [FZ0378996F] Expanding Unit 11...
+[2026-11-02T17:59:04Z] [FZ0378996F] Opening 'Contenido unidad 11' from the dashboard...
+[2026-11-02T17:59:11Z] [FZ0378996F] Unit 11 opened.
+[2026-11-02T17:59:14Z] [FZ0378996F] Opening right-side Índice...
+[2026-11-02T17:59:14Z] [FZ0378996F] Test opened.
+[2026-11-02T17:59:14Z] [FZ0378996F] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:59:22Z] [FZ0378996F] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:59:25Z] [FZ0378996F]   1/10: Cuando hay situaciones de riesgo derivadas de la exposición a agentes químicos, físicos o biológicos -> C (attempt 1)
+[2026-11-02T17:59:25Z] [FZ0378996F]   2/10: Hay que adoptar medidas preventivas para reducir el nivel de ruido: -> C (attempt 1)
+[2026-11-02T17:59:26Z] [FZ0378996F]   3/10: Un fuego de tipo A: -> B (attempt 1)
+[2026-11-02T17:59:26Z] [FZ0378996F]   4/10: ¿Cuáles son las principales medidas que se pueden adoptar para evitar el riesgo eléctrico? -> D (attempt 1)
+[2026-11-02T17:59:27Z] [FZ0378996F]   5/10: Las situaciones de riesgo derivadas de las condiciones de seguridad que se pueden encontrar en un ce -> A (attempt 1)
+[2026-11-02T17:59:27Z] [FZ0378996F]   6/10: El control de la salud del personal de la empresa consiste en: -> D (attempt 1)
+[2026-11-02T17:59:28Z] [FZ0378996F]   7/10: Para asegurar la evacuación en caso de fallo eléctrico, todos los centros de trabajo deben disponer  -> B (attempt 1)
+[2026-11-02T17:59:28Z] [FZ0378996F]   8/10: Indica qué debería hacer una persona que tiene una pequeña herida en una mano y tiene que manipular  -> B (attempt 1)
+[2026-11-02T17:59:29Z] [FZ0378996F]   9/10: El protocolo de actuación para activar el sistema de emergencia sanitaria consiste en -> A (attempt 1)
+[2026-11-02T17:59:29Z] [FZ0378996F]   10/10: El riesgo de aparición de los trastornos musculoesqueléticos de los miembros superiores está condici -> D (attempt 1)
+[2026-11-02T17:59:30Z] [FZ0378996F] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:59:30Z] [FZ0378996F] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:59:30Z] [FZ0378996F] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:59:30Z] [FZ0378996F] PROGRESS | FZ0378996F | Unit 11 | corregir_clicked | 10 answers | 3/5 units (60.00%) | 0/1 users finished | 0 for review
+[2026-11-02T17:59:31Z] [FZ0378996F] UNIT START | 12 | 4/5 remaining
+[2026-11-02T17:59:33Z] [FZ0378996F] Expanding Unit 12...
+[2026-11-02T17:59:33Z] [FZ0378996F] Opening 'Contenido unidad 12' from the dashboard...
+[2026-11-02T17:59:40Z] [FZ0378996F] Unit 12 opened.
+[2026-11-02T17:59:44Z] [FZ0378996F] Opening right-side Índice...
+[2026-11-02T17:59:44Z] [FZ0378996F] Test opened.
+[2026-11-02T17:59:44Z] [FZ0378996F] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T17:59:52Z] [FZ0378996F] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T17:59:53Z] [FZ0378996F]   1/10: Cuando se trabaja mucho tiempo de pie, ¿qué medidas deben tenerse en cuenta? -> C (attempt 1)
+[2026-11-02T17:59:53Z] [FZ0378996F]   2/10: ¿Una iluminación adecuada puede evitar daños derivados de? -> B (attempt 1)
+[2026-11-02T17:59:54Z] [FZ0378996F]   3/10: ¿Cuáles son las causas principales de las situaciones de riesgo relacionadas con las condiciones de  -> C (attempt 1)
+[2026-11-02T17:59:54Z] [FZ0378996F]   4/10: ¿El mantenimiento del orden y la limpieza puede evitar daños por? -> C (attempt 1)
+[2026-11-02T17:59:54Z] [FZ0378996F]   5/10: ¿Algunas medidas preventivas que puede adoptar el personal respecto a los lugares de trabajo son? -> D (attempt 1)
+[2026-11-02T17:59:55Z] [FZ0378996F]   6/10: En trabajo sentado con pantallas, ¿qué medidas deben adoptarse? -> D (attempt 1)
+[2026-11-02T17:59:55Z] [FZ0378996F]   7/10: ¿El origen de la carga de trabajo puede estar en algunas de las siguientes condiciones de trabajo? -> B (attempt 1)
+[2026-11-02T17:59:56Z] [FZ0378996F]   8/10: ¿Algunas situaciones de riesgo de tareas administrativas y de atención al público relacionadas con l -> A (attempt 1)
+[2026-11-02T17:59:56Z] [FZ0378996F]   9/10: Según la guía del INSST, ¿es usuaria de pantallas de visualización de datos una persona que...? -> A (attempt 1)
+[2026-11-02T17:59:57Z] [FZ0378996F]   10/10: ¿Algunas de las causas de la insatisfacción laboral pueden ser? -> A (attempt 1)
+[2026-11-02T17:59:57Z] [FZ0378996F] All 10 answers verified as selected in the current quiz.
+[2026-11-02T17:59:57Z] [FZ0378996F] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T17:59:57Z] [FZ0378996F] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T17:59:57Z] [FZ0378996F] PROGRESS | FZ0378996F | Unit 12 | corregir_clicked | 10 answers | 4/5 units (80.00%) | 0/1 users finished | 0 for review
+[2026-11-02T17:59:59Z] [FZ0378996F] UNIT START | 13 | 5/5 remaining
+[2026-11-02T18:00:00Z] [FZ0378996F] Expanding Unit 13...
+[2026-11-02T18:00:01Z] [FZ0378996F] Opening 'Contenido unidad 13' from the dashboard...
+[2026-11-02T18:00:07Z] [FZ0378996F] Unit 13 opened.
+[2026-11-02T18:00:10Z] [FZ0378996F] Opening right-side Índice...
+[2026-11-02T18:00:11Z] [FZ0378996F] Test opened.
+[2026-11-02T18:00:11Z] [FZ0378996F] Finding the quiz questions (including SCORM iframes)...
+[2026-11-02T18:00:18Z] [FZ0378996F] Detected 10 questions: 10 matched, 0 unmatched.
+[2026-11-02T18:00:18Z] [FZ0378996F]   1/10: Para realizar la evaluación de riesgos -> B (attempt 1)
+[2026-11-02T18:00:19Z] [FZ0378996F]   2/10: La integración de la prevención de riesgos laborales -> A (attempt 1)
+[2026-11-02T18:00:19Z] [FZ0378996F]   3/10: La formación de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-02T18:00:20Z] [FZ0378996F]   4/10: Para la implantación del sistema de prevención de riesgos laborales en la empresa -> C (attempt 1)
+[2026-11-02T18:00:20Z] [FZ0378996F]   5/10: El organismo que realiza las funciones de vigilancia del cumplimiento de la normativa de prevención  -> C (attempt 1)
+[2026-11-02T18:00:21Z] [FZ0378996F]   6/10: El responsable de una empresa puede asumir la organización preventiva personalmente cuando: -> D (attempt 1)
+[2026-11-02T18:00:21Z] [FZ0378996F]   7/10: Las Comunidades Autónomas tienen funciones en materia de prevención de riesgos laborales -> B (attempt 1)
+[2026-11-02T18:00:22Z] [FZ0378996F]   8/10: Una empresa debe constituir un Servicio de Prevención Propio: -> A (attempt 1)
+[2026-11-02T18:00:22Z] [FZ0378996F]   9/10: Todas las actividades preventivas pueden ser asumidas por personal propio de la empresa -> C (attempt 1)
+[2026-11-02T18:00:23Z] [FZ0378996F]   10/10: La planificación de la actividad preventiva -> D (attempt 1)
+[2026-11-02T18:00:23Z] [FZ0378996F] All 10 answers verified as selected in the current quiz.
+[2026-11-02T18:00:23Z] [FZ0378996F] Looking for the Corregir button (including SCORM iframes)...
+[2026-11-02T18:00:23Z] [FZ0378996F] Clicked Corregir. The site may now grade/save this attempt.
+[2026-11-02T18:00:23Z] [FZ0378996F] PROGRESS | FZ0378996F | Unit 13 | corregir_clicked | 10 answers | 5/5 units (100.00%) | 1/1 users finished | 0 for review
+[2026-11-02T18:00:25Z] [FZ0378996F] ACCOUNT DONE | Global 5/5 (100.00%).
+[2026-11-02T18:00:25Z] [manager] FINAL | 5/5 unit tests (100.00%) | 1/1 users fully processed | 0 to review
+[2026-11-02T18:00:25Z] [manager] Checkpoint: state_FZ0378996F_9_10_11_12_13.sqlite | Snapshot: state_FZ0378996F_9_10_11_12_13.progress.json | Log: state_FZ0378996F_9_10_11_12_13.log

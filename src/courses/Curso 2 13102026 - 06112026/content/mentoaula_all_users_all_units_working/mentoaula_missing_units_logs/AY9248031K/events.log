@@ -1,0 +1,40 @@
+2026-11-01 20:30:25,071 [INFO] Automatic login (headless=True). Waiting for visible login form...
+2026-11-01 20:30:25,152 [INFO] Using verified MentoAula login controls #usuario / #password
+2026-11-01 20:30:25,196 [INFO] Filled credential fields (user=usuario, password=[redacted]
+2026-11-01 20:30:25,214 [INFO] Submitting verified MentoAula button #btnLogin
+2026-11-01 20:30:27,391 [INFO] Waiting for authenticated dashboard (32s remaining)...
+2026-11-01 20:30:35,455 [INFO] Waiting for authenticated dashboard (24s remaining)...
+2026-11-01 20:30:38,029 [INFO] Login verified successfully: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:30:40,663 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:30:40,664 [INFO] BEGIN target unit 11 (2 targets). Full-course time baseline 34.87 hours
+2026-11-01 20:30:41,683 [INFO] Unit 11 | expanding accordion #tod11 | frame: https://campus.mentoaula.com/IndexIF.aspx
+2026-11-01 20:30:41,937 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:30:41,938 [INFO] Unit 11 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:30:47,866 [INFO] Unit 11 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:30:47,891 [INFO] Unit 11 | waiting for nested SCORM content; frames=2
+2026-11-01 20:30:49,773 [INFO] Unit 11 | waiting for nested SCORM content; frames=4
+2026-11-01 20:30:50,080 [INFO] Unit 11 | waiting for nested SCORM content; frames=5
+2026-11-01 20:30:50,733 [INFO] Unit 11 | real lesson content detected: /general/prt/prg/test.php (4884 chars; 5 frames)
+2026-11-01 20:30:51,181 [INFO] Unit 11 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:30:54,903 [WARNING] Unit 11 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:30:54,969 [INFO] Unit 11 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-011/11/test11.htm?width=782&height=485&man_uri=&e
+2026-11-01 20:30:55,094 [INFO] Unit 11 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:30:55,094 [INFO] Unit 11 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:30:55,094 [INFO] NAVIGATED target unit 11; 1/2 targets navigated
+2026-11-01 20:30:55,103 [INFO] BEGIN target unit 13 (2 targets). Full-course time baseline 34.87 hours
+2026-11-01 20:30:57,130 [INFO] Unit 13 | expanding accordion #tod13 | frame: https://campus.mentoaula.com/IndexIF.aspx#
+2026-11-01 20:30:57,296 [INFO] Dashboard units detected: 13/13 (SCORM links: 13) / frames: 1
+2026-11-01 20:30:57,297 [INFO] Unit 13 | triggering SCORM window.open and waiting for popup
+2026-11-01 20:31:02,716 [WARNING] Unit 13 | no SCORM popup in 5 seconds; using captured dashboard SCORM URL
+2026-11-01 20:31:09,128 [INFO] Unit 13 | SCORM candidate https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted] | frames=2
+2026-11-01 20:31:09,154 [INFO] Unit 13 | waiting for nested SCORM content; frames=2
+2026-11-01 20:31:09,885 [INFO] Unit 13 | waiting for nested SCORM content; frames=4
+2026-11-01 20:31:18,475 [INFO] Unit 13 | waiting for nested SCORM content; frames=5
+2026-11-01 20:31:23,282 [INFO] Unit 13 | real lesson content detected: /general/prt/prg/test.php (4860 chars; 5 frames)
+2026-11-01 20:31:23,445 [INFO] Unit 13 | inspecting SCORM player https://campus.mentoaula.com/Herramientas/Scorm/Consumo/ScormPlayer.aspx?[redacted]
+2026-11-01 20:31:28,417 [WARNING] Unit 13 | SCORM menu not detected; falling back to Next and generic menus.
+2026-11-01 20:31:28,503 [INFO] Unit 13 | VIDEO DETECTED | 1 visible player(s) | https://contents.contenidoscumlaude.com/Scorm/Repositorio/Cloud/Cumlaude/MAUD106-013/13/test13.htm?width=1165&height=685&man_uri=&
+2026-11-01 20:31:28,582 [INFO] Unit 13 | stopped (navigation_exhausted); saved 1 states, discovered 0 media links
+2026-11-01 20:31:28,582 [INFO] Unit 13 navigation end: 1 states, 0/0 menu entries visited
+2026-11-01 20:31:28,583 [INFO] NAVIGATED target unit 13; 2/2 targets navigated
+2026-11-01 20:31:28,590 [INFO] ALL 2 target units traversed (automated load-test navigation only).

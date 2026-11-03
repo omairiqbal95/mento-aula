@@ -1,0 +1,697 @@
+{
+  "updated_utc": "2026-11-01T01:17:40+00:00",
+  "units": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "summary": {
+    "done": 59,
+    "review": 0,
+    "total": 1001,
+    "percent": 5.89,
+    "finished_users": 0,
+    "total_users": 77
+  },
+  "users_random_order": [
+    "SZ5271225K",
+    "AY6677383Z",
+    "SY8944954S",
+    "NZ4796614S",
+    "G39407254C",
+    "A31917609A",
+    "AY3333971C",
+    "AX5554093F",
+    "SX4461560C",
+    "SY9118104K",
+    "GZ0145367N",
+    "AZ0987412G",
+    "MY6306123C",
+    "G24555247X",
+    "SY6751387G",
+    "AY9248031K",
+    "BZ4616363S",
+    "MY7946493F",
+    "LZ0663433A",
+    "KY0346526E",
+    "MY7253846M",
+    "SY6887616G",
+    "SY4049934Q",
+    "MY8967725Q",
+    "SY5190468A",
+    "MZ1634335Y",
+    "AZ3034099J",
+    "M06314752X",
+    "GZ2760289H",
+    "HZ3604939Q",
+    "RY1075568X",
+    "YY8013789M",
+    "M31924836P",
+    "MZ0812830S",
+    "GZ4029365T",
+    "MY8442360V",
+    "AY6977997H",
+    "CZ1404249N",
+    "AZ0849940A",
+    "AY7074144W",
+    "MY1936511V",
+    "ZY9002092K",
+    "GY1247449N",
+    "NY6887632C",
+    "SZ3388168C",
+    "TY3333733N",
+    "AY3864633A",
+    "NX4268506M",
+    "PZ0941874Y",
+    "SY0360977Y",
+    "DZ0597856E",
+    "AZ3562834R",
+    "AX3203162K",
+    "FZ0622850S",
+    "SY8042436V",
+    "JZ3995527H",
+    "MY0077187J",
+    "IY5519168X",
+    "UZ3441388H",
+    "ZY9014984X",
+    "MZ0592349N",
+    "FZ0378996F",
+    "J26611206E",
+    "AZ4239973C",
+    "TY9631200X",
+    "SY1781138D",
+    "ZY5282312P",
+    "BZ0076857L",
+    "SY1887743D",
+    "KY5927553F",
+    "IZ5322064F",
+    "AY2337615R",
+    "UZ3686258F",
+    "MY6781509L",
+    "M60049813X",
+    "AX3830923C",
+    "ZZ0297697J"
+  ],
+  "results": {
+    "SZ5271225K": {
+      "1": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:08:15+00:00"
+      },
+      "2": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:09:19+00:00"
+      },
+      "3": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:09:48+00:00"
+      },
+      "4": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:10:35+00:00"
+      },
+      "5": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:11:07+00:00"
+      },
+      "6": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:11:51+00:00"
+      },
+      "7": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:12:46+00:00"
+      },
+      "8": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:16+00:00"
+      },
+      "9": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:42+00:00"
+      },
+      "10": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:12+00:00"
+      },
+      "11": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:39+00:00"
+      },
+      "12": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:15:07+00:00"
+      },
+      "13": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:15:36+00:00"
+      }
+    },
+    "AY6677383Z": {
+      "1": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:08:13+00:00"
+      },
+      "2": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:09:19+00:00"
+      },
+      "3": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:09:47+00:00"
+      },
+      "4": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:10:36+00:00"
+      },
+      "5": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:11:10+00:00"
+      },
+      "6": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:11:50+00:00"
+      },
+      "7": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:12:46+00:00"
+      },
+      "8": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:15+00:00"
+      },
+      "9": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:41+00:00"
+      },
+      "10": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:09+00:00"
+      },
+      "11": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:37+00:00"
+      },
+      "12": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:15:06+00:00"
+      },
+      "13": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:15:35+00:00"
+      }
+    },
+    "SY8944954S": {
+      "1": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:07:52+00:00"
+      },
+      "2": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:09:11+00:00"
+      },
+      "3": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:09:38+00:00"
+      },
+      "4": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:10:07+00:00"
+      },
+      "5": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:10:57+00:00"
+      },
+      "6": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:11:24+00:00"
+      },
+      "7": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:12:36+00:00"
+      },
+      "8": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:06+00:00"
+      },
+      "9": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:33+00:00"
+      },
+      "10": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:02+00:00"
+      },
+      "11": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:30+00:00"
+      },
+      "12": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:58+00:00"
+      },
+      "13": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:15:27+00:00"
+      }
+    },
+    "NZ4796614S": {
+      "1": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:08:18+00:00"
+      },
+      "2": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:09:19+00:00"
+      },
+      "3": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:09:47+00:00"
+      },
+      "4": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:10:35+00:00"
+      },
+      "5": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:11:07+00:00"
+      },
+      "6": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:11:51+00:00"
+      },
+      "7": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:12:46+00:00"
+      },
+      "8": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:14+00:00"
+      },
+      "9": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:42+00:00"
+      },
+      "10": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:10+00:00"
+      },
+      "11": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:37+00:00"
+      },
+      "12": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:15:06+00:00"
+      },
+      "13": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:15:35+00:00"
+      }
+    },
+    "G39407254C": {},
+    "A31917609A": {
+      "1": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:08:55+00:00"
+      },
+      "2": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:09:27+00:00"
+      },
+      "3": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:09:58+00:00"
+      },
+      "4": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:10:56+00:00"
+      },
+      "5": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:11:24+00:00"
+      },
+      "6": {
+        "status": "error",
+        "answers": 0,
+        "details": "RuntimeError: Quiz controls disappeared after SCORM navigation; nothing was submitted.",
+        "updated_utc": "2026-11-01T01:12:21+00:00"
+      },
+      "7": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:12:54+00:00"
+      },
+      "8": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:23+00:00"
+      },
+      "9": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:13:50+00:00"
+      },
+      "10": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:18+00:00"
+      },
+      "11": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:14:45+00:00"
+      },
+      "12": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:15:13+00:00"
+      },
+      "13": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:15:41+00:00"
+      }
+    },
+    "AY3333971C": {},
+    "AX5554093F": {
+      "1": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:16:42+00:00"
+      },
+      "2": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:01+00:00"
+      },
+      "3": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:17:27+00:00"
+      },
+      "4": {
+        "status": "running",
+        "answers": 0,
+        "details": "",
+        "updated_utc": "2026-11-01T01:17:29+00:00"
+      }
+    },
+    "SX4461560C": {
+      "1": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:16:45+00:00"
+      },
+      "2": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:04+00:00"
+      },
+      "3": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:21+00:00"
+      },
+      "4": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:38+00:00"
+      },
+      "5": {
+        "status": "running",
+        "answers": 0,
+        "details": "",
+        "updated_utc": "2026-11-01T01:17:38+00:00"
+      }
+    },
+    "SY9118104K": {
+      "1": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:16:43+00:00"
+      },
+      "2": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:02+00:00"
+      },
+      "3": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:19+00:00"
+      },
+      "4": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:36+00:00"
+      },
+      "5": {
+        "status": "running",
+        "answers": 0,
+        "details": "",
+        "updated_utc": "2026-11-01T01:17:36+00:00"
+      }
+    },
+    "GZ0145367N": {
+      "1": {
+        "status": "corregir_clicked",
+        "answers": 10,
+        "details": "Corregir clicked; grade/server acceptance not confirmed",
+        "updated_utc": "2026-11-01T01:16:45+00:00"
+      },
+      "2": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:04+00:00"
+      },
+      "3": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:21+00:00"
+      },
+      "4": {
+        "status": "error",
+        "answers": 0,
+        "details": "TimeoutError: Timeout 15000ms exceeded while waiting for event \"page\"",
+        "updated_utc": "2026-11-01T01:17:38+00:00"
+      },
+      "5": {
+        "status": "running",
+        "answers": 0,
+        "details": "",
+        "updated_utc": "2026-11-01T01:17:38+00:00"
+      }
+    },
+    "AZ0987412G": {},
+    "MY6306123C": {},
+    "G24555247X": {},
+    "SY6751387G": {},
+    "AY9248031K": {},
+    "BZ4616363S": {},
+    "MY7946493F": {},
+    "LZ0663433A": {},
+    "KY0346526E": {},
+    "MY7253846M": {},
+    "SY6887616G": {},
+    "SY4049934Q": {},
+    "MY8967725Q": {},
+    "SY5190468A": {},
+    "MZ1634335Y": {},
+    "AZ3034099J": {},
+    "M06314752X": {},
+    "GZ2760289H": {},
+    "HZ3604939Q": {},
+    "RY1075568X": {},
+    "YY8013789M": {},
+    "M31924836P": {},
+    "MZ0812830S": {},
+    "GZ4029365T": {},
+    "MY8442360V": {},
+    "AY6977997H": {},
+    "CZ1404249N": {},
+    "AZ0849940A": {},
+    "AY7074144W": {},
+    "MY1936511V": {},
+    "ZY9002092K": {},
+    "GY1247449N": {},
+    "NY6887632C": {},
+    "SZ3388168C": {},
+    "TY3333733N": {},
+    "AY3864633A": {},
+    "NX4268506M": {},
+    "PZ0941874Y": {},
+    "SY0360977Y": {},
+    "DZ0597856E": {},
+    "AZ3562834R": {},
+    "AX3203162K": {},
+    "FZ0622850S": {},
+    "SY8042436V": {},
+    "JZ3995527H": {},
+    "MY0077187J": {},
+    "IY5519168X": {},
+    "UZ3441388H": {},
+    "ZY9014984X": {},
+    "MZ0592349N": {},
+    "FZ0378996F": {},
+    "J26611206E": {},
+    "AZ4239973C": {},
+    "TY9631200X": {},
+    "SY1781138D": {},
+    "ZY5282312P": {},
+    "BZ0076857L": {},
+    "SY1887743D": {},
+    "KY5927553F": {},
+    "IZ5322064F": {},
+    "AY2337615R": {},
+    "UZ3686258F": {},
+    "MY6781509L": {},
+    "M60049813X": {},
+    "AX3830923C": {},
+    "ZZ0297697J": {}
+  }
+}

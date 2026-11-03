@@ -1,0 +1,833 @@
+<!DOCTYPE html><html class="" lang="es" dir="ltr"><head>
+  <title>Test</title>
+  <meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+  
+  
+<link rel="stylesheet" href="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/foundation.min.css?v=07102026005a">
+  <link rel="stylesheet" href="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/aula-responsive.css?v=07102026005a">
+  <link rel="stylesheet" href="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/less_colores.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="stylesheet" href="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/test.css?v=07102026005a">
+
+  <link rel="stylesheet" href="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/cabeceraConector.css?v=07102026005a">
+
+
+
+
+
+
+
+
+<script src="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/js/vendor/jquery.js"></script>
+<script src="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/js/vendor/what-input.js"></script>
+<script src="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/js/vendor/foundation.js"></script>
+
+<script>
+  var $j1102=$;
+</script>
+
+<script src="https://contenidos.edavanza.com/general/prt/prg/js/mgVideoChat/mgVideoChat-1.15.0-min.js?20181030"></script>
+<script src="https://contenidos.edavanza.com/general/prt/prg/js/dropit.js"></script>
+
+<script src="https://contenidos.edavanza.com/general/prt/prg/js/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://contenidos.edavanza.com/general/prt/prg/js/comunPlataforma.js?v=190217"></script>
+
+<script language="javascript">
+	try{
+		$document.ready(function(e){
+			
+		});
+	}catch(e){
+
+	}
+	try{
+		
+			$("#reactChatbotADR").remove();
+		
+	}catch(e){
+
+	}
+</script>
+    
+  <meta class="foundation-mq"></head>
+<body class="sinBotonera small-version"> 
+
+
+
+
+ 
+								
+	
+	
+				
+
+	
+
+    <script type="text/javascript" src="https://contenidos.edavanza.com/general/prt/prg/js/swfobject.js"></script>
+    <script type="text/javascript" src="https://contenidos.edavanza.com/general/prt/prg/js/flash_detect.js"></script>
+    <script type="text/javascript" src="https://contenidos.edavanza.com/general/prt/prg/js/AC_RunActiveContent.js"></script>
+    <script type="text/javascript" src="https://contenidos.edavanza.com/general/prt/prg/js/tinyscrollbar.js"></script>
+    <script type="text/javascript" src="https://contenidos.edavanza.com/general/prt/prg/js/indicadorMagnoliyan.js?t=1793495273"></script>
+    
+    
+    
+    <script type="text/javascript">
+      function MM_openBrWindow(theURL,winName,features) {
+            window.open(theURL,winName,features);
+        }
+    </script>
+
+    
+      
+        
+<script>
+    var servidor = 'conecta.adrformacion.com';
+    var rutaPRG = 'https://contenidos.edavanza.com/general/prt/prg/';
+    var proyecto = '191';
+    var soytutor = '0';
+    var nameUsu = '__';
+</script>
+
+
+
+
+<div class="aula-header-color aula-header-color--white">
+  <div class="row">
+    <div class="column small-12">
+      <div class="aula-header-color-tit">
+              </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="aula-contenido">
+  
+      
+        
+      <div class="row">
+      <div class="column small-12">
+                                                                            <div class="cabeceraConector">
+                                        <a href="javascript:;" id="finalizarSesionFormacion" class="cerrarSesion" style="display: none;">Finalizar sesión de formación</a>
+                    </div>
+          </div>
+    </div>
+  
+  <div class="row">
+    <div class="column small-12">
+      <div class="alert callout msg-test-error" data-closable="" style="display: none;">
+        <div class="texto-error">Debes contestar todas las preguntas para poder enviar el test.</div>
+          <button class="close-button" aria-label="Dismiss alert" type="button" data-close="">
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+
+        <div id="resultado">
+                      <div class="resultado-title">Test de comprensión</div> 
+                    <img src="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/img/test-unidad.svg" width="138" height="138" alt="Elige la respuesta correcta en el test">
+          <div class="titResultado">
+            <h1>Elige la respuesta correcta:</h1>
+            <div class="resultado-label"><strong>RECUERDA</strong></div>
+            
+
+
+
+
+    
+    <p>Este test se considerará superado si<strong> el número de aciertos es igual o superior al 50%</strong></p>
+
+
+          </div>
+        </div>
+
+        
+
+        <form action="https://contenidos.edavanza.com/general/prt/prg/test.php?" method="post" name="test" id="formuTest">
+          <input type="hidden" name="codcurso" value="C34705">
+          <input type="hidden" name="varp" value="191">
+          <input type="hidden" name="unidad" value="1">
+          <input type="hidden" name="npreguntas" value="10">
+          <input type="hidden" name="action" value="corregir">
+          <input type="hidden" name="utinicio" value="1793495273">
+          <input type="hidden" name="embebido" value="">
+          <input type="hidden" name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RQcmVndW50YXMiOlsiMjE2MDQ0MyIsIjIxNjA0MzgiLCIyMTYwNDM3IiwiMjE2MDQ0NiIsIjIxNjA0NDUiLCIyMTYwNDQwIiwiMjE2MDQ0MiIsIjIxNjA0NDEiLCIyMTYwNDQ0IiwiMjE2MDQzOSJdLCJudW1QIjoiMTAiLCJzaWQiOiJmYXNxbWhzMGY5MXNxaGs4dmlzanZmbTczYTVlY2JucCIsInRzIjoxNzkzNDk1MjczfQ.R1AHRoUZ-x5ebDu9VM9KbWh8OGT8h2bbyjfC3bDbLFQ">
+          
+          <div class="test">
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">1.</div>
+                  <div class="enunciado">
+                    ¿Qué se puede conseguir calentando suficientemente un alimento contaminado? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp1A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp1" type="radio" value="A" id="tresp1A">
+                          </div>
+                          <div class="columns text-left texto" id="resp1A">Reducir o eliminar microorganismos.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp1B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp1" type="radio" value="B" id="tresp1B">
+                          </div>
+                          <div class="columns text-left texto" id="resp1B">Hacer que los microorganismos se reproduzcan.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp1C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp1" type="radio" value="C" id="tresp1C">
+                          </div>
+                          <div class="columns text-left texto" id="resp1C">Garantizar que no haya toxinas nunca.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp1D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp1" type="radio" value="D" id="tresp1D">
+                          </div>
+                          <div class="columns text-left texto" id="resp1D">Aumentar la contaminación cruzada automáticamente.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num1" value="2160443">
+                                  </fieldset>
+              </div>
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">2.</div>
+                  <div class="enunciado">
+                    ¿Cuál de los siguientes alimentos son una causa común de salmonella? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp2A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp2" type="radio" value="A" id="tresp2A">
+                          </div>
+                          <div class="columns text-left texto" id="resp2A">Huevos.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp2B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp2" type="radio" value="B" id="tresp2B">
+                          </div>
+                          <div class="columns text-left texto" id="resp2B">Legumbres.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp2C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp2" type="radio" value="C" id="tresp2C">
+                          </div>
+                          <div class="columns text-left texto" id="resp2C">Frutas.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp2D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp2" type="radio" value="D" id="tresp2D">
+                          </div>
+                          <div class="columns text-left texto" id="resp2D">Pasta cocida.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num2" value="2160438">
+                                  </fieldset>
+              </div>
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">3.</div>
+                  <div class="enunciado">
+                    ¿Cuál es la duración de la intoxicación por estafilococos? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp3A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp3" type="radio" value="A" id="tresp3A">
+                          </div>
+                          <div class="columns text-left texto" id="resp3A">6-24 horas.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp3B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp3" type="radio" value="B" id="tresp3B">
+                          </div>
+                          <div class="columns text-left texto" id="resp3B">12-36 horas.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp3C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp3" type="radio" value="C" id="tresp3C">
+                          </div>
+                          <div class="columns text-left texto" id="resp3C">12-48 horas.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp3D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp3" type="radio" value="D" id="tresp3D">
+                          </div>
+                          <div class="columns text-left texto" id="resp3D">1-2 horas.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num3" value="2160437">
+                                  </fieldset>
+              </div>
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">4.</div>
+                  <div class="enunciado">
+                    ¿Qué se considera una fruta oleaginosa? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp4A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp4" type="radio" value="A" id="tresp4A">
+                          </div>
+                          <div class="columns text-left texto" id="resp4A">Patata.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp4B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp4" type="radio" value="B" id="tresp4B">
+                          </div>
+                          <div class="columns text-left texto" id="resp4B">Almendra.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp4C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp4" type="radio" value="C" id="tresp4C">
+                          </div>
+                          <div class="columns text-left texto" id="resp4C">Arroz.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp4D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp4" type="radio" value="D" id="tresp4D">
+                          </div>
+                          <div class="columns text-left texto" id="resp4D">Pepino.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num4" value="2160446">
+                                  </fieldset>
+              </div>
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">5.</div>
+                  <div class="enunciado">
+                    ¿Qué condición favorece que los microorganismos se reproduzcan más rápido? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp5A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp5" type="radio" value="A" id="tresp5A">
+                          </div>
+                          <div class="columns text-left texto" id="resp5A">Temperaturas templadas.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp5B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp5" type="radio" value="B" id="tresp5B">
+                          </div>
+                          <div class="columns text-left texto" id="resp5B">Temperaturas por debajo de cero.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp5C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp5" type="radio" value="C" id="tresp5C">
+                          </div>
+                          <div class="columns text-left texto" id="resp5C">Temperaturas cercanas a 100 ºC.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp5D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp5" type="radio" value="D" id="tresp5D">
+                          </div>
+                          <div class="columns text-left texto" id="resp5D">Ambientes totalmente secos.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num5" value="2160445">
+                                  </fieldset>
+              </div>
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">6.</div>
+                  <div class="enunciado">
+                    ¿Cuál de las siguientes infecciones es la más violenta, con una tasa de mortalidad más alta, entre un 20% y un 30%? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp6A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp6" type="radio" value="A" id="tresp6A">
+                          </div>
+                          <div class="columns text-left texto" id="resp6A">Salmonelosis.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp6B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp6" type="radio" value="B" id="tresp6B">
+                          </div>
+                          <div class="columns text-left texto" id="resp6B">Disentería.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp6C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp6" type="radio" value="C" id="tresp6C">
+                          </div>
+                          <div class="columns text-left texto" id="resp6C">Listeriosis.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp6D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp6" type="radio" value="D" id="tresp6D">
+                          </div>
+                          <div class="columns text-left texto" id="resp6D">Campilobacteriosis.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num6" value="2160440">
+                                  </fieldset>
+              </div>
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">7.</div>
+                  <div class="enunciado">
+                    ¿Qué tipo de microorganismo es el responsable de la salmonelosis? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp7A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp7" type="radio" value="A" id="tresp7A">
+                          </div>
+                          <div class="columns text-left texto" id="resp7A">Un virus.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp7B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp7" type="radio" value="B" id="tresp7B">
+                          </div>
+                          <div class="columns text-left texto" id="resp7B">Una bacteria.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp7C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp7" type="radio" value="C" id="tresp7C">
+                          </div>
+                          <div class="columns text-left texto" id="resp7C">Un hongo.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp7D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp7" type="radio" value="D" id="tresp7D">
+                          </div>
+                          <div class="columns text-left texto" id="resp7D">Un parásito.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num7" value="2160442">
+                                  </fieldset>
+              </div>
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">8.</div>
+                  <div class="enunciado">
+                    ¿Cuánto mide el gusano anisakis? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp8A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp8" type="radio" value="A" id="tresp8A">
+                          </div>
+                          <div class="columns text-left texto" id="resp8A">Entre 3 y 5 cm de largo.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp8B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp8" type="radio" value="B" id="tresp8B">
+                          </div>
+                          <div class="columns text-left texto" id="resp8B">Entre 5 y 8 cm de largo.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp8C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp8" type="radio" value="C" id="tresp8C">
+                          </div>
+                          <div class="columns text-left texto" id="resp8C">Suele medir menos de 1 cm y no se puede ver a simple vista.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp8D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp8" type="radio" value="D" id="tresp8D">
+                          </div>
+                          <div class="columns text-left texto" id="resp8D">Mide más de 10 cm y es fácilmente visible.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num8" value="2160441">
+                                  </fieldset>
+              </div>
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">9.</div>
+                  <div class="enunciado">
+                    ¿Cuál de estos es un cereal? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp9A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp9" type="radio" value="A" id="tresp9A">
+                          </div>
+                          <div class="columns text-left texto" id="resp9A">Maíz.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp9B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp9" type="radio" value="B" id="tresp9B">
+                          </div>
+                          <div class="columns text-left texto" id="resp9B">Zanahoria.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp9C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp9" type="radio" value="C" id="tresp9C">
+                          </div>
+                          <div class="columns text-left texto" id="resp9C">Garbanzo.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp9D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp9" type="radio" value="D" id="tresp9D">
+                          </div>
+                          <div class="columns text-left texto" id="resp9D">Calabacín.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num9" value="2160444">
+                                  </fieldset>
+              </div>
+                          <div class="pregunta">
+                <fieldset>
+                  <div class="numero">10.</div>
+                  <div class="enunciado">
+                    ¿Cómo se conoce también la brucelosis? _____.                   </div>
+
+                  <div class="respuestas">
+                    
+                                          <div class="respuesta">
+                        <label for="tresp10A" class="row small-collapse">
+                          <div class="columns text-center letra shrink">A.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp10" type="radio" value="A" id="tresp10A">
+                          </div>
+                          <div class="columns text-left texto" id="resp10A">Fiebre de Malta y fiebre ondulante.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp10B" class="row small-collapse">
+                          <div class="columns text-center letra shrink">B.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp10" type="radio" value="B" id="tresp10B">
+                          </div>
+                          <div class="columns text-left texto" id="resp10B">Fiebre amarilla.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp10C" class="row small-collapse">
+                          <div class="columns text-center letra shrink">C.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp10" type="radio" value="C" id="tresp10C">
+                          </div>
+                          <div class="columns text-left texto" id="resp10C">Listeriosis.</div>
+                        </label>
+                      </div>
+                    
+                                          <div class="respuesta">
+                        <label for="tresp10D" class="row small-collapse">
+                          <div class="columns text-center letra shrink">D.</div>
+                          <div class="columns text-center opcion shrink">
+                            <input name="resp10" type="radio" value="D" id="tresp10D">
+                          </div>
+                          <div class="columns text-left texto" id="resp10D">Fiebre del Nilo Occidental.</div>
+                        </label>
+                      </div>
+                    
+                                      </div>
+                  <input type="hidden" name="num10" value="2160439">
+                                  </fieldset>
+              </div>
+                      </div>
+          <div class="footer-enviar-test text-center">
+            <input name="boton" id="btnCorregir" type="submit" class="button button-border-extra" value="Corregir" alt="Registrar esta valoración">
+                        <div id="cajaTutor" align="center" style="display:none;"><strong>Enviando las respuestas. Por favor, espere unos instantes.</strong></div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+
+  
+
+  
+
+
+
+
+  <script src="https://contenidos.edavanza.com/general/prt/prg/css/smart2022/js/app.js?v=14102022001a"></script> 
+
+<link href="css/jquery.superbox.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="js/jquery.superbox.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('input[type=radio]').on('change', function() {
+      $(this).closest('.respuestas').find('.respuesta').removeClass('activada');
+      $(this).closest('.respuesta').addClass('activada');
+    });
+
+    $('.msg-test-close').click(function () {
+      $(this).parent().fadeOut();
+    });
+
+    $("#formuTest").submit(function(e) {
+      // Comprobar que todas las preguntas tienen una respuesta seleccionada
+      if (comprobarEnvioForm("formuTest", 0) == false) {
+        $('html, body').stop().animate({ scrollTop:0 }, '300', 'swing', function() { 
+          $('.msg-test-error').fadeIn('600');
+        });
+        e.preventDefault();
+        return false;
+      }
+
+          
+      if($("#formuTest").hasClass("formuEnviado")){
+        e.preventDefault();
+        return false;
+      }
+
+      $("#formuTest").addClass("formuEnviado");
+      ocultaBtn('lblBotones','cajaTutor');
+    });
+
+    $("#btnVolver").click(function(){ 
+      document.location=decodeURIComponent('curso.php?varp=191%26codcurso=C34705');
+    });
+
+    $("#acopy").click(function(){ 
+      MM_openBrWindow('copyright.php?codcurso=C34705','CopyRight','width=500,height=400');
+    });
+
+    if($( "body").is(":not([data-hide-comp-ra])")){
+              //capacidades
+        $(".enunciado[data-ceval]").each(function( index ) {
+          dataceval = $(this).attr("data-ceval");
+          $newA = $("<a />").attr( {
+            'class':'iconCapCriEvaluacion',
+            'target': '_blank',
+            href: "/general/prt/prg/marcoLegalCapacidades.php?action=showHeadingDetailsTest&details="+dataceval, 
+            rel: 'superbox[iframe][700x500]'
+          } );
+          $(this).append( $newA );
+        });
+          }
+  });
+
+  
+
+  $(window).load(function() {
+    inicializarSuperbox();
+  });
+
+  function enviar(){
+    obj=document.getElementById('formuTest');
+    comprobarEnvioForm('formuTest', 1);
+    obj.submit();
+  }
+
+  // Comprueba si es posible enviar el formulario
+  function comprobarEnvioForm(idForm, completar) {
+    var sendOK = true;
+    $("#"+idForm).find(".pregunta").each(function() {
+      var respActivada = false;
+      $(this).find(".respuesta").each(function() {
+        if ($(this).hasClass("activada")) {
+          respActivada = true;
+        }
+      });
+      if (completar == 1 && respActivada == false) {
+        // Si se envia un valor a completar se marca la opcion por defecto de las preguntas sin responder
+        var opcionNC = $(this).find(".respuesta.nose");
+        var opcionNCSpan = $(this).find(".respuesta.nose").find("span.texto");
+        $( opcionNC ).find("input").prop("checked", true);
+        $( opcionNCSpan ).removeClass("texto");
+        $( opcionNCSpan ).addClass("activada");
+      } else {
+        // Por defecto si la pregunta no tiene respuesta no se realiza el envio del fomulario
+        if (respActivada == false) {
+          sendOK = false;
+        }
+      }
+    });
+    if (sendOK == false) {
+      return false;
+    }
+  }
+
+  function inicializarSuperbox(){
+    $.superbox.settings = { closeTxt: "<div align='right' style='text-align:right'><img alt='close' src='/general/prt/prg/img/close.png'></div>" }; 
+    $.superbox();
+  }
+
+  function ocultaBtn(idBtn, idLbl){
+    miBtn=document.getElementById(idBtn);
+    miBtn.style.display='none';
+    miLbl=document.getElementById(idLbl);
+    miLbl.style.display='block';
+    return true;
+  }
+
+  
+</script>
+
+<div id="superbox-overlay" style="display: none;"></div><div id="superbox-wrapper" style="display: none;"><div id="superbox-container"><div id="superbox"><a class="close"><span><div align="right" style="text-align:right"><img alt="close" src="/general/prt/prg/img/close.png"></div></span></a><div id="superbox-caja"><div id="superbox-innerbox"></div></div><div id="superbox-pie"><div id="pie-izq"></div><div id="medio"></div><div id="pie-drch"></div></div><p class="nextprev" style="display: none;"><a class="prev"><strong><span>Previous</span></strong></a><a class="next"><strong><span>Next</span></strong></a></p></div><p class="loading" style="display: none;">Cargando...</p></div></div></body></html>
