@@ -1,0 +1,390 @@
+{
+  "updated_utc": "2026-11-06T10:17:04+00:00",
+  "states": {
+    "ZY5282312P": {
+      "initial": 47927,
+      "accumulated": 61852.686968500086,
+      "sessions": 10
+    },
+    "AY6677383Z": {
+      "initial": 123999,
+      "accumulated": 31068.383675499994,
+      "sessions": 8
+    },
+    "CZ1404249N": {
+      "initial": 144642,
+      "accumulated": 11303.86132190004,
+      "sessions": 2
+    },
+    "UZ3686258F": {
+      "initial": 133047,
+      "accumulated": 24228.191273099976,
+      "sessions": 5
+    },
+    "AY3333971C": {
+      "initial": 95325,
+      "accumulated": 59717.490227900096,
+      "sessions": 8
+    },
+    "A31917609A": {
+      "initial": 128043,
+      "accumulated": 26806.75303519977,
+      "sessions": 4
+    },
+    "MY0077187J": {
+      "initial": 141171,
+      "accumulated": 15292.050585699966,
+      "sessions": 2
+    },
+    "AZ0987412G": {
+      "initial": 131165,
+      "accumulated": 25369.029477200005,
+      "sessions": 5
+    },
+    "AY7074144W": {
+      "initial": 167990,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "PZ0941874Y": {
+      "initial": 162142,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "TY9631200X": {
+      "initial": 166617,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "MY7253846M": {
+      "initial": 121832,
+      "accumulated": 32950.322624999564,
+      "sessions": 10
+    },
+    "KY5927553F": {
+      "initial": 130016,
+      "accumulated": 25604.426777200075,
+      "sessions": 4
+    },
+    "AY6977997H": {
+      "initial": 136680,
+      "accumulated": 19698.71744980011,
+      "sessions": 3
+    },
+    "GY1247449N": {
+      "initial": 117462,
+      "accumulated": 38286.834916200256,
+      "sessions": 7
+    },
+    "MY8442360V": {
+      "initial": 155481,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "MY8967725Q": {
+      "initial": 133995,
+      "accumulated": 20861.889842099976,
+      "sessions": 7
+    },
+    "SZ3388168C": {
+      "initial": 90648,
+      "accumulated": 61854.41086640005,
+      "sessions": 23
+    },
+    "MY6306123C": {
+      "initial": 142280,
+      "accumulated": 15112.480596499983,
+      "sessions": 4
+    },
+    "SY8944954S": {
+      "initial": 129822,
+      "accumulated": 26418.62799539999,
+      "sessions": 5
+    },
+    "G24555247X": {
+      "initial": 129097,
+      "accumulated": 28052.759847200068,
+      "sessions": 3
+    },
+    "M31924836P": {
+      "initial": 105467,
+      "accumulated": 49542.26167380018,
+      "sessions": 8
+    },
+    "BZ0076857L": {
+      "initial": 121005,
+      "accumulated": 34504.36958649993,
+      "sessions": 9
+    },
+    "FZ0378996F": {
+      "initial": 121542,
+      "accumulated": 34410.47837910004,
+      "sessions": 8
+    },
+    "MY7946493F": {
+      "initial": 107844,
+      "accumulated": 46816.80022129975,
+      "sessions": 11
+    },
+    "SY6887616G": {
+      "initial": 108945,
+      "accumulated": 47534.613587099884,
+      "sessions": 5
+    },
+    "JZ3995527H": {
+      "initial": 132715,
+      "accumulated": 24769.376287400024,
+      "sessions": 3
+    },
+    "MY1936511V": {
+      "initial": 101991,
+      "accumulated": 53048.652797299845,
+      "sessions": 8
+    },
+    "MZ0592349N": {
+      "initial": 118365,
+      "accumulated": 39744.02059859998,
+      "sessions": 8
+    },
+    "TY3333733N": {
+      "initial": 109679,
+      "accumulated": 45718.25639719993,
+      "sessions": 8
+    },
+    "SY4049934Q": {
+      "initial": 146241,
+      "accumulated": 15812.889838900068,
+      "sessions": 2
+    },
+    "M60049813X": {
+      "initial": 144746,
+      "accumulated": 13832.850483100046,
+      "sessions": 4
+    },
+    "SX4461560C": {
+      "initial": 133571,
+      "accumulated": 21800.899504399975,
+      "sessions": 8
+    },
+    "RY1075568X": {
+      "initial": 117405,
+      "accumulated": 39221.15246919991,
+      "sessions": 14
+    },
+    "UZ3441388H": {
+      "initial": 153944,
+      "accumulated": 1496.5030541000888,
+      "sessions": 1
+    },
+    "GZ0145367N": {
+      "initial": 142517,
+      "accumulated": 13658.953421200044,
+      "sessions": 2
+    },
+    "KY0346526E": {
+      "initial": 116554,
+      "accumulated": 39747.88773869991,
+      "sessions": 6
+    },
+    "SY1781138D": {
+      "initial": 149399,
+      "accumulated": 5578.443633599905,
+      "sessions": 3
+    },
+    "NY6887632C": {
+      "initial": 127616,
+      "accumulated": 27846.874068200006,
+      "sessions": 7
+    },
+    "ZY9014984X": {
+      "initial": 124567,
+      "accumulated": 31511.481686199957,
+      "sessions": 8
+    },
+    "AX3203162K": {
+      "initial": 113449,
+      "accumulated": 42815.6659986999,
+      "sessions": 19
+    },
+    "ZZ0297697J": {
+      "initial": 125639,
+      "accumulated": 29172.991374500038,
+      "sessions": 6
+    },
+    "MZ1634335Y": {
+      "initial": 120819,
+      "accumulated": 34162.47974630003,
+      "sessions": 10
+    },
+    "SY9118104K": {
+      "initial": 125194,
+      "accumulated": 29669.640115700196,
+      "sessions": 5
+    },
+    "AX5554093F": {
+      "initial": 120574,
+      "accumulated": 35668.43514639983,
+      "sessions": 7
+    },
+    "ZY9002092K": {
+      "initial": 135313,
+      "accumulated": 20014.824164700112,
+      "sessions": 5
+    },
+    "AY3864633A": {
+      "initial": 137956,
+      "accumulated": 18276.600432800013,
+      "sessions": 3
+    },
+    "SY8042436V": {
+      "initial": 148439,
+      "accumulated": 8093.783628500067,
+      "sessions": 4
+    },
+    "DZ0597856E": {
+      "initial": 152146,
+      "accumulated": 5436.106214400032,
+      "sessions": 1
+    },
+    "M06314752X": {
+      "initial": 134367,
+      "accumulated": 23046.728433400043,
+      "sessions": 4
+    },
+    "HZ3604939Q": {
+      "initial": 158336,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "MZ0812830S": {
+      "initial": 148166,
+      "accumulated": 7463.663878199994,
+      "sessions": 1
+    },
+    "IY5519168X": {
+      "initial": 103629,
+      "accumulated": 52340.331515699974,
+      "sessions": 30
+    },
+    "SY5190468A": {
+      "initial": 153609,
+      "accumulated": 2353.087381499936,
+      "sessions": 1
+    },
+    "NX4268506M": {
+      "initial": 149561,
+      "accumulated": 7657.31622999988,
+      "sessions": 2
+    },
+    "SY1887743D": {
+      "initial": 154844,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "AZ4239973C": {
+      "initial": 165552,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "YY8013789M": {
+      "initial": 165826,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "AZ3562834R": {
+      "initial": 125380,
+      "accumulated": 29994.147757900006,
+      "sessions": 8
+    },
+    "MY6781509L": {
+      "initial": 150450,
+      "accumulated": 8090.129318300169,
+      "sessions": 2
+    },
+    "J26611206E": {
+      "initial": 107631,
+      "accumulated": 47754.26372040011,
+      "sessions": 11
+    },
+    "AZ3034099J": {
+      "initial": 120540,
+      "accumulated": 36489.33183030004,
+      "sessions": 10
+    },
+    "NZ4796614S": {
+      "initial": 157861,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "G39407254C": {
+      "initial": 136782,
+      "accumulated": 18034.40933569998,
+      "sessions": 10
+    },
+    "BZ4616363S": {
+      "initial": 134658,
+      "accumulated": 21912.47809999995,
+      "sessions": 2
+    },
+    "GZ4029365T": {
+      "initial": 164973,
+      "accumulated": 0.0,
+      "sessions": 0
+    },
+    "SY0360977Y": {
+      "initial": 117567,
+      "accumulated": 37582.275072800054,
+      "sessions": 5
+    },
+    "AY2337615R": {
+      "initial": 127339,
+      "accumulated": 29518.295860000188,
+      "sessions": 6
+    },
+    "AY9248031K": {
+      "initial": 111351,
+      "accumulated": 44197.43577749969,
+      "sessions": 10
+    },
+    "GZ2760289H": {
+      "initial": 129224,
+      "accumulated": 26032.990933400055,
+      "sessions": 6
+    },
+    "AZ0849940A": {
+      "initial": 111991,
+      "accumulated": 44004.321814400086,
+      "sessions": 13
+    },
+    "SY6751387G": {
+      "initial": 116747,
+      "accumulated": 38079.50817960006,
+      "sessions": 7
+    },
+    "LZ0663433A": {
+      "initial": 106030,
+      "accumulated": 49622.72881859989,
+      "sessions": 23
+    },
+    "FZ0622850S": {
+      "initial": 110767,
+      "accumulated": 45442.4948896002,
+      "sessions": 6
+    },
+    "AX3830923C": {
+      "initial": 108141,
+      "accumulated": 46823.086293599976,
+      "sessions": 10
+    },
+    "IZ5322064F": {
+      "initial": 91643,
+      "accumulated": 61860.094895500166,
+      "sessions": 18
+    },
+    "SZ5271225K": {
+      "initial": 92488,
+      "accumulated": 61856.98970310006,
+      "sessions": 26
+    }
+  }
+}

@@ -1,0 +1,2058 @@
+[2026-11-05T17:05:45Z] session start (slot 16)
+[2026-11-05T17:07:17Z] login failed: RuntimeError: dashboard not detected after login
+[2026-11-05T17:07:18Z] session start (slot 36)
+[2026-11-05T17:07:46Z] session start (slot 16)
+[2026-11-05T17:07:47Z] logged in
+[2026-11-05T17:08:29Z] logged in
+[2026-11-05T17:08:35Z] activity ok (7 actions)
+[2026-11-05T17:09:18Z] activity ok (7 actions)
+[2026-11-05T17:10:32Z] activity ok (7 actions)
+[2026-11-05T17:10:49Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:11:00Z] activity ok (7 actions)
+[2026-11-05T17:11:04Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:11:04Z] session confirmed dead; attempting re-login
+[2026-11-05T17:11:25Z] re-login ok, continuing session
+[2026-11-05T17:11:30Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:11:38Z] activity ok (7 actions)
+[2026-11-05T17:11:45Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:11:45Z] session confirmed dead; attempting re-login
+[2026-11-05T17:12:21Z] re-login ok, continuing session
+[2026-11-05T17:12:37Z] activity ok (7 actions)
+[2026-11-05T17:13:37Z] activity ok (7 actions)
+[2026-11-05T17:14:27Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:14:35Z] activity ok (7 actions)
+[2026-11-05T17:14:43Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:14:43Z] session confirmed dead; attempting re-login
+[2026-11-05T17:15:02Z] re-login ok, continuing session
+[2026-11-05T17:15:06Z] activity ok (7 actions)
+[2026-11-05T17:15:24Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:15:39Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:15:39Z] session confirmed dead; attempting re-login
+[2026-11-05T17:16:07Z] re-login ok, continuing session
+[2026-11-05T17:16:11Z] activity ok (7 actions)
+[2026-11-05T17:16:25Z] activity ok (7 actions)
+[2026-11-05T17:17:30Z] activity ok (7 actions)
+[2026-11-05T17:18:05Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:18:09Z] activity ok (7 actions)
+[2026-11-05T17:18:20Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:18:20Z] session confirmed dead; attempting re-login
+[2026-11-05T17:18:42Z] re-login ok, continuing session
+[2026-11-05T17:19:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:19:27Z] activity ok (7 actions)
+[2026-11-05T17:19:41Z] activity ok (7 actions)
+[2026-11-05T17:19:42Z] keepalive ok (refresh error TimeoutError (assumed alive))
+[2026-11-05T17:21:03Z] activity ok (7 actions)
+[2026-11-05T17:21:05Z] activity ok (7 actions)
+[2026-11-05T17:21:44Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:22:00Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:22:00Z] session confirmed dead; attempting re-login
+[2026-11-05T17:22:18Z] re-login ok, continuing session
+[2026-11-05T17:22:20Z] activity ok (7 actions)
+[2026-11-05T17:22:42Z] refresh says expired (redirect to login) [1/2]
+[2026-11-05T17:22:57Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:22:57Z] session confirmed dead; attempting re-login
+[2026-11-05T17:23:01Z] activity ok (7 actions)
+[2026-11-05T17:23:18Z] re-login ok, continuing session
+[2026-11-05T17:24:09Z] activity ok (7 actions)
+[2026-11-05T17:24:20Z] activity ok (7 actions)
+[2026-11-05T17:25:20Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:25:36Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:25:36Z] session confirmed dead; attempting re-login
+[2026-11-05T17:26:09Z] re-login ok, continuing session
+[2026-11-05T17:26:13Z] activity ok (7 actions)
+[2026-11-05T17:26:18Z] activity ok (7 actions)
+[2026-11-05T17:26:22Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:26:37Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:26:37Z] session confirmed dead; attempting re-login
+[2026-11-05T17:26:57Z] re-login ok, continuing session
+[2026-11-05T17:28:02Z] activity ok (7 actions)
+[2026-11-05T17:28:16Z] activity ok (7 actions)
+[2026-11-05T17:29:09Z] activity ok (7 actions)
+[2026-11-05T17:29:12Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:29:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:29:27Z] session confirmed dead; attempting re-login
+[2026-11-05T17:29:27Z] activity ok (7 actions)
+[2026-11-05T17:29:46Z] re-login ok, continuing session
+[2026-11-05T17:30:01Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:30:16Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:30:16Z] session confirmed dead; attempting re-login
+[2026-11-05T17:30:39Z] re-login ok, continuing session
+[2026-11-05T17:30:47Z] activity ok (7 actions)
+[2026-11-05T17:31:02Z] activity ok (7 actions)
+[2026-11-05T17:32:31Z] activity ok (7 actions)
+[2026-11-05T17:32:37Z] activity ok (7 actions)
+[2026-11-05T17:32:49Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:33:05Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:33:05Z] session confirmed dead; attempting re-login
+[2026-11-05T17:33:28Z] re-login ok, continuing session
+[2026-11-05T17:33:41Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:33:44Z] activity ok (7 actions)
+[2026-11-05T17:33:57Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:33:57Z] session confirmed dead; attempting re-login
+[2026-11-05T17:34:17Z] re-login ok, continuing session
+[2026-11-05T17:34:21Z] activity ok (7 actions)
+[2026-11-05T17:35:27Z] activity ok (7 actions)
+[2026-11-05T17:35:32Z] activity ok (7 actions)
+[2026-11-05T17:36:30Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:36:45Z] activity ok (7 actions)
+[2026-11-05T17:36:46Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:36:46Z] session confirmed dead; attempting re-login
+[2026-11-05T17:37:07Z] re-login ok, continuing session
+[2026-11-05T17:37:13Z] activity ok (7 actions)
+[2026-11-05T17:37:19Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:37:35Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:37:35Z] session confirmed dead; attempting re-login
+[2026-11-05T17:37:58Z] re-login ok, continuing session
+[2026-11-05T17:38:29Z] activity ok (7 actions)
+[2026-11-05T17:38:40Z] activity ok (7 actions)
+[2026-11-05T17:39:51Z] activity ok (7 actions)
+[2026-11-05T17:40:08Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:40:16Z] activity ok (7 actions)
+[2026-11-05T17:40:23Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:40:23Z] session confirmed dead; attempting re-login
+[2026-11-05T17:40:45Z] re-login ok, continuing session
+[2026-11-05T17:41:00Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:41:13Z] activity ok (7 actions)
+[2026-11-05T17:41:22Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:41:22Z] session confirmed dead; attempting re-login
+[2026-11-05T17:41:44Z] re-login ok, continuing session
+[2026-11-05T17:41:48Z] activity ok (7 actions)
+[2026-11-05T17:42:44Z] activity ok (7 actions)
+[2026-11-05T17:43:04Z] activity ok (7 actions)
+[2026-11-05T17:43:47Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:43:54Z] activity ok (7 actions)
+[2026-11-05T17:44:02Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:44:02Z] session confirmed dead; attempting re-login
+[2026-11-05T17:44:27Z] re-login ok, continuing session
+[2026-11-05T17:44:50Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:44:54Z] activity ok (7 actions)
+[2026-11-05T17:45:06Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:45:06Z] session confirmed dead; attempting re-login
+[2026-11-05T17:45:33Z] re-login ok, continuing session
+[2026-11-05T17:45:52Z] activity ok (7 actions)
+[2026-11-05T17:45:59Z] activity ok (7 actions)
+[2026-11-05T17:47:09Z] activity ok (7 actions)
+[2026-11-05T17:47:23Z] activity ok (7 actions)
+[2026-11-05T17:47:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:47:43Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:47:43Z] session confirmed dead; attempting re-login
+[2026-11-05T17:48:31Z] re-login failed: RuntimeError
+[2026-11-05T17:48:31Z] session end after 00:40:45 (total 31:48:48)
+[2026-11-05T17:48:31Z] session start (slot 36)
+[2026-11-05T17:48:36Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:48:43Z] activity ok (7 actions)
+[2026-11-05T17:48:51Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:48:51Z] session confirmed dead; attempting re-login
+[2026-11-05T17:49:09Z] logged in
+[2026-11-05T17:49:13Z] re-login ok, continuing session
+[2026-11-05T17:49:53Z] activity ok (7 actions)
+[2026-11-05T17:50:27Z] activity ok (7 actions)
+[2026-11-05T17:51:54Z] activity ok (7 actions)
+[2026-11-05T17:52:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:52:13Z] activity ok (7 actions)
+[2026-11-05T17:52:16Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:52:25Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:52:25Z] session confirmed dead; attempting re-login
+[2026-11-05T17:52:33Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:52:33Z] session confirmed dead; attempting re-login
+[2026-11-05T17:52:45Z] re-login ok, continuing session
+[2026-11-05T17:52:57Z] re-login ok, continuing session
+[2026-11-05T17:53:03Z] activity ok (7 actions)
+[2026-11-05T17:53:33Z] activity ok (7 actions)
+[2026-11-05T17:54:58Z] activity ok (7 actions)
+[2026-11-05T17:55:25Z] activity ok (7 actions)
+[2026-11-05T17:55:46Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:55:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:56:01Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:56:01Z] session confirmed dead; attempting re-login
+[2026-11-05T17:56:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:56:13Z] session confirmed dead; attempting re-login
+[2026-11-05T17:56:23Z] re-login ok, continuing session
+[2026-11-05T17:56:30Z] activity ok (7 actions)
+[2026-11-05T17:56:41Z] re-login ok, continuing session
+[2026-11-05T17:57:08Z] activity ok (7 actions)
+[2026-11-05T17:57:59Z] activity ok (7 actions)
+[2026-11-05T17:58:18Z] activity ok (7 actions)
+[2026-11-05T17:59:26Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:59:41Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T17:59:41Z] session confirmed dead; attempting re-login
+[2026-11-05T17:59:44Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T17:59:49Z] activity ok (7 actions)
+[2026-11-05T18:00:04Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:00:04Z] session confirmed dead; attempting re-login
+[2026-11-05T18:00:26Z] re-login ok, continuing session
+[2026-11-05T18:00:30Z] activity ok (7 actions)
+[2026-11-05T18:00:30Z] re-login ok, continuing session
+[2026-11-05T18:00:53Z] activity ok (7 actions)
+[2026-11-05T18:01:59Z] activity ok (7 actions)
+[2026-11-05T18:02:39Z] activity ok (7 actions)
+[2026-11-05T18:03:27Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:03:31Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:03:36Z] activity ok (7 actions)
+[2026-11-05T18:03:42Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:03:42Z] session confirmed dead; attempting re-login
+[2026-11-05T18:03:46Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:03:46Z] session confirmed dead; attempting re-login
+[2026-11-05T18:04:08Z] re-login ok, continuing session
+[2026-11-05T18:04:14Z] re-login ok, continuing session
+[2026-11-05T18:04:32Z] activity ok (7 actions)
+[2026-11-05T18:05:14Z] activity ok (7 actions)
+[2026-11-05T18:06:29Z] activity ok (7 actions)
+[2026-11-05T18:07:01Z] activity ok (7 actions)
+[2026-11-05T18:07:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:07:16Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:07:26Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:07:26Z] session confirmed dead; attempting re-login
+[2026-11-05T18:07:31Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:07:31Z] session confirmed dead; attempting re-login
+[2026-11-05T18:07:50Z] re-login ok, continuing session
+[2026-11-05T18:08:01Z] re-login ok, continuing session
+[2026-11-05T18:08:05Z] activity ok (7 actions)
+[2026-11-05T18:08:42Z] activity ok (7 actions)
+[2026-11-05T18:10:01Z] activity ok (7 actions)
+[2026-11-05T18:10:02Z] activity ok (7 actions)
+[2026-11-05T18:10:53Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:11:02Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:11:08Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:11:08Z] session confirmed dead; attempting re-login
+[2026-11-05T18:11:17Z] activity ok (7 actions)
+[2026-11-05T18:11:18Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:11:18Z] session confirmed dead; attempting re-login
+[2026-11-05T18:11:34Z] re-login ok, continuing session
+[2026-11-05T18:11:56Z] activity ok (7 actions)
+[2026-11-05T18:12:14Z] re-login failed: RuntimeError
+[2026-11-05T18:12:14Z] session end after 00:23:42 (total 32:12:31)
+[2026-11-05T18:12:14Z] session start (slot 16)
+[2026-11-05T18:13:02Z] logged in
+[2026-11-05T18:13:38Z] activity ok (7 actions)
+[2026-11-05T18:13:49Z] activity ok (7 actions)
+[2026-11-05T18:14:37Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:14:52Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:14:52Z] session confirmed dead; attempting re-login
+[2026-11-05T18:15:14Z] re-login ok, continuing session
+[2026-11-05T18:15:17Z] activity ok (7 actions)
+[2026-11-05T18:15:17Z] activity ok (7 actions)
+[2026-11-05T18:16:03Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:16:18Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:16:18Z] session confirmed dead; attempting re-login
+[2026-11-05T18:16:46Z] activity ok (7 actions)
+[2026-11-05T18:17:01Z] re-login ok, continuing session
+[2026-11-05T18:17:05Z] activity ok (7 actions)
+[2026-11-05T18:18:11Z] activity ok (7 actions)
+[2026-11-05T18:18:16Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:18:31Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:18:31Z] session confirmed dead; attempting re-login
+[2026-11-05T18:18:52Z] activity ok (7 actions)
+[2026-11-05T18:18:57Z] re-login ok, continuing session
+[2026-11-05T18:19:35Z] activity ok (7 actions)
+[2026-11-05T18:20:02Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:20:11Z] activity ok (7 actions)
+[2026-11-05T18:20:17Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:20:17Z] session confirmed dead; attempting re-login
+[2026-11-05T18:20:39Z] re-login ok, continuing session
+[2026-11-05T18:21:13Z] activity ok (7 actions)
+[2026-11-05T18:21:37Z] activity ok (7 actions)
+[2026-11-05T18:21:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:22:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:22:13Z] session confirmed dead; attempting re-login
+[2026-11-05T18:22:34Z] re-login ok, continuing session
+[2026-11-05T18:23:06Z] activity ok (7 actions)
+[2026-11-05T18:23:25Z] activity ok (7 actions)
+[2026-11-05T18:23:42Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:23:57Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:23:57Z] session confirmed dead; attempting re-login
+[2026-11-05T18:24:30Z] re-login ok, continuing session
+[2026-11-05T18:25:08Z] activity ok (7 actions)
+[2026-11-05T18:25:11Z] activity ok (7 actions)
+[2026-11-05T18:25:35Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:25:50Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:25:50Z] session confirmed dead; attempting re-login
+[2026-11-05T18:26:27Z] re-login ok, continuing session
+[2026-11-05T18:26:31Z] activity ok (7 actions)
+[2026-11-05T18:26:41Z] activity ok (7 actions)
+[2026-11-05T18:27:32Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:27:47Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:27:47Z] session confirmed dead; attempting re-login
+[2026-11-05T18:28:10Z] re-login ok, continuing session
+[2026-11-05T18:28:11Z] activity ok (7 actions)
+[2026-11-05T18:28:14Z] activity ok (7 actions)
+[2026-11-05T18:29:20Z] activity ok (7 actions)
+[2026-11-05T18:29:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:29:43Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:29:43Z] session confirmed dead; attempting re-login
+[2026-11-05T18:31:02Z] activity ok (7 actions)
+[2026-11-05T18:31:13Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:31:28Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:31:28Z] session confirmed dead; attempting re-login
+[2026-11-05T18:31:30Z] re-login failed: RuntimeError
+[2026-11-05T18:31:30Z] session end after 00:19:16 (total 32:31:48)
+[2026-11-05T18:31:30Z] session start (slot 36)
+[2026-11-05T18:31:53Z] re-login ok, continuing session
+[2026-11-05T18:32:30Z] logged in
+[2026-11-05T18:32:39Z] activity ok (7 actions)
+[2026-11-05T18:33:32Z] activity ok (7 actions)
+[2026-11-05T18:33:56Z] activity ok (7 actions)
+[2026-11-05T18:34:53Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:35:09Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:35:09Z] session confirmed dead; attempting re-login
+[2026-11-05T18:35:26Z] activity ok (7 actions)
+[2026-11-05T18:35:30Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:35:32Z] re-login ok, continuing session
+[2026-11-05T18:35:36Z] activity ok (7 actions)
+[2026-11-05T18:35:46Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:35:46Z] session confirmed dead; attempting re-login
+[2026-11-05T18:36:09Z] re-login ok, continuing session
+[2026-11-05T18:36:50Z] activity ok (7 actions)
+[2026-11-05T18:37:10Z] activity ok (7 actions)
+[2026-11-05T18:38:16Z] activity ok (7 actions)
+[2026-11-05T18:38:33Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:38:48Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:38:48Z] session confirmed dead; attempting re-login
+[2026-11-05T18:39:08Z] activity ok (7 actions)
+[2026-11-05T18:39:09Z] re-login ok, continuing session
+[2026-11-05T18:39:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:39:26Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:39:26Z] session confirmed dead; attempting re-login
+[2026-11-05T18:39:44Z] activity ok (7 actions)
+[2026-11-05T18:39:50Z] re-login ok, continuing session
+[2026-11-05T18:41:05Z] activity ok (7 actions)
+[2026-11-05T18:41:25Z] activity ok (7 actions)
+[2026-11-05T18:42:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:42:25Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:42:25Z] session confirmed dead; attempting re-login
+[2026-11-05T18:42:49Z] re-login ok, continuing session
+[2026-11-05T18:42:52Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:42:53Z] activity ok (7 actions)
+[2026-11-05T18:43:07Z] activity ok (7 actions)
+[2026-11-05T18:43:08Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:43:08Z] session confirmed dead; attempting re-login
+[2026-11-05T18:43:30Z] re-login ok, continuing session
+[2026-11-05T18:44:31Z] activity ok (7 actions)
+[2026-11-05T18:44:55Z] activity ok (7 actions)
+[2026-11-05T18:45:50Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:45:56Z] activity ok (7 actions)
+[2026-11-05T18:46:05Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:46:05Z] session confirmed dead; attempting re-login
+[2026-11-05T18:46:27Z] re-login ok, continuing session
+[2026-11-05T18:46:31Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:46:46Z] activity ok (7 actions)
+[2026-11-05T18:46:47Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:46:47Z] session confirmed dead; attempting re-login
+[2026-11-05T18:47:34Z] re-login ok, continuing session
+[2026-11-05T18:47:39Z] activity ok (7 actions)
+[2026-11-05T18:48:22Z] activity ok (7 actions)
+[2026-11-05T18:49:18Z] activity ok (7 actions)
+[2026-11-05T18:49:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:49:43Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:49:43Z] session confirmed dead; attempting re-login
+[2026-11-05T18:50:03Z] re-login ok, continuing session
+[2026-11-05T18:50:26Z] activity ok (7 actions)
+[2026-11-05T18:50:36Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:50:52Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:50:52Z] session confirmed dead; attempting re-login
+[2026-11-05T18:51:16Z] activity ok (7 actions)
+[2026-11-05T18:51:16Z] re-login ok, continuing session
+[2026-11-05T18:52:15Z] activity ok (7 actions)
+[2026-11-05T18:52:45Z] activity ok (7 actions)
+[2026-11-05T18:53:04Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:53:19Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:53:19Z] session confirmed dead; attempting re-login
+[2026-11-05T18:53:42Z] re-login ok, continuing session
+[2026-11-05T18:53:49Z] activity ok (7 actions)
+[2026-11-05T18:54:21Z] activity ok (7 actions)
+[2026-11-05T18:54:23Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:54:39Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:54:39Z] session confirmed dead; attempting re-login
+[2026-11-05T18:54:57Z] re-login ok, continuing session
+[2026-11-05T18:55:04Z] activity ok (7 actions)
+[2026-11-05T18:55:41Z] activity ok (7 actions)
+[2026-11-05T18:56:33Z] activity ok (7 actions)
+[2026-11-05T18:56:43Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:56:52Z] activity ok (7 actions)
+[2026-11-05T18:56:58Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:56:58Z] session confirmed dead; attempting re-login
+[2026-11-05T18:57:31Z] re-login ok, continuing session
+[2026-11-05T18:57:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T18:58:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T18:58:13Z] session confirmed dead; attempting re-login
+[2026-11-05T18:58:47Z] re-login ok, continuing session
+[2026-11-05T18:58:49Z] activity ok (7 actions)
+[2026-11-05T18:58:51Z] activity ok (7 actions)
+[2026-11-05T18:59:54Z] activity ok (7 actions)
+[2026-11-05T19:00:33Z] activity ok (7 actions)
+[2026-11-05T19:00:33Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:00:49Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:00:49Z] session confirmed dead; attempting re-login
+[2026-11-05T19:01:35Z] re-login failed: RuntimeError
+[2026-11-05T19:01:35Z] session end after 00:30:04 (total 33:01:52)
+[2026-11-05T19:01:35Z] session start (slot 16)
+[2026-11-05T19:01:48Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:02:05Z] activity ok (7 actions)
+[2026-11-05T19:02:05Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:02:05Z] session confirmed dead; attempting re-login
+[2026-11-05T19:02:29Z] re-login ok, continuing session
+[2026-11-05T19:02:34Z] logged in
+[2026-11-05T19:03:12Z] activity ok (7 actions)
+[2026-11-05T19:03:40Z] activity ok (7 actions)
+[2026-11-05T19:04:51Z] activity ok (7 actions)
+[2026-11-05T19:04:58Z] activity ok (7 actions)
+[2026-11-05T19:05:31Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:05:37Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:05:47Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:05:47Z] session confirmed dead; attempting re-login
+[2026-11-05T19:05:52Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:05:52Z] session confirmed dead; attempting re-login
+[2026-11-05T19:06:10Z] re-login ok, continuing session
+[2026-11-05T19:06:23Z] re-login ok, continuing session
+[2026-11-05T19:06:25Z] activity ok (7 actions)
+[2026-11-05T19:06:40Z] activity ok (7 actions)
+[2026-11-05T19:07:48Z] activity ok (7 actions)
+[2026-11-05T19:08:26Z] activity ok (7 actions)
+[2026-11-05T19:08:55Z] activity ok (7 actions)
+[2026-11-05T19:09:11Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:09:26Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:09:26Z] session confirmed dead; attempting re-login
+[2026-11-05T19:09:33Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:09:44Z] activity ok (7 actions)
+[2026-11-05T19:09:48Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:09:48Z] session confirmed dead; attempting re-login
+[2026-11-05T19:09:50Z] re-login ok, continuing session
+[2026-11-05T19:10:03Z] activity ok (7 actions)
+[2026-11-05T19:10:34Z] re-login ok, continuing session
+[2026-11-05T19:10:52Z] activity ok (7 actions)
+[2026-11-05T19:11:59Z] activity ok (7 actions)
+[2026-11-05T19:12:41Z] activity ok (7 actions)
+[2026-11-05T19:12:53Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:13:08Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:13:08Z] session confirmed dead; attempting re-login
+[2026-11-05T19:13:45Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:13:49Z] re-login ok, continuing session
+[2026-11-05T19:13:53Z] activity ok (7 actions)
+[2026-11-05T19:13:58Z] activity ok (7 actions)
+[2026-11-05T19:14:01Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:14:01Z] session confirmed dead; attempting re-login
+[2026-11-05T19:14:23Z] re-login ok, continuing session
+[2026-11-05T19:15:28Z] activity ok (7 actions)
+[2026-11-05T19:15:52Z] activity ok (7 actions)
+[2026-11-05T19:16:52Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:17:08Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:17:08Z] session confirmed dead; attempting re-login
+[2026-11-05T19:17:14Z] activity ok (7 actions)
+[2026-11-05T19:17:26Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:17:34Z] re-login ok, continuing session
+[2026-11-05T19:17:37Z] activity ok (7 actions)
+[2026-11-05T19:17:41Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:17:41Z] session confirmed dead; attempting re-login
+[2026-11-05T19:18:03Z] re-login ok, continuing session
+[2026-11-05T19:18:24Z] activity ok (7 actions)
+[2026-11-05T19:19:13Z] activity ok (7 actions)
+[2026-11-05T19:20:11Z] activity ok (7 actions)
+[2026-11-05T19:20:35Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:20:52Z] activity ok (7 actions)
+[2026-11-05T19:20:52Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:20:52Z] session confirmed dead; attempting re-login
+[2026-11-05T19:21:04Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:21:17Z] re-login ok, continuing session
+[2026-11-05T19:21:19Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:21:19Z] session confirmed dead; attempting re-login
+[2026-11-05T19:21:37Z] re-login ok, continuing session
+[2026-11-05T19:21:41Z] activity ok (7 actions)
+[2026-11-05T19:22:05Z] activity ok (7 actions)
+[2026-11-05T19:23:10Z] activity ok (7 actions)
+[2026-11-05T19:23:27Z] activity ok (7 actions)
+[2026-11-05T19:24:29Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:24:40Z] activity ok (7 actions)
+[2026-11-05T19:24:42Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:24:44Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:24:44Z] session confirmed dead; attempting re-login
+[2026-11-05T19:24:58Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:24:58Z] session confirmed dead; attempting re-login
+[2026-11-05T19:25:08Z] re-login ok, continuing session
+[2026-11-05T19:25:17Z] re-login ok, continuing session
+[2026-11-05T19:25:21Z] activity ok (7 actions)
+[2026-11-05T19:26:32Z] activity ok (7 actions)
+[2026-11-05T19:26:47Z] activity ok (7 actions)
+[2026-11-05T19:27:48Z] activity ok (7 actions)
+[2026-11-05T19:28:09Z] activity ok (7 actions)
+[2026-11-05T19:28:12Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:28:18Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:28:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:28:27Z] session confirmed dead; attempting re-login
+[2026-11-05T19:28:34Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:28:34Z] session confirmed dead; attempting re-login
+[2026-11-05T19:28:50Z] re-login ok, continuing session
+[2026-11-05T19:28:59Z] re-login ok, continuing session
+[2026-11-05T19:29:20Z] activity ok (7 actions)
+[2026-11-05T19:30:11Z] activity ok (7 actions)
+[2026-11-05T19:30:42Z] activity ok (7 actions)
+[2026-11-05T19:31:34Z] activity ok (7 actions)
+[2026-11-05T19:31:51Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:32:01Z] activity ok (7 actions)
+[2026-11-05T19:32:04Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:32:06Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:32:06Z] session confirmed dead; attempting re-login
+[2026-11-05T19:32:19Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:32:19Z] session confirmed dead; attempting re-login
+[2026-11-05T19:32:39Z] re-login ok, continuing session
+[2026-11-05T19:32:53Z] re-login ok, continuing session
+[2026-11-05T19:32:59Z] activity ok (7 actions)
+[2026-11-05T19:33:32Z] activity ok (7 actions)
+[2026-11-05T19:34:53Z] activity ok (7 actions)
+[2026-11-05T19:35:04Z] activity ok (7 actions)
+[2026-11-05T19:35:40Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:35:55Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:35:55Z] session confirmed dead; attempting re-login
+[2026-11-05T19:35:57Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:36:12Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:36:12Z] session confirmed dead; attempting re-login
+[2026-11-05T19:36:19Z] re-login ok, continuing session
+[2026-11-05T19:36:23Z] activity ok (7 actions)
+[2026-11-05T19:36:37Z] re-login ok, continuing session
+[2026-11-05T19:36:42Z] activity ok (7 actions)
+[2026-11-05T19:38:08Z] activity ok (7 actions)
+[2026-11-05T19:38:14Z] activity ok (7 actions)
+[2026-11-05T19:39:22Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:39:23Z] activity ok (7 actions)
+[2026-11-05T19:39:37Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:39:37Z] session confirmed dead; attempting re-login
+[2026-11-05T19:39:39Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:39:55Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:39:55Z] session confirmed dead; attempting re-login
+[2026-11-05T19:39:57Z] re-login ok, continuing session
+[2026-11-05T19:40:01Z] activity ok (7 actions)
+[2026-11-05T19:40:17Z] re-login ok, continuing session
+[2026-11-05T19:40:27Z] activity ok (7 actions)
+[2026-11-05T19:41:52Z] activity ok (7 actions)
+[2026-11-05T19:41:59Z] activity ok (7 actions)
+[2026-11-05T19:42:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:43:09Z] activity ok (7 actions)
+[2026-11-05T19:43:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:43:13Z] session confirmed dead; attempting re-login
+[2026-11-05T19:43:20Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:43:34Z] re-login ok, continuing session
+[2026-11-05T19:43:35Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:43:35Z] session confirmed dead; attempting re-login
+[2026-11-05T19:43:38Z] activity ok (7 actions)
+[2026-11-05T19:44:20Z] re-login ok, continuing session
+[2026-11-05T19:44:24Z] activity ok (7 actions)
+[2026-11-05T19:44:46Z] activity ok (7 actions)
+[2026-11-05T19:46:06Z] activity ok (7 actions)
+[2026-11-05T19:46:36Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:46:40Z] activity ok (7 actions)
+[2026-11-05T19:46:51Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:46:51Z] session confirmed dead; attempting re-login
+[2026-11-05T19:47:24Z] re-login ok, continuing session
+[2026-11-05T19:47:34Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:47:50Z] activity ok (7 actions)
+[2026-11-05T19:47:50Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:47:50Z] session confirmed dead; attempting re-login
+[2026-11-05T19:48:11Z] re-login ok, continuing session
+[2026-11-05T19:48:15Z] activity ok (7 actions)
+[2026-11-05T19:49:12Z] activity ok (7 actions)
+[2026-11-05T19:49:42Z] activity ok (7 actions)
+[2026-11-05T19:50:27Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:50:42Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:50:42Z] session confirmed dead; attempting re-login
+[2026-11-05T19:50:42Z] activity ok (7 actions)
+[2026-11-05T19:51:06Z] re-login ok, continuing session
+[2026-11-05T19:51:10Z] activity ok (7 actions)
+[2026-11-05T19:51:11Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:51:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:51:27Z] session confirmed dead; attempting re-login
+[2026-11-05T19:51:51Z] re-login ok, continuing session
+[2026-11-05T19:51:56Z] activity ok (7 actions)
+[2026-11-05T19:52:56Z] activity ok (7 actions)
+[2026-11-05T19:53:39Z] activity ok (7 actions)
+[2026-11-05T19:54:09Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:54:16Z] activity ok (7 actions)
+[2026-11-05T19:54:24Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:54:24Z] session confirmed dead; attempting re-login
+[2026-11-05T19:54:47Z] re-login ok, continuing session
+[2026-11-05T19:54:52Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:55:07Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:55:07Z] session confirmed dead; attempting re-login
+[2026-11-05T19:55:29Z] re-login ok, continuing session
+[2026-11-05T19:55:33Z] activity ok (7 actions)
+[2026-11-05T19:56:17Z] activity ok (7 actions)
+[2026-11-05T19:56:55Z] activity ok (7 actions)
+[2026-11-05T19:57:32Z] activity ok (7 actions)
+[2026-11-05T19:57:48Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:58:03Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:58:03Z] session confirmed dead; attempting re-login
+[2026-11-05T19:58:27Z] re-login ok, continuing session
+[2026-11-05T19:58:32Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T19:58:47Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T19:58:47Z] session confirmed dead; attempting re-login
+[2026-11-05T19:59:09Z] re-login ok, continuing session
+[2026-11-05T19:59:12Z] activity ok (7 actions)
+[2026-11-05T19:59:32Z] activity ok (7 actions)
+[2026-11-05T20:01:11Z] activity ok (7 actions)
+[2026-11-05T20:01:24Z] activity ok (7 actions)
+[2026-11-05T20:01:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:01:43Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:01:43Z] session confirmed dead; attempting re-login
+[2026-11-05T20:02:02Z] re-login ok, continuing session
+[2026-11-05T20:02:11Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:02:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:02:27Z] session confirmed dead; attempting re-login
+[2026-11-05T20:02:48Z] re-login ok, continuing session
+[2026-11-05T20:02:54Z] activity ok (7 actions)
+[2026-11-05T20:02:58Z] activity ok (7 actions)
+[2026-11-05T20:03:59Z] activity ok (7 actions)
+[2026-11-05T20:04:34Z] activity ok (7 actions)
+[2026-11-05T20:05:03Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:05:18Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:05:18Z] session confirmed dead; attempting re-login
+[2026-11-05T20:05:49Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:05:56Z] re-login ok, continuing session
+[2026-11-05T20:06:00Z] activity ok (7 actions)
+[2026-11-05T20:06:01Z] activity ok (7 actions)
+[2026-11-05T20:06:04Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:06:04Z] session confirmed dead; attempting re-login
+[2026-11-05T20:06:25Z] re-login ok, continuing session
+[2026-11-05T20:07:24Z] activity ok (7 actions)
+[2026-11-05T20:07:25Z] activity ok (7 actions)
+[2026-11-05T20:08:39Z] activity ok (7 actions)
+[2026-11-05T20:08:57Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:09:02Z] activity ok (7 actions)
+[2026-11-05T20:09:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:09:13Z] session confirmed dead; attempting re-login
+[2026-11-05T20:09:27Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:09:34Z] re-login ok, continuing session
+[2026-11-05T20:09:43Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:09:43Z] session confirmed dead; attempting re-login
+[2026-11-05T20:10:05Z] re-login ok, continuing session
+[2026-11-05T20:10:27Z] activity ok (7 actions)
+[2026-11-05T20:10:32Z] activity ok (7 actions)
+[2026-11-05T20:11:44Z] activity ok (7 actions)
+[2026-11-05T20:12:21Z] activity ok (7 actions)
+[2026-11-05T20:12:36Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:12:55Z] activity ok (7 actions)
+[2026-11-05T20:12:55Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:12:55Z] session confirmed dead; attempting re-login
+[2026-11-05T20:13:06Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:13:19Z] re-login ok, continuing session
+[2026-11-05T20:13:21Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:13:21Z] session confirmed dead; attempting re-login
+[2026-11-05T20:13:40Z] re-login ok, continuing session
+[2026-11-05T20:14:16Z] activity ok (7 actions)
+[2026-11-05T20:14:23Z] activity ok (7 actions)
+[2026-11-05T20:15:47Z] activity ok (7 actions)
+[2026-11-05T20:15:49Z] activity ok (7 actions)
+[2026-11-05T20:16:27Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:16:42Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:16:42Z] session confirmed dead; attempting re-login
+[2026-11-05T20:16:43Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:16:53Z] activity ok (7 actions)
+[2026-11-05T20:16:58Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:16:58Z] session confirmed dead; attempting re-login
+[2026-11-05T20:17:13Z] re-login ok, continuing session
+[2026-11-05T20:17:14Z] re-login ok, continuing session
+[2026-11-05T20:17:50Z] activity ok (7 actions)
+[2026-11-05T20:18:41Z] activity ok (7 actions)
+[2026-11-05T20:19:15Z] activity ok (7 actions)
+[2026-11-05T20:20:15Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:20:19Z] activity ok (7 actions)
+[2026-11-05T20:20:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:20:30Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:20:30Z] session confirmed dead; attempting re-login
+[2026-11-05T20:20:45Z] activity ok (7 actions)
+[2026-11-05T20:20:45Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:20:45Z] session confirmed dead; attempting re-login
+[2026-11-05T20:20:56Z] re-login ok, continuing session
+[2026-11-05T20:21:38Z] re-login failed: RuntimeError
+[2026-11-05T20:21:38Z] session end after 01:20:03 (total 34:21:55)
+[2026-11-05T20:21:38Z] session start (slot 36)
+[2026-11-05T20:22:12Z] activity ok (7 actions)
+[2026-11-05T20:22:13Z] logged in
+[2026-11-05T20:22:56Z] activity ok (7 actions)
+[2026-11-05T20:23:49Z] activity ok (7 actions)
+[2026-11-05T20:24:05Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:24:20Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:24:20Z] session confirmed dead; attempting re-login
+[2026-11-05T20:24:36Z] re-login ok, continuing session
+[2026-11-05T20:24:51Z] activity ok (7 actions)
+[2026-11-05T20:25:07Z] activity ok (7 actions)
+[2026-11-05T20:25:14Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:25:29Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:25:29Z] session confirmed dead; attempting re-login
+[2026-11-05T20:25:49Z] re-login ok, continuing session
+[2026-11-05T20:26:06Z] activity ok (7 actions)
+[2026-11-05T20:26:40Z] activity ok (7 actions)
+[2026-11-05T20:27:20Z] activity ok (7 actions)
+[2026-11-05T20:27:37Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:27:53Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:27:53Z] session confirmed dead; attempting re-login
+[2026-11-05T20:28:15Z] re-login ok, continuing session
+[2026-11-05T20:28:19Z] activity ok (7 actions)
+[2026-11-05T20:28:51Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:29:06Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:29:06Z] session confirmed dead; attempting re-login
+[2026-11-05T20:29:24Z] re-login ok, continuing session
+[2026-11-05T20:29:28Z] activity ok (7 actions)
+[2026-11-05T20:29:51Z] activity ok (7 actions)
+[2026-11-05T20:30:55Z] activity ok (7 actions)
+[2026-11-05T20:30:59Z] activity ok (7 actions)
+[2026-11-05T20:31:16Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:31:38Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:31:38Z] session confirmed dead; attempting re-login
+[2026-11-05T20:32:00Z] re-login ok, continuing session
+[2026-11-05T20:32:25Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:32:36Z] activity ok (7 actions)
+[2026-11-05T20:32:40Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:32:40Z] session confirmed dead; attempting re-login
+[2026-11-05T20:32:57Z] activity ok (7 actions)
+[2026-11-05T20:33:01Z] re-login ok, continuing session
+[2026-11-05T20:33:42Z] activity ok (7 actions)
+[2026-11-05T20:34:01Z] activity ok (7 actions)
+[2026-11-05T20:34:49Z] activity ok (7 actions)
+[2026-11-05T20:35:01Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:35:16Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:35:16Z] session confirmed dead; attempting re-login
+[2026-11-05T20:35:38Z] re-login ok, continuing session
+[2026-11-05T20:35:42Z] activity ok (7 actions)
+[2026-11-05T20:36:03Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:36:18Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:36:18Z] session confirmed dead; attempting re-login
+[2026-11-05T20:37:02Z] activity ok (7 actions)
+[2026-11-05T20:37:04Z] re-login ok, continuing session
+[2026-11-05T20:37:08Z] activity ok (7 actions)
+[2026-11-05T20:38:19Z] activity ok (7 actions)
+[2026-11-05T20:38:41Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:38:52Z] activity ok (7 actions)
+[2026-11-05T20:38:56Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:38:56Z] session confirmed dead; attempting re-login
+[2026-11-05T20:39:18Z] re-login ok, continuing session
+[2026-11-05T20:39:40Z] activity ok (7 actions)
+[2026-11-05T20:40:06Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:40:22Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:40:22Z] session confirmed dead; attempting re-login
+[2026-11-05T20:40:41Z] re-login ok, continuing session
+[2026-11-05T20:40:49Z] activity ok (7 actions)
+[2026-11-05T20:41:14Z] activity ok (7 actions)
+[2026-11-05T20:42:19Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:42:34Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:42:34Z] session confirmed dead; attempting re-login
+[2026-11-05T20:42:47Z] activity ok (7 actions)
+[2026-11-05T20:43:16Z] re-login ok, continuing session
+[2026-11-05T20:43:19Z] activity ok (7 actions)
+[2026-11-05T20:43:43Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:43:58Z] activity ok (7 actions)
+[2026-11-05T20:43:59Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:43:59Z] session confirmed dead; attempting re-login
+[2026-11-05T20:44:33Z] re-login ok, continuing session
+[2026-11-05T20:44:38Z] activity ok (7 actions)
+[2026-11-05T20:45:31Z] activity ok (7 actions)
+[2026-11-05T20:46:06Z] activity ok (7 actions)
+[2026-11-05T20:46:22Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:46:37Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:46:37Z] session confirmed dead; attempting re-login
+[2026-11-05T20:47:00Z] re-login ok, continuing session
+[2026-11-05T20:47:10Z] activity ok (7 actions)
+[2026-11-05T20:47:36Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:47:49Z] activity ok (7 actions)
+[2026-11-05T20:47:51Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:47:51Z] session confirmed dead; attempting re-login
+[2026-11-05T20:48:10Z] re-login ok, continuing session
+[2026-11-05T20:48:47Z] activity ok (7 actions)
+[2026-11-05T20:49:49Z] activity ok (7 actions)
+[2026-11-05T20:50:02Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:50:18Z] activity ok (7 actions)
+[2026-11-05T20:50:18Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:50:18Z] session confirmed dead; attempting re-login
+[2026-11-05T20:50:41Z] re-login ok, continuing session
+[2026-11-05T20:51:13Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:51:20Z] activity ok (7 actions)
+[2026-11-05T20:51:29Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:51:29Z] session confirmed dead; attempting re-login
+[2026-11-05T20:52:24Z] re-login failed: RuntimeError
+[2026-11-05T20:52:24Z] session end after 00:30:45 (total 34:52:41)
+[2026-11-05T20:52:24Z] session start (slot 36)
+[2026-11-05T20:52:44Z] activity ok (7 actions)
+[2026-11-05T20:52:50Z] logged in
+[2026-11-05T20:53:41Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:53:49Z] activity ok (7 actions)
+[2026-11-05T20:53:57Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:53:57Z] session confirmed dead; attempting re-login
+[2026-11-05T20:54:19Z] re-login ok, continuing session
+[2026-11-05T20:54:32Z] activity ok (7 actions)
+[2026-11-05T20:55:46Z] activity ok (7 actions)
+[2026-11-05T20:55:53Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:56:08Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:56:08Z] session confirmed dead; attempting re-login
+[2026-11-05T20:56:23Z] activity ok (7 actions)
+[2026-11-05T20:56:30Z] re-login ok, continuing session
+[2026-11-05T20:56:50Z] activity ok (7 actions)
+[2026-11-05T20:57:21Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:57:37Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:57:37Z] session confirmed dead; attempting re-login
+[2026-11-05T20:57:56Z] re-login ok, continuing session
+[2026-11-05T20:58:17Z] activity ok (7 actions)
+[2026-11-05T20:58:21Z] activity ok (7 actions)
+[2026-11-05T20:59:32Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T20:59:48Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T20:59:48Z] session confirmed dead; attempting re-login
+[2026-11-05T21:00:10Z] activity ok (7 actions)
+[2026-11-05T21:00:16Z] re-login ok, continuing session
+[2026-11-05T21:00:20Z] activity ok (7 actions)
+[2026-11-05T21:00:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:01:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:01:13Z] session confirmed dead; attempting re-login
+[2026-11-05T21:01:33Z] re-login ok, continuing session
+[2026-11-05T21:02:06Z] activity ok (7 actions)
+[2026-11-05T21:02:07Z] activity ok (7 actions)
+[2026-11-05T21:03:17Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:03:32Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:03:32Z] session confirmed dead; attempting re-login
+[2026-11-05T21:04:02Z] re-login ok, continuing session
+[2026-11-05T21:04:04Z] activity ok (7 actions)
+[2026-11-05T21:04:06Z] activity ok (7 actions)
+[2026-11-05T21:04:40Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:04:55Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:04:55Z] session confirmed dead; attempting re-login
+[2026-11-05T21:05:18Z] re-login ok, continuing session
+[2026-11-05T21:05:22Z] activity ok (7 actions)
+[2026-11-05T21:05:29Z] activity ok (7 actions)
+[2026-11-05T21:06:43Z] activity ok (7 actions)
+[2026-11-05T21:07:03Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:07:21Z] activity ok (7 actions)
+[2026-11-05T21:07:21Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:07:21Z] session confirmed dead; attempting re-login
+[2026-11-05T21:07:40Z] re-login ok, continuing session
+[2026-11-05T21:08:10Z] activity ok (7 actions)
+[2026-11-05T21:08:21Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:08:36Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:08:36Z] session confirmed dead; attempting re-login
+[2026-11-05T21:09:03Z] re-login ok, continuing session
+[2026-11-05T21:09:21Z] activity ok (7 actions)
+[2026-11-05T21:09:31Z] activity ok (7 actions)
+[2026-11-05T21:10:41Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:10:45Z] activity ok (7 actions)
+[2026-11-05T21:10:56Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:10:56Z] session confirmed dead; attempting re-login
+[2026-11-05T21:11:15Z] re-login ok, continuing session
+[2026-11-05T21:11:24Z] activity ok (7 actions)
+[2026-11-05T21:12:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:12:21Z] activity ok (7 actions)
+[2026-11-05T21:12:25Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:12:25Z] session confirmed dead; attempting re-login
+[2026-11-05T21:12:47Z] re-login ok, continuing session
+[2026-11-05T21:13:24Z] activity ok (7 actions)
+[2026-11-05T21:13:31Z] activity ok (7 actions)
+[2026-11-05T21:14:16Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:14:31Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:14:31Z] session confirmed dead; attempting re-login
+[2026-11-05T21:14:50Z] activity ok (7 actions)
+[2026-11-05T21:14:57Z] re-login ok, continuing session
+[2026-11-05T21:15:35Z] activity ok (7 actions)
+[2026-11-05T21:15:49Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:16:04Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:16:04Z] session confirmed dead; attempting re-login
+[2026-11-05T21:16:26Z] re-login ok, continuing session
+[2026-11-05T21:16:29Z] activity ok (7 actions)
+[2026-11-05T21:17:21Z] activity ok (7 actions)
+[2026-11-05T21:17:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:18:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:18:13Z] session confirmed dead; attempting re-login
+[2026-11-05T21:18:28Z] activity ok (7 actions)
+[2026-11-05T21:18:57Z] re-login ok, continuing session
+[2026-11-05T21:19:16Z] activity ok (7 actions)
+[2026-11-05T21:19:26Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:19:41Z] activity ok (7 actions)
+[2026-11-05T21:19:42Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:19:42Z] session confirmed dead; attempting re-login
+[2026-11-05T21:20:06Z] re-login ok, continuing session
+[2026-11-05T21:21:09Z] activity ok (7 actions)
+[2026-11-05T21:21:10Z] activity ok (7 actions)
+[2026-11-05T21:22:06Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:22:21Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:22:21Z] session confirmed dead; attempting re-login
+[2026-11-05T21:22:42Z] re-login ok, continuing session
+[2026-11-05T21:22:46Z] activity ok (7 actions)
+[2026-11-05T21:22:56Z] activity ok (7 actions)
+[2026-11-05T21:23:09Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:23:24Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:23:24Z] session confirmed dead; attempting re-login
+[2026-11-05T21:23:50Z] re-login ok, continuing session
+[2026-11-05T21:23:52Z] activity ok (7 actions)
+[2026-11-05T21:24:29Z] activity ok (7 actions)
+[2026-11-05T21:24:58Z] activity ok (7 actions)
+[2026-11-05T21:25:45Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:26:00Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:26:00Z] session confirmed dead; attempting re-login
+[2026-11-05T21:26:12Z] activity ok (7 actions)
+[2026-11-05T21:26:22Z] re-login ok, continuing session
+[2026-11-05T21:26:26Z] activity ok (7 actions)
+[2026-11-05T21:26:51Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:27:06Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:27:06Z] session confirmed dead; attempting re-login
+[2026-11-05T21:27:27Z] re-login ok, continuing session
+[2026-11-05T21:27:32Z] activity ok (7 actions)
+[2026-11-05T21:27:42Z] activity ok (7 actions)
+[2026-11-05T21:28:38Z] activity ok (7 actions)
+[2026-11-05T21:29:25Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:29:41Z] activity ok (7 actions)
+[2026-11-05T21:29:42Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:29:42Z] session confirmed dead; attempting re-login
+[2026-11-05T21:30:05Z] re-login ok, continuing session
+[2026-11-05T21:30:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:30:37Z] activity ok (7 actions)
+[2026-11-05T21:30:44Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:30:44Z] session confirmed dead; attempting re-login
+[2026-11-05T21:30:50Z] activity ok (7 actions)
+[2026-11-05T21:31:17Z] re-login ok, continuing session
+[2026-11-05T21:31:53Z] activity ok (7 actions)
+[2026-11-05T21:31:54Z] activity ok (7 actions)
+[2026-11-05T21:33:08Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:33:13Z] activity ok (7 actions)
+[2026-11-05T21:33:23Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:33:23Z] session confirmed dead; attempting re-login
+[2026-11-05T21:33:41Z] re-login ok, continuing session
+[2026-11-05T21:33:56Z] activity ok (7 actions)
+[2026-11-05T21:34:30Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:34:46Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:34:46Z] session confirmed dead; attempting re-login
+[2026-11-05T21:35:09Z] re-login ok, continuing session
+[2026-11-05T21:35:13Z] activity ok (7 actions)
+[2026-11-05T21:35:30Z] activity ok (7 actions)
+[2026-11-05T21:36:31Z] activity ok (7 actions)
+[2026-11-05T21:36:44Z] activity ok (7 actions)
+[2026-11-05T21:36:45Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:37:00Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:37:00Z] session confirmed dead; attempting re-login
+[2026-11-05T21:37:22Z] re-login ok, continuing session
+[2026-11-05T21:37:47Z] activity ok (7 actions)
+[2026-11-05T21:37:58Z] activity ok (7 actions)
+[2026-11-05T21:38:09Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:38:25Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:38:25Z] session confirmed dead; attempting re-login
+[2026-11-05T21:38:44Z] re-login ok, continuing session
+[2026-11-05T21:39:39Z] activity ok (7 actions)
+[2026-11-05T21:39:44Z] activity ok (7 actions)
+[2026-11-05T21:40:25Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:40:40Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:40:40Z] session confirmed dead; attempting re-login
+[2026-11-05T21:40:47Z] activity ok (7 actions)
+[2026-11-05T21:41:09Z] re-login ok, continuing session
+[2026-11-05T21:41:12Z] activity ok (7 actions)
+[2026-11-05T21:41:47Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:42:02Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:42:02Z] session confirmed dead; attempting re-login
+[2026-11-05T21:42:26Z] activity ok (7 actions)
+[2026-11-05T21:42:34Z] re-login ok, continuing session
+[2026-11-05T21:42:37Z] activity ok (7 actions)
+[2026-11-05T21:43:59Z] activity ok (7 actions)
+[2026-11-05T21:44:06Z] activity ok (7 actions)
+[2026-11-05T21:44:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:44:25Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:44:25Z] session confirmed dead; attempting re-login
+[2026-11-05T21:44:44Z] re-login ok, continuing session
+[2026-11-05T21:45:30Z] activity ok (7 actions)
+[2026-11-05T21:45:36Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:45:52Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:45:52Z] session confirmed dead; attempting re-login
+[2026-11-05T21:46:18Z] re-login ok, continuing session
+[2026-11-05T21:46:21Z] activity ok (7 actions)
+[2026-11-05T21:47:15Z] activity ok (7 actions)
+[2026-11-05T21:47:45Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:48:00Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:48:00Z] session confirmed dead; attempting re-login
+[2026-11-05T21:48:06Z] activity ok (7 actions)
+[2026-11-05T21:48:33Z] re-login ok, continuing session
+[2026-11-05T21:48:39Z] activity ok (7 actions)
+[2026-11-05T21:49:11Z] activity ok (7 actions)
+[2026-11-05T21:49:20Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:49:36Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:49:36Z] session confirmed dead; attempting re-login
+[2026-11-05T21:49:57Z] activity ok (7 actions)
+[2026-11-05T21:49:58Z] re-login ok, continuing session
+[2026-11-05T21:50:16Z] activity ok (7 actions)
+[2026-11-05T21:51:19Z] activity ok (7 actions)
+[2026-11-05T21:51:47Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:52:02Z] activity ok (7 actions)
+[2026-11-05T21:52:02Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:52:02Z] session confirmed dead; attempting re-login
+[2026-11-05T21:52:21Z] re-login ok, continuing session
+[2026-11-05T21:52:42Z] activity ok (7 actions)
+[2026-11-05T21:53:00Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:53:15Z] activity ok (7 actions)
+[2026-11-05T21:53:15Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:53:15Z] session confirmed dead; attempting re-login
+[2026-11-05T21:53:50Z] re-login ok, continuing session
+[2026-11-05T21:54:08Z] activity ok (7 actions)
+[2026-11-05T21:54:57Z] activity ok (7 actions)
+[2026-11-05T21:55:22Z] activity ok (7 actions)
+[2026-11-05T21:55:24Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:55:39Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:55:39Z] session confirmed dead; attempting re-login
+[2026-11-05T21:55:59Z] re-login ok, continuing session
+[2026-11-05T21:56:41Z] activity ok (7 actions)
+[2026-11-05T21:56:50Z] activity ok (7 actions)
+[2026-11-05T21:56:53Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:57:08Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:57:08Z] session confirmed dead; attempting re-login
+[2026-11-05T21:57:29Z] re-login ok, continuing session
+[2026-11-05T21:58:37Z] activity ok (7 actions)
+[2026-11-05T21:58:47Z] activity ok (7 actions)
+[2026-11-05T21:59:00Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T21:59:15Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T21:59:15Z] session confirmed dead; attempting re-login
+[2026-11-05T21:59:56Z] re-login ok, continuing session
+[2026-11-05T22:00:08Z] activity ok (7 actions)
+[2026-11-05T22:00:30Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:00:31Z] activity ok (7 actions)
+[2026-11-05T22:00:45Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:00:45Z] session confirmed dead; attempting re-login
+[2026-11-05T22:01:10Z] re-login ok, continuing session
+[2026-11-05T22:01:41Z] activity ok (7 actions)
+[2026-11-05T22:02:10Z] activity ok (7 actions)
+[2026-11-05T22:02:53Z] activity ok (7 actions)
+[2026-11-05T22:02:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:03:14Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:03:14Z] session confirmed dead; attempting re-login
+[2026-11-05T22:03:34Z] re-login ok, continuing session
+[2026-11-05T22:03:53Z] activity ok (7 actions)
+[2026-11-05T22:04:11Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:04:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:04:27Z] session confirmed dead; attempting re-login
+[2026-11-05T22:04:49Z] re-login ok, continuing session
+[2026-11-05T22:04:53Z] activity ok (7 actions)
+[2026-11-05T22:05:00Z] activity ok (7 actions)
+[2026-11-05T22:06:20Z] activity ok (7 actions)
+[2026-11-05T22:06:36Z] activity ok (7 actions)
+[2026-11-05T22:06:38Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:06:53Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:06:53Z] session confirmed dead; attempting re-login
+[2026-11-05T22:07:14Z] re-login ok, continuing session
+[2026-11-05T22:07:50Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:07:56Z] activity ok (7 actions)
+[2026-11-05T22:08:05Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:08:05Z] session confirmed dead; attempting re-login
+[2026-11-05T22:08:06Z] activity ok (7 actions)
+[2026-11-05T22:08:22Z] re-login ok, continuing session
+[2026-11-05T22:09:46Z] activity ok (7 actions)
+[2026-11-05T22:09:58Z] activity ok (7 actions)
+[2026-11-05T22:10:15Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:10:30Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:10:30Z] session confirmed dead; attempting re-login
+[2026-11-05T22:10:54Z] re-login ok, continuing session
+[2026-11-05T22:11:05Z] activity ok (7 actions)
+[2026-11-05T22:11:20Z] activity ok (7 actions)
+[2026-11-05T22:11:23Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:11:38Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:11:38Z] session confirmed dead; attempting re-login
+[2026-11-05T22:11:59Z] re-login ok, continuing session
+[2026-11-05T22:12:11Z] activity ok (7 actions)
+[2026-11-05T22:12:54Z] activity ok (7 actions)
+[2026-11-05T22:13:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:14:13Z] activity ok (7 actions)
+[2026-11-05T22:14:14Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:14:14Z] session confirmed dead; attempting re-login
+[2026-11-05T22:14:38Z] re-login ok, continuing session
+[2026-11-05T22:14:51Z] activity ok (7 actions)
+[2026-11-05T22:15:01Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:15:17Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:15:17Z] session confirmed dead; attempting re-login
+[2026-11-05T22:15:36Z] re-login ok, continuing session
+[2026-11-05T22:16:03Z] activity ok (7 actions)
+[2026-11-05T22:16:29Z] activity ok (7 actions)
+[2026-11-05T22:17:43Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:18:01Z] activity ok (7 actions)
+[2026-11-05T22:18:02Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:18:02Z] session confirmed dead; attempting re-login
+[2026-11-05T22:18:04Z] activity ok (7 actions)
+[2026-11-05T22:18:21Z] re-login ok, continuing session
+[2026-11-05T22:18:39Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:18:54Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:18:54Z] session confirmed dead; attempting re-login
+[2026-11-05T22:19:19Z] re-login ok, continuing session
+[2026-11-05T22:19:51Z] activity ok (7 actions)
+[2026-11-05T22:19:51Z] activity ok (7 actions)
+[2026-11-05T22:21:02Z] activity ok (7 actions)
+[2026-11-05T22:21:15Z] activity ok (7 actions)
+[2026-11-05T22:21:23Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:21:38Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:21:38Z] session confirmed dead; attempting re-login
+[2026-11-05T22:21:59Z] re-login ok, continuing session
+[2026-11-05T22:22:20Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:22:35Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:22:35Z] session confirmed dead; attempting re-login
+[2026-11-05T22:22:37Z] activity ok (7 actions)
+[2026-11-05T22:23:10Z] re-login ok, continuing session
+[2026-11-05T22:23:14Z] activity ok (7 actions)
+[2026-11-05T22:23:50Z] activity ok (7 actions)
+[2026-11-05T22:25:01Z] activity ok (7 actions)
+[2026-11-05T22:25:03Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:25:18Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:25:18Z] session confirmed dead; attempting re-login
+[2026-11-05T22:25:37Z] re-login ok, continuing session
+[2026-11-05T22:25:40Z] activity ok (7 actions)
+[2026-11-05T22:26:11Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:26:16Z] activity ok (7 actions)
+[2026-11-05T22:26:26Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:26:26Z] session confirmed dead; attempting re-login
+[2026-11-05T22:26:48Z] re-login ok, continuing session
+[2026-11-05T22:27:11Z] activity ok (7 actions)
+[2026-11-05T22:27:31Z] activity ok (7 actions)
+[2026-11-05T22:28:15Z] activity ok (7 actions)
+[2026-11-05T22:28:42Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:28:57Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:28:57Z] session confirmed dead; attempting re-login
+[2026-11-05T22:29:09Z] activity ok (7 actions)
+[2026-11-05T22:29:20Z] re-login ok, continuing session
+[2026-11-05T22:29:43Z] activity ok (7 actions)
+[2026-11-05T22:29:49Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:30:04Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:30:04Z] session confirmed dead; attempting re-login
+[2026-11-05T22:30:27Z] re-login ok, continuing session
+[2026-11-05T22:30:42Z] activity ok (7 actions)
+[2026-11-05T22:31:35Z] activity ok (7 actions)
+[2026-11-05T22:32:29Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:32:36Z] activity ok (7 actions)
+[2026-11-05T22:32:44Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:32:44Z] session confirmed dead; attempting re-login
+[2026-11-05T22:33:05Z] re-login ok, continuing session
+[2026-11-05T22:33:09Z] activity ok (7 actions)
+[2026-11-05T22:33:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:33:44Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:33:44Z] session confirmed dead; attempting re-login
+[2026-11-05T22:34:01Z] re-login ok, continuing session
+[2026-11-05T22:34:25Z] activity ok (7 actions)
+[2026-11-05T22:34:33Z] activity ok (7 actions)
+[2026-11-05T22:35:43Z] activity ok (7 actions)
+[2026-11-05T22:36:06Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:36:22Z] activity ok (7 actions)
+[2026-11-05T22:36:22Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:36:22Z] session confirmed dead; attempting re-login
+[2026-11-05T22:36:46Z] re-login ok, continuing session
+[2026-11-05T22:37:02Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:37:18Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:37:18Z] session confirmed dead; attempting re-login
+[2026-11-05T22:37:39Z] activity ok (7 actions)
+[2026-11-05T22:37:41Z] re-login ok, continuing session
+[2026-11-05T22:37:45Z] activity ok (7 actions)
+[2026-11-05T22:39:00Z] activity ok (7 actions)
+[2026-11-05T22:39:11Z] activity ok (7 actions)
+[2026-11-05T22:39:46Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:40:02Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:40:02Z] session confirmed dead; attempting re-login
+[2026-11-05T22:40:22Z] re-login ok, continuing session
+[2026-11-05T22:40:29Z] activity ok (7 actions)
+[2026-11-05T22:40:47Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:41:02Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:41:02Z] session confirmed dead; attempting re-login
+[2026-11-05T22:41:06Z] activity ok (7 actions)
+[2026-11-05T22:41:21Z] re-login ok, continuing session
+[2026-11-05T22:42:11Z] activity ok (7 actions)
+[2026-11-05T22:42:40Z] activity ok (7 actions)
+[2026-11-05T22:43:23Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:43:38Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:43:38Z] session confirmed dead; attempting re-login
+[2026-11-05T22:43:58Z] re-login ok, continuing session
+[2026-11-05T22:44:03Z] activity ok (7 actions)
+[2026-11-05T22:44:22Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:44:37Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:44:37Z] session confirmed dead; attempting re-login
+[2026-11-05T22:44:39Z] activity ok (7 actions)
+[2026-11-05T22:44:58Z] re-login ok, continuing session
+[2026-11-05T22:46:02Z] activity ok (7 actions)
+[2026-11-05T22:46:41Z] activity ok (7 actions)
+[2026-11-05T22:47:00Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:47:15Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:47:15Z] session confirmed dead; attempting re-login
+[2026-11-05T22:47:22Z] activity ok (7 actions)
+[2026-11-05T22:47:36Z] re-login ok, continuing session
+[2026-11-05T22:48:00Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:48:15Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:48:15Z] session confirmed dead; attempting re-login
+[2026-11-05T22:48:39Z] activity ok (7 actions)
+[2026-11-05T22:48:48Z] re-login ok, continuing session
+[2026-11-05T22:49:19Z] activity ok (7 actions)
+[2026-11-05T22:50:38Z] activity ok (7 actions)
+[2026-11-05T22:50:39Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:50:43Z] activity ok (7 actions)
+[2026-11-05T22:50:54Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:50:54Z] session confirmed dead; attempting re-login
+[2026-11-05T22:51:15Z] re-login ok, continuing session
+[2026-11-05T22:51:50Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:52:05Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:52:05Z] session confirmed dead; attempting re-login
+[2026-11-05T22:52:33Z] re-login ok, continuing session
+[2026-11-05T22:52:37Z] activity ok (7 actions)
+[2026-11-05T22:52:38Z] activity ok (7 actions)
+[2026-11-05T22:53:53Z] activity ok (7 actions)
+[2026-11-05T22:54:16Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:54:21Z] activity ok (7 actions)
+[2026-11-05T22:54:31Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:54:31Z] session confirmed dead; attempting re-login
+[2026-11-05T22:54:56Z] re-login ok, continuing session
+[2026-11-05T22:55:35Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:55:39Z] activity ok (7 actions)
+[2026-11-05T22:55:51Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:55:51Z] session confirmed dead; attempting re-login
+[2026-11-05T22:56:02Z] activity ok (7 actions)
+[2026-11-05T22:56:09Z] re-login ok, continuing session
+[2026-11-05T22:57:22Z] activity ok (7 actions)
+[2026-11-05T22:57:33Z] activity ok (7 actions)
+[2026-11-05T22:57:59Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:58:14Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:58:14Z] session confirmed dead; attempting re-login
+[2026-11-05T22:58:34Z] re-login ok, continuing session
+[2026-11-05T22:58:51Z] activity ok (7 actions)
+[2026-11-05T22:59:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T22:59:25Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T22:59:25Z] session confirmed dead; attempting re-login
+[2026-11-05T22:59:27Z] activity ok (7 actions)
+[2026-11-05T22:59:45Z] re-login ok, continuing session
+[2026-11-05T23:00:20Z] activity ok (7 actions)
+[2026-11-05T23:01:23Z] activity ok (7 actions)
+[2026-11-05T23:01:34Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:01:50Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:01:50Z] session confirmed dead; attempting re-login
+[2026-11-05T23:02:03Z] activity ok (7 actions)
+[2026-11-05T23:02:27Z] re-login ok, continuing session
+[2026-11-05T23:02:34Z] session end after 02:10:10 (total 37:02:51)
+[2026-11-05T23:03:24Z] activity ok (7 actions)
+[2026-11-05T23:04:51Z] activity ok (7 actions)
+[2026-11-05T23:05:29Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:05:44Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:05:44Z] session confirmed dead; attempting re-login
+[2026-11-05T23:06:05Z] re-login ok, continuing session
+[2026-11-05T23:06:42Z] activity ok (7 actions)
+[2026-11-05T23:07:58Z] activity ok (7 actions)
+[2026-11-05T23:09:08Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:09:23Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:09:23Z] session confirmed dead; attempting re-login
+[2026-11-05T23:09:42Z] re-login ok, continuing session
+[2026-11-05T23:09:45Z] activity ok (7 actions)
+[2026-11-05T23:11:13Z] activity ok (7 actions)
+[2026-11-05T23:12:43Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:12:58Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:12:58Z] session confirmed dead; attempting re-login
+[2026-11-05T23:13:23Z] re-login ok, continuing session
+[2026-11-05T23:13:27Z] activity ok (7 actions)
+[2026-11-05T23:15:19Z] activity ok (7 actions)
+[2026-11-05T23:16:25Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:16:41Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:16:41Z] session confirmed dead; attempting re-login
+[2026-11-05T23:17:00Z] re-login ok, continuing session
+[2026-11-05T23:17:04Z] activity ok (7 actions)
+[2026-11-05T23:18:17Z] activity ok (7 actions)
+[2026-11-05T23:19:57Z] activity ok (7 actions)
+[2026-11-05T23:20:03Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:20:18Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:20:18Z] session confirmed dead; attempting re-login
+[2026-11-05T23:20:40Z] re-login ok, continuing session
+[2026-11-05T23:21:42Z] activity ok (7 actions)
+[2026-11-05T23:23:19Z] activity ok (7 actions)
+[2026-11-05T23:23:42Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:23:57Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:23:57Z] session confirmed dead; attempting re-login
+[2026-11-05T23:24:41Z] re-login ok, continuing session
+[2026-11-05T23:24:56Z] activity ok (7 actions)
+[2026-11-05T23:26:56Z] activity ok (7 actions)
+[2026-11-05T23:27:42Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:27:57Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:27:57Z] session confirmed dead; attempting re-login
+[2026-11-05T23:28:33Z] re-login ok, continuing session
+[2026-11-05T23:28:37Z] activity ok (7 actions)
+[2026-11-05T23:29:45Z] activity ok (7 actions)
+[2026-11-05T23:30:54Z] activity ok (7 actions)
+[2026-11-05T23:31:34Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:31:50Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:31:50Z] session confirmed dead; attempting re-login
+[2026-11-05T23:32:08Z] re-login ok, continuing session
+[2026-11-05T23:32:20Z] activity ok (7 actions)
+[2026-11-05T23:33:59Z] activity ok (7 actions)
+[2026-11-05T23:35:09Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:35:25Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:35:25Z] session confirmed dead; attempting re-login
+[2026-11-05T23:35:45Z] re-login ok, continuing session
+[2026-11-05T23:35:49Z] activity ok (7 actions)
+[2026-11-05T23:37:45Z] activity ok (7 actions)
+[2026-11-05T23:38:29Z] session start (slot 18)
+[2026-11-05T23:38:46Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:38:55Z] logged in
+[2026-11-05T23:39:04Z] activity ok (7 actions)
+[2026-11-05T23:39:05Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:39:05Z] session confirmed dead; attempting re-login
+[2026-11-05T23:39:25Z] re-login ok, continuing session
+[2026-11-05T23:39:56Z] activity ok (7 actions)
+[2026-11-05T23:40:35Z] activity ok (7 actions)
+[2026-11-05T23:41:32Z] activity ok (7 actions)
+[2026-11-05T23:41:56Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:42:11Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:42:11Z] session confirmed dead; attempting re-login
+[2026-11-05T23:42:27Z] activity ok (7 actions)
+[2026-11-05T23:42:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:42:38Z] re-login ok, continuing session
+[2026-11-05T23:42:43Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:42:43Z] session confirmed dead; attempting re-login
+[2026-11-05T23:43:06Z] re-login ok, continuing session
+[2026-11-05T23:43:32Z] activity ok (7 actions)
+[2026-11-05T23:43:59Z] activity ok (7 actions)
+[2026-11-05T23:44:37Z] activity ok (7 actions)
+[2026-11-05T23:45:40Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:45:53Z] activity ok (7 actions)
+[2026-11-05T23:45:56Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:45:56Z] session confirmed dead; attempting re-login
+[2026-11-05T23:46:02Z] activity ok (7 actions)
+[2026-11-05T23:46:07Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:46:12Z] re-login ok, continuing session
+[2026-11-05T23:46:22Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:46:22Z] session confirmed dead; attempting re-login
+[2026-11-05T23:46:42Z] re-login ok, continuing session
+[2026-11-05T23:47:37Z] activity ok (7 actions)
+[2026-11-05T23:47:50Z] activity ok (7 actions)
+[2026-11-05T23:49:05Z] activity ok (7 actions)
+[2026-11-05T23:49:15Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:49:30Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:49:30Z] session confirmed dead; attempting re-login
+[2026-11-05T23:49:43Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:49:48Z] re-login ok, continuing session
+[2026-11-05T23:49:52Z] activity ok (7 actions)
+[2026-11-05T23:49:58Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:49:58Z] session confirmed dead; attempting re-login
+[2026-11-05T23:50:16Z] re-login ok, continuing session
+[2026-11-05T23:50:55Z] activity ok (7 actions)
+[2026-11-05T23:51:17Z] activity ok (7 actions)
+[2026-11-05T23:52:26Z] activity ok (7 actions)
+[2026-11-05T23:52:29Z] activity ok (7 actions)
+[2026-11-05T23:52:49Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:53:04Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:53:04Z] session confirmed dead; attempting re-login
+[2026-11-05T23:53:19Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:53:23Z] re-login ok, continuing session
+[2026-11-05T23:53:34Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:53:34Z] session confirmed dead; attempting re-login
+[2026-11-05T23:53:37Z] activity ok (7 actions)
+[2026-11-05T23:53:59Z] re-login ok, continuing session
+[2026-11-05T23:54:02Z] activity ok (7 actions)
+[2026-11-05T23:55:31Z] activity ok (7 actions)
+[2026-11-05T23:55:43Z] activity ok (7 actions)
+[2026-11-05T23:56:25Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:56:40Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:56:40Z] session confirmed dead; attempting re-login
+[2026-11-05T23:56:59Z] refresh says expired (login form in response) [1/2]
+[2026-11-05T23:57:01Z] re-login ok, continuing session
+[2026-11-05T23:57:04Z] activity ok (7 actions)
+[2026-11-05T23:57:15Z] refresh says expired (redirect to login) [2/2]
+[2026-11-05T23:57:15Z] session confirmed dead; attempting re-login
+[2026-11-05T23:57:37Z] re-login ok, continuing session
+[2026-11-05T23:57:41Z] activity ok (7 actions)
+[2026-11-05T23:59:08Z] activity ok (7 actions)
+[2026-11-05T23:59:31Z] activity ok (7 actions)
+[2026-11-06T00:00:02Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:00:17Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:00:17Z] session confirmed dead; attempting re-login
+[2026-11-06T00:00:37Z] re-login ok, continuing session
+[2026-11-06T00:00:38Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:00:40Z] activity ok (7 actions)
+[2026-11-06T00:00:50Z] activity ok (7 actions)
+[2026-11-06T00:00:53Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:00:53Z] session confirmed dead; attempting re-login
+[2026-11-06T00:01:13Z] re-login ok, continuing session
+[2026-11-06T00:01:48Z] activity ok (7 actions)
+[2026-11-06T00:02:21Z] activity ok (7 actions)
+[2026-11-06T00:02:56Z] activity ok (7 actions)
+[2026-11-06T00:03:38Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:03:53Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:03:53Z] session confirmed dead; attempting re-login
+[2026-11-06T00:04:14Z] re-login ok, continuing session
+[2026-11-06T00:04:14Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:04:20Z] activity ok (7 actions)
+[2026-11-06T00:04:29Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:04:29Z] session confirmed dead; attempting re-login
+[2026-11-06T00:04:41Z] activity ok (7 actions)
+[2026-11-06T00:04:50Z] re-login ok, continuing session
+[2026-11-06T00:05:34Z] activity ok (7 actions)
+[2026-11-06T00:05:56Z] activity ok (7 actions)
+[2026-11-06T00:06:54Z] activity ok (7 actions)
+[2026-11-06T00:07:15Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:07:30Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:07:30Z] session confirmed dead; attempting re-login
+[2026-11-06T00:07:47Z] re-login ok, continuing session
+[2026-11-06T00:07:50Z] activity ok (7 actions)
+[2026-11-06T00:07:51Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:08:06Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:08:06Z] session confirmed dead; attempting re-login
+[2026-11-06T00:08:29Z] re-login ok, continuing session
+[2026-11-06T00:08:33Z] activity ok (7 actions)
+[2026-11-06T00:08:55Z] activity ok (7 actions)
+[2026-11-06T00:10:09Z] activity ok (7 actions)
+[2026-11-06T00:10:21Z] activity ok (7 actions)
+[2026-11-06T00:10:47Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:11:03Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:11:03Z] session confirmed dead; attempting re-login
+[2026-11-06T00:11:16Z] activity ok (7 actions)
+[2026-11-06T00:11:20Z] re-login ok, continuing session
+[2026-11-06T00:11:29Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:11:45Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:11:45Z] session confirmed dead; attempting re-login
+[2026-11-06T00:12:03Z] re-login ok, continuing session
+[2026-11-06T00:12:24Z] activity ok (7 actions)
+[2026-11-06T00:12:50Z] activity ok (7 actions)
+[2026-11-06T00:13:51Z] activity ok (7 actions)
+[2026-11-06T00:14:04Z] activity ok (7 actions)
+[2026-11-06T00:14:23Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:14:53Z] keepalive ok (refresh error TimeoutError (assumed alive))
+[2026-11-06T00:15:04Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:15:19Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:15:19Z] session confirmed dead; attempting re-login
+[2026-11-06T00:15:35Z] activity ok (7 actions)
+[2026-11-06T00:15:41Z] re-login ok, continuing session
+[2026-11-06T00:15:46Z] activity ok (7 actions)
+[2026-11-06T00:16:53Z] activity ok (7 actions)
+[2026-11-06T00:17:13Z] activity ok (7 actions)
+[2026-11-06T00:17:53Z] refresh says expired (redirect to login) [1/2]
+[2026-11-06T00:18:08Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:18:08Z] session confirmed dead; attempting re-login
+[2026-11-06T00:18:24Z] activity ok (7 actions)
+[2026-11-06T00:18:31Z] re-login ok, continuing session
+[2026-11-06T00:18:35Z] activity ok (7 actions)
+[2026-11-06T00:18:42Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:18:58Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:18:58Z] session confirmed dead; attempting re-login
+[2026-11-06T00:19:18Z] re-login ok, continuing session
+[2026-11-06T00:20:17Z] activity ok (7 actions)
+[2026-11-06T00:20:37Z] activity ok (7 actions)
+[2026-11-06T00:21:22Z] activity ok (7 actions)
+[2026-11-06T00:21:33Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:21:48Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:21:48Z] session confirmed dead; attempting re-login
+[2026-11-06T00:22:12Z] re-login ok, continuing session
+[2026-11-06T00:22:21Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:22:28Z] activity ok (7 actions)
+[2026-11-06T00:22:36Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:22:36Z] session confirmed dead; attempting re-login
+[2026-11-06T00:22:57Z] re-login ok, continuing session
+[2026-11-06T00:23:02Z] activity ok (7 actions)
+[2026-11-06T00:23:39Z] activity ok (7 actions)
+[2026-11-06T00:24:53Z] activity ok (7 actions)
+[2026-11-06T00:25:08Z] activity ok (7 actions)
+[2026-11-06T00:25:14Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:25:29Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:25:29Z] session confirmed dead; attempting re-login
+[2026-11-06T00:25:49Z] re-login ok, continuing session
+[2026-11-06T00:25:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:26:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:26:13Z] session confirmed dead; attempting re-login
+[2026-11-06T00:26:33Z] re-login ok, continuing session
+[2026-11-06T00:26:44Z] activity ok (7 actions)
+[2026-11-06T00:27:08Z] activity ok (7 actions)
+[2026-11-06T00:28:16Z] activity ok (7 actions)
+[2026-11-06T00:28:52Z] activity ok (7 actions)
+[2026-11-06T00:28:56Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:29:12Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:29:12Z] session confirmed dead; attempting re-login
+[2026-11-06T00:29:30Z] re-login ok, continuing session
+[2026-11-06T00:29:35Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:29:51Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:29:51Z] session confirmed dead; attempting re-login
+[2026-11-06T00:30:13Z] re-login ok, continuing session
+[2026-11-06T00:30:17Z] activity ok (7 actions)
+[2026-11-06T00:30:18Z] activity ok (7 actions)
+[2026-11-06T00:31:35Z] activity ok (7 actions)
+[2026-11-06T00:31:36Z] activity ok (7 actions)
+[2026-11-06T00:32:33Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:32:48Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:32:48Z] session confirmed dead; attempting re-login
+[2026-11-06T00:33:00Z] activity ok (7 actions)
+[2026-11-06T00:33:08Z] re-login ok, continuing session
+[2026-11-06T00:33:14Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:33:29Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:33:29Z] session confirmed dead; attempting re-login
+[2026-11-06T00:33:38Z] activity ok (7 actions)
+[2026-11-06T00:33:45Z] re-login ok, continuing session
+[2026-11-06T00:34:36Z] activity ok (7 actions)
+[2026-11-06T00:35:25Z] activity ok (7 actions)
+[2026-11-06T00:36:09Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:36:24Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:36:24Z] session confirmed dead; attempting re-login
+[2026-11-06T00:36:37Z] activity ok (7 actions)
+[2026-11-06T00:36:46Z] re-login ok, continuing session
+[2026-11-06T00:36:46Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:36:50Z] activity ok (7 actions)
+[2026-11-06T00:37:01Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:37:01Z] session confirmed dead; attempting re-login
+[2026-11-06T00:37:23Z] re-login ok, continuing session
+[2026-11-06T00:38:11Z] activity ok (7 actions)
+[2026-11-06T00:38:25Z] activity ok (7 actions)
+[2026-11-06T00:39:48Z] activity ok (7 actions)
+[2026-11-06T00:39:49Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:39:59Z] activity ok (7 actions)
+[2026-11-06T00:40:04Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:40:04Z] session confirmed dead; attempting re-login
+[2026-11-06T00:40:21Z] re-login ok, continuing session
+[2026-11-06T00:40:23Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:40:39Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:40:39Z] session confirmed dead; attempting re-login
+[2026-11-06T00:40:57Z] re-login ok, continuing session
+[2026-11-06T00:41:32Z] activity ok (7 actions)
+[2026-11-06T00:41:44Z] activity ok (7 actions)
+[2026-11-06T00:43:04Z] activity ok (7 actions)
+[2026-11-06T00:43:22Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:43:23Z] activity ok (7 actions)
+[2026-11-06T00:43:38Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:43:38Z] session confirmed dead; attempting re-login
+[2026-11-06T00:43:55Z] re-login ok, continuing session
+[2026-11-06T00:43:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:44:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:44:13Z] session confirmed dead; attempting re-login
+[2026-11-06T00:44:32Z] re-login ok, continuing session
+[2026-11-06T00:44:52Z] activity ok (7 actions)
+[2026-11-06T00:45:05Z] activity ok (7 actions)
+[2026-11-06T00:46:28Z] activity ok (7 actions)
+[2026-11-06T00:46:30Z] activity ok (7 actions)
+[2026-11-06T00:46:57Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:47:12Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:47:12Z] session confirmed dead; attempting re-login
+[2026-11-06T00:47:35Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:47:35Z] re-login ok, continuing session
+[2026-11-06T00:47:43Z] activity ok (7 actions)
+[2026-11-06T00:47:50Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:47:50Z] session confirmed dead; attempting re-login
+[2026-11-06T00:48:08Z] re-login ok, continuing session
+[2026-11-06T00:48:12Z] activity ok (7 actions)
+[2026-11-06T00:49:47Z] activity ok (7 actions)
+[2026-11-06T00:50:14Z] activity ok (7 actions)
+[2026-11-06T00:50:36Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:50:51Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:50:51Z] session confirmed dead; attempting re-login
+[2026-11-06T00:51:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:51:11Z] re-login ok, continuing session
+[2026-11-06T00:51:15Z] activity ok (7 actions)
+[2026-11-06T00:51:26Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:51:26Z] session confirmed dead; attempting re-login
+[2026-11-06T00:51:44Z] re-login ok, continuing session
+[2026-11-06T00:51:48Z] activity ok (7 actions)
+[2026-11-06T00:52:50Z] session end after 01:14:20 (total 38:17:12)
+[2026-11-06T00:53:04Z] activity ok (7 actions)
+[2026-11-06T00:54:12Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T00:54:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T00:54:27Z] session confirmed dead; attempting re-login
+[2026-11-06T00:56:21Z] re-login failed: RuntimeError
+[2026-11-06T00:56:21Z] session end after 00:00:00 (total 38:17:12)
+[2026-11-06T01:51:33Z] session start (slot 26)
+[2026-11-06T01:52:05Z] logged in
+[2026-11-06T01:52:44Z] activity ok (7 actions)
+[2026-11-06T01:53:48Z] activity ok (7 actions)
+[2026-11-06T01:55:06Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T01:55:22Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T01:55:22Z] session confirmed dead; attempting re-login
+[2026-11-06T01:55:44Z] re-login ok, continuing session
+[2026-11-06T01:55:51Z] activity ok (7 actions)
+[2026-11-06T01:57:03Z] activity ok (7 actions)
+[2026-11-06T01:58:45Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T01:59:03Z] activity ok (7 actions)
+[2026-11-06T01:59:03Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T01:59:03Z] session confirmed dead; attempting re-login
+[2026-11-06T01:59:24Z] re-login ok, continuing session
+[2026-11-06T02:00:42Z] activity ok (7 actions)
+[2026-11-06T02:02:13Z] activity ok (7 actions)
+[2026-11-06T02:02:25Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:02:40Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:02:40Z] session confirmed dead; attempting re-login
+[2026-11-06T02:02:58Z] re-login ok, continuing session
+[2026-11-06T02:03:54Z] activity ok (7 actions)
+[2026-11-06T02:05:47Z] activity ok (7 actions)
+[2026-11-06T02:05:59Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:06:14Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:06:14Z] session confirmed dead; attempting re-login
+[2026-11-06T02:06:35Z] re-login ok, continuing session
+[2026-11-06T02:07:29Z] activity ok (7 actions)
+[2026-11-06T02:09:25Z] activity ok (7 actions)
+[2026-11-06T02:09:37Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:09:53Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:09:53Z] session confirmed dead; attempting re-login
+[2026-11-06T02:10:11Z] re-login ok, continuing session
+[2026-11-06T02:10:37Z] activity ok (7 actions)
+[2026-11-06T02:12:11Z] activity ok (7 actions)
+[2026-11-06T02:13:12Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:13:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:13:27Z] session confirmed dead; attempting re-login
+[2026-11-06T02:13:42Z] re-login ok, continuing session
+[2026-11-06T02:14:04Z] activity ok (7 actions)
+[2026-11-06T02:15:21Z] activity ok (7 actions)
+[2026-11-06T02:16:43Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:16:59Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:16:59Z] session confirmed dead; attempting re-login
+[2026-11-06T02:17:17Z] re-login ok, continuing session
+[2026-11-06T02:17:21Z] activity ok (7 actions)
+[2026-11-06T02:18:56Z] activity ok (7 actions)
+[2026-11-06T02:20:12Z] activity ok (7 actions)
+[2026-11-06T02:20:19Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:20:35Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:20:35Z] session confirmed dead; attempting re-login
+[2026-11-06T02:20:54Z] re-login ok, continuing session
+[2026-11-06T02:22:12Z] activity ok (7 actions)
+[2026-11-06T02:23:24Z] activity ok (7 actions)
+[2026-11-06T02:23:55Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:24:10Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:24:10Z] session confirmed dead; attempting re-login
+[2026-11-06T02:24:30Z] re-login ok, continuing session
+[2026-11-06T02:25:09Z] activity ok (7 actions)
+[2026-11-06T02:26:28Z] activity ok (7 actions)
+[2026-11-06T02:27:31Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:27:46Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:27:46Z] session confirmed dead; attempting re-login
+[2026-11-06T02:28:03Z] re-login ok, continuing session
+[2026-11-06T02:28:07Z] activity ok (7 actions)
+[2026-11-06T02:29:44Z] activity ok (7 actions)
+[2026-11-06T02:31:04Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:31:19Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:31:19Z] session confirmed dead; attempting re-login
+[2026-11-06T02:31:36Z] re-login ok, continuing session
+[2026-11-06T02:31:40Z] activity ok (7 actions)
+[2026-11-06T02:32:51Z] activity ok (7 actions)
+[2026-11-06T02:34:32Z] activity ok (7 actions)
+[2026-11-06T02:34:37Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:34:52Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:34:52Z] session confirmed dead; attempting re-login
+[2026-11-06T02:35:09Z] re-login ok, continuing session
+[2026-11-06T02:35:54Z] activity ok (7 actions)
+[2026-11-06T02:37:00Z] activity ok (7 actions)
+[2026-11-06T02:38:12Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:38:24Z] activity ok (7 actions)
+[2026-11-06T02:38:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:38:27Z] session confirmed dead; attempting re-login
+[2026-11-06T02:38:48Z] re-login ok, continuing session
+[2026-11-06T02:40:14Z] activity ok (7 actions)
+[2026-11-06T02:41:49Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:42:00Z] activity ok (7 actions)
+[2026-11-06T02:42:04Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:42:04Z] session confirmed dead; attempting re-login
+[2026-11-06T02:42:23Z] re-login ok, continuing session
+[2026-11-06T02:43:30Z] activity ok (7 actions)
+[2026-11-06T02:44:51Z] activity ok (7 actions)
+[2026-11-06T02:45:24Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:45:39Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:45:39Z] session confirmed dead; attempting re-login
+[2026-11-06T02:46:00Z] re-login ok, continuing session
+[2026-11-06T02:46:03Z] activity ok (7 actions)
+[2026-11-06T02:47:30Z] activity ok (7 actions)
+[2026-11-06T02:49:03Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:49:09Z] activity ok (7 actions)
+[2026-11-06T02:49:18Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:49:18Z] session confirmed dead; attempting re-login
+[2026-11-06T02:49:37Z] re-login ok, continuing session
+[2026-11-06T02:51:03Z] activity ok (7 actions)
+[2026-11-06T02:52:39Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:52:57Z] activity ok (7 actions)
+[2026-11-06T02:53:05Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:53:05Z] session confirmed dead; attempting re-login
+[2026-11-06T02:53:24Z] re-login ok, continuing session
+[2026-11-06T02:54:48Z] activity ok (7 actions)
+[2026-11-06T02:56:19Z] activity ok (7 actions)
+[2026-11-06T02:56:26Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T02:56:42Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T02:56:42Z] session confirmed dead; attempting re-login
+[2026-11-06T02:56:59Z] re-login ok, continuing session
+[2026-11-06T02:57:26Z] activity ok (7 actions)
+[2026-11-06T02:58:43Z] activity ok (7 actions)
+[2026-11-06T02:59:59Z] activity ok (7 actions)
+[2026-11-06T03:00:02Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:00:17Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:00:17Z] session confirmed dead; attempting re-login
+[2026-11-06T03:00:38Z] re-login ok, continuing session
+[2026-11-06T03:01:48Z] activity ok (7 actions)
+[2026-11-06T03:03:35Z] activity ok (7 actions)
+[2026-11-06T03:03:39Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:03:54Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:03:54Z] session confirmed dead; attempting re-login
+[2026-11-06T03:04:10Z] re-login ok, continuing session
+[2026-11-06T03:05:32Z] activity ok (7 actions)
+[2026-11-06T03:07:00Z] activity ok (7 actions)
+[2026-11-06T03:07:11Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:07:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:07:27Z] session confirmed dead; attempting re-login
+[2026-11-06T03:07:43Z] re-login ok, continuing session
+[2026-11-06T03:08:43Z] activity ok (7 actions)
+[2026-11-06T03:10:01Z] activity ok (7 actions)
+[2026-11-06T03:10:44Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:11:00Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:11:00Z] session confirmed dead; attempting re-login
+[2026-11-06T03:11:21Z] re-login ok, continuing session
+[2026-11-06T03:11:24Z] activity ok (7 actions)
+[2026-11-06T03:13:23Z] activity ok (7 actions)
+[2026-11-06T03:14:23Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:14:39Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:14:39Z] session confirmed dead; attempting re-login
+[2026-11-06T03:15:00Z] re-login ok, continuing session
+[2026-11-06T03:15:04Z] activity ok (7 actions)
+[2026-11-06T03:16:10Z] activity ok (7 actions)
+[2026-11-06T03:18:01Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:18:09Z] activity ok (7 actions)
+[2026-11-06T03:18:16Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:18:16Z] session confirmed dead; attempting re-login
+[2026-11-06T03:18:40Z] re-login ok, continuing session
+[2026-11-06T03:19:30Z] activity ok (7 actions)
+[2026-11-06T03:21:12Z] activity ok (7 actions)
+[2026-11-06T03:21:41Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:21:56Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:21:56Z] session confirmed dead; attempting re-login
+[2026-11-06T03:22:18Z] re-login ok, continuing session
+[2026-11-06T03:22:25Z] activity ok (7 actions)
+[2026-11-06T03:23:39Z] activity ok (7 actions)
+[2026-11-06T03:25:19Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:25:36Z] activity ok (7 actions)
+[2026-11-06T03:25:36Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:25:36Z] session confirmed dead; attempting re-login
+[2026-11-06T03:25:56Z] re-login ok, continuing session
+[2026-11-06T03:26:47Z] activity ok (7 actions)
+[2026-11-06T03:28:16Z] activity ok (7 actions)
+[2026-11-06T03:28:59Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:29:14Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:29:14Z] session confirmed dead; attempting re-login
+[2026-11-06T03:29:33Z] re-login ok, continuing session
+[2026-11-06T03:29:52Z] activity ok (7 actions)
+[2026-11-06T03:31:31Z] activity ok (7 actions)
+[2026-11-06T03:32:34Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:32:49Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:32:49Z] session confirmed dead; attempting re-login
+[2026-11-06T03:33:09Z] re-login ok, continuing session
+[2026-11-06T03:33:12Z] activity ok (7 actions)
+[2026-11-06T03:35:12Z] activity ok (7 actions)
+[2026-11-06T03:36:10Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:36:25Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:36:25Z] session confirmed dead; attempting re-login
+[2026-11-06T03:36:44Z] re-login ok, continuing session
+[2026-11-06T03:37:05Z] activity ok (7 actions)
+[2026-11-06T03:38:11Z] activity ok (7 actions)
+[2026-11-06T03:39:47Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:39:54Z] activity ok (7 actions)
+[2026-11-06T03:40:02Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:40:02Z] session confirmed dead; attempting re-login
+[2026-11-06T03:40:25Z] re-login ok, continuing session
+[2026-11-06T03:41:12Z] activity ok (7 actions)
+[2026-11-06T03:43:01Z] activity ok (7 actions)
+[2026-11-06T03:43:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:43:43Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:43:43Z] session confirmed dead; attempting re-login
+[2026-11-06T03:44:05Z] re-login ok, continuing session
+[2026-11-06T03:44:08Z] activity ok (7 actions)
+[2026-11-06T03:45:56Z] activity ok (7 actions)
+[2026-11-06T03:47:05Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:47:21Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:47:21Z] session confirmed dead; attempting re-login
+[2026-11-06T03:47:41Z] re-login ok, continuing session
+[2026-11-06T03:47:45Z] activity ok (7 actions)
+[2026-11-06T03:49:04Z] activity ok (7 actions)
+[2026-11-06T03:50:24Z] activity ok (7 actions)
+[2026-11-06T03:50:42Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:50:57Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:50:57Z] session confirmed dead; attempting re-login
+[2026-11-06T03:51:16Z] re-login ok, continuing session
+[2026-11-06T03:52:05Z] activity ok (7 actions)
+[2026-11-06T03:53:13Z] activity ok (7 actions)
+[2026-11-06T03:54:17Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:54:32Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:54:32Z] session confirmed dead; attempting re-login
+[2026-11-06T03:54:55Z] re-login ok, continuing session
+[2026-11-06T03:55:11Z] activity ok (7 actions)
+[2026-11-06T03:56:56Z] activity ok (7 actions)
+[2026-11-06T03:57:55Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T03:58:12Z] activity ok (7 actions)
+[2026-11-06T03:58:12Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T03:58:12Z] session confirmed dead; attempting re-login
+[2026-11-06T03:58:43Z] re-login ok, continuing session
+[2026-11-06T04:00:01Z] activity ok (7 actions)
+[2026-11-06T04:01:27Z] activity ok (7 actions)
+[2026-11-06T04:01:47Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:02:02Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:02:02Z] session confirmed dead; attempting re-login
+[2026-11-06T04:02:25Z] re-login ok, continuing session
+[2026-11-06T04:02:51Z] activity ok (7 actions)
+[2026-11-06T04:04:26Z] activity ok (7 actions)
+[2026-11-06T04:05:27Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:05:46Z] activity ok (7 actions)
+[2026-11-06T04:05:46Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:05:46Z] session confirmed dead; attempting re-login
+[2026-11-06T04:06:06Z] re-login ok, continuing session
+[2026-11-06T04:06:53Z] activity ok (7 actions)
+[2026-11-06T04:08:34Z] activity ok (7 actions)
+[2026-11-06T04:09:07Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:09:22Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:09:22Z] session confirmed dead; attempting re-login
+[2026-11-06T04:10:03Z] re-login ok, continuing session
+[2026-11-06T04:10:22Z] activity ok (7 actions)
+[2026-11-06T04:12:02Z] activity ok (7 actions)
+[2026-11-06T04:13:04Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:13:15Z] activity ok (7 actions)
+[2026-11-06T04:13:20Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:13:20Z] session confirmed dead; attempting re-login
+[2026-11-06T04:13:36Z] re-login ok, continuing session
+[2026-11-06T04:14:41Z] activity ok (7 actions)
+[2026-11-06T04:16:09Z] activity ok (7 actions)
+[2026-11-06T04:16:37Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:16:52Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:16:52Z] session confirmed dead; attempting re-login
+[2026-11-06T04:17:17Z] re-login ok, continuing session
+[2026-11-06T04:17:25Z] activity ok (7 actions)
+[2026-11-06T04:18:53Z] activity ok (7 actions)
+[2026-11-06T04:20:18Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:20:34Z] activity ok (7 actions)
+[2026-11-06T04:20:34Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:20:34Z] session confirmed dead; attempting re-login
+[2026-11-06T04:20:55Z] re-login ok, continuing session
+[2026-11-06T04:21:58Z] activity ok (7 actions)
+[2026-11-06T04:23:18Z] activity ok (7 actions)
+[2026-11-06T04:23:56Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:24:11Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:24:11Z] session confirmed dead; attempting re-login
+[2026-11-06T04:24:33Z] re-login ok, continuing session
+[2026-11-06T04:24:45Z] activity ok (7 actions)
+[2026-11-06T04:25:49Z] activity ok (7 actions)
+[2026-11-06T04:27:34Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:27:47Z] activity ok (7 actions)
+[2026-11-06T04:27:49Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:27:49Z] session confirmed dead; attempting re-login
+[2026-11-06T04:28:11Z] re-login ok, continuing session
+[2026-11-06T04:29:04Z] activity ok (7 actions)
+[2026-11-06T04:30:10Z] activity ok (7 actions)
+[2026-11-06T04:31:14Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:31:18Z] activity ok (7 actions)
+[2026-11-06T04:31:29Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:31:29Z] session confirmed dead; attempting re-login
+[2026-11-06T04:31:49Z] re-login ok, continuing session
+[2026-11-06T04:33:05Z] activity ok (7 actions)
+[2026-11-06T04:34:36Z] activity ok (7 actions)
+[2026-11-06T04:34:52Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:35:07Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:35:07Z] session confirmed dead; attempting re-login
+[2026-11-06T04:35:25Z] re-login ok, continuing session
+[2026-11-06T04:35:53Z] activity ok (7 actions)
+[2026-11-06T04:37:09Z] activity ok (7 actions)
+[2026-11-06T04:38:20Z] activity ok (7 actions)
+[2026-11-06T04:38:28Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:38:43Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:38:43Z] session confirmed dead; attempting re-login
+[2026-11-06T04:38:59Z] re-login ok, continuing session
+[2026-11-06T04:39:56Z] activity ok (7 actions)
+[2026-11-06T04:41:50Z] activity ok (7 actions)
+[2026-11-06T04:42:00Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:42:15Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:42:15Z] session confirmed dead; attempting re-login
+[2026-11-06T04:42:40Z] re-login ok, continuing session
+[2026-11-06T04:43:49Z] activity ok (7 actions)
+[2026-11-06T04:45:41Z] activity ok (7 actions)
+[2026-11-06T04:45:43Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:45:59Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:45:59Z] session confirmed dead; attempting re-login
+[2026-11-06T04:46:20Z] re-login ok, continuing session
+[2026-11-06T04:47:27Z] activity ok (7 actions)
+[2026-11-06T04:49:07Z] activity ok (7 actions)
+[2026-11-06T04:49:23Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:49:38Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:49:38Z] session confirmed dead; attempting re-login
+[2026-11-06T04:49:59Z] re-login ok, continuing session
+[2026-11-06T04:50:57Z] activity ok (7 actions)
+[2026-11-06T04:52:45Z] activity ok (7 actions)
+[2026-11-06T04:53:00Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:53:15Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:53:15Z] session confirmed dead; attempting re-login
+[2026-11-06T04:53:34Z] re-login ok, continuing session
+[2026-11-06T04:54:11Z] activity ok (7 actions)
+[2026-11-06T04:55:52Z] activity ok (7 actions)
+[2026-11-06T04:56:37Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T04:56:52Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T04:56:52Z] session confirmed dead; attempting re-login
+[2026-11-06T04:57:11Z] re-login ok, continuing session
+[2026-11-06T04:57:15Z] activity ok (7 actions)
+[2026-11-06T04:59:14Z] activity ok (7 actions)
+[2026-11-06T05:00:14Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:00:29Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:00:29Z] session confirmed dead; attempting re-login
+[2026-11-06T05:00:50Z] re-login ok, continuing session
+[2026-11-06T05:01:14Z] activity ok (7 actions)
+[2026-11-06T05:02:37Z] activity ok (7 actions)
+[2026-11-06T05:03:40Z] activity ok (7 actions)
+[2026-11-06T05:03:53Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:04:08Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:04:08Z] session confirmed dead; attempting re-login
+[2026-11-06T05:04:26Z] re-login ok, continuing session
+[2026-11-06T05:05:27Z] activity ok (7 actions)
+[2026-11-06T05:06:35Z] activity ok (7 actions)
+[2026-11-06T05:07:29Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:07:44Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:07:44Z] session confirmed dead; attempting re-login
+[2026-11-06T05:08:11Z] re-login ok, continuing session
+[2026-11-06T05:08:15Z] activity ok (7 actions)
+[2026-11-06T05:10:14Z] activity ok (7 actions)
+[2026-11-06T05:11:11Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:11:27Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:11:27Z] session confirmed dead; attempting re-login
+[2026-11-06T05:11:49Z] re-login ok, continuing session
+[2026-11-06T05:11:58Z] activity ok (7 actions)
+[2026-11-06T05:13:02Z] activity ok (7 actions)
+[2026-11-06T05:14:47Z] activity ok (7 actions)
+[2026-11-06T05:14:52Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:15:07Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:15:07Z] session confirmed dead; attempting re-login
+[2026-11-06T05:15:29Z] re-login ok, continuing session
+[2026-11-06T05:16:48Z] activity ok (7 actions)
+[2026-11-06T05:18:22Z] activity ok (7 actions)
+[2026-11-06T05:18:30Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:18:45Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:18:45Z] session confirmed dead; attempting re-login
+[2026-11-06T05:19:06Z] re-login ok, continuing session
+[2026-11-06T05:20:14Z] activity ok (7 actions)
+[2026-11-06T05:21:59Z] activity ok (7 actions)
+[2026-11-06T05:22:07Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:22:22Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:22:22Z] session confirmed dead; attempting re-login
+[2026-11-06T05:22:44Z] re-login ok, continuing session
+[2026-11-06T05:23:34Z] activity ok (7 actions)
+[2026-11-06T05:24:46Z] activity ok (7 actions)
+[2026-11-06T05:25:47Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:25:53Z] activity ok (7 actions)
+[2026-11-06T05:26:02Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:26:02Z] session confirmed dead; attempting re-login
+[2026-11-06T05:26:46Z] re-login ok, continuing session
+[2026-11-06T05:27:54Z] activity ok (7 actions)
+[2026-11-06T05:29:22Z] activity ok (7 actions)
+[2026-11-06T05:30:01Z] keepalive ok (refresh error TimeoutError (assumed alive))
+[2026-11-06T05:31:23Z] activity ok (7 actions)
+[2026-11-06T05:32:55Z] activity ok (7 actions)
+[2026-11-06T05:33:04Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:33:19Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:33:19Z] session confirmed dead; attempting re-login
+[2026-11-06T05:33:43Z] re-login ok, continuing session
+[2026-11-06T05:34:18Z] activity ok (7 actions)
+[2026-11-06T05:36:18Z] activity ok (7 actions)
+[2026-11-06T05:36:45Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:37:01Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:37:01Z] session confirmed dead; attempting re-login
+[2026-11-06T05:37:20Z] re-login ok, continuing session
+[2026-11-06T05:37:43Z] activity ok (7 actions)
+[2026-11-06T05:39:04Z] activity ok (7 actions)
+[2026-11-06T05:40:08Z] activity ok (7 actions)
+[2026-11-06T05:40:21Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:40:37Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:40:37Z] session confirmed dead; attempting re-login
+[2026-11-06T05:41:00Z] re-login ok, continuing session
+[2026-11-06T05:41:35Z] activity ok (7 actions)
+[2026-11-06T05:43:32Z] activity ok (7 actions)
+[2026-11-06T05:44:00Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:44:16Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:44:16Z] session confirmed dead; attempting re-login
+[2026-11-06T05:44:33Z] re-login ok, continuing session
+[2026-11-06T05:44:59Z] activity ok (7 actions)
+[2026-11-06T05:46:46Z] activity ok (7 actions)
+[2026-11-06T05:47:34Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:47:50Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:47:50Z] session confirmed dead; attempting re-login
+[2026-11-06T05:48:13Z] re-login ok, continuing session
+[2026-11-06T05:48:20Z] activity ok (7 actions)
+[2026-11-06T05:49:27Z] activity ok (7 actions)
+[2026-11-06T05:50:38Z] activity ok (7 actions)
+[2026-11-06T05:51:14Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T05:51:29Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T05:51:29Z] session confirmed dead; attempting re-login
+[2026-11-06T05:51:56Z] re-login ok, continuing session
+[2026-11-06T05:51:59Z] activity ok (7 actions)
+[2026-11-06T05:52:07Z] session end after 04:00:32 (total 42:17:45)
+[2026-11-06T08:51:30Z] session start (slot 15)
+[2026-11-06T08:52:15Z] logged in
+[2026-11-06T08:52:51Z] activity ok (7 actions)
+[2026-11-06T08:54:31Z] activity ok (7 actions)
+[2026-11-06T08:55:18Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T08:55:33Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T08:55:33Z] session confirmed dead; attempting re-login
+[2026-11-06T08:55:56Z] re-login ok, continuing session
+[2026-11-06T08:56:00Z] activity ok (7 actions)
+[2026-11-06T08:57:45Z] activity ok (7 actions)
+[2026-11-06T08:58:59Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T08:59:06Z] activity ok (7 actions)
+[2026-11-06T08:59:15Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T08:59:15Z] session confirmed dead; attempting re-login
+[2026-11-06T08:59:55Z] re-login ok, continuing session
+[2026-11-06T09:00:53Z] activity ok (7 actions)
+[2026-11-06T09:02:05Z] activity ok (7 actions)
+[2026-11-06T09:02:58Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T09:03:13Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T09:03:13Z] session confirmed dead; attempting re-login
+[2026-11-06T09:03:40Z] re-login ok, continuing session
+[2026-11-06T09:04:02Z] activity ok (7 actions)
+[2026-11-06T09:05:24Z] activity ok (7 actions)
+[2026-11-06T09:06:41Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T09:06:51Z] activity ok (7 actions)
+[2026-11-06T09:06:56Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T09:06:56Z] session confirmed dead; attempting re-login
+[2026-11-06T09:07:23Z] re-login ok, continuing session
+[2026-11-06T09:08:55Z] activity ok (7 actions)
+[2026-11-06T09:10:26Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T09:10:35Z] activity ok (7 actions)
+[2026-11-06T09:10:41Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T09:10:41Z] session confirmed dead; attempting re-login
+[2026-11-06T09:11:08Z] re-login ok, continuing session
+[2026-11-06T09:12:02Z] activity ok (7 actions)
+[2026-11-06T09:13:16Z] activity ok (7 actions)
+[2026-11-06T09:14:11Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T09:14:26Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T09:14:26Z] session confirmed dead; attempting re-login
+[2026-11-06T09:14:51Z] re-login ok, continuing session
+[2026-11-06T09:14:55Z] activity ok (7 actions)
+[2026-11-06T09:16:26Z] activity ok (7 actions)
+[2026-11-06T09:17:56Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T09:18:06Z] activity ok (7 actions)
+[2026-11-06T09:18:11Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T09:18:11Z] session confirmed dead; attempting re-login
+[2026-11-06T09:19:27Z] re-login failed: RuntimeError
+[2026-11-06T09:19:27Z] session end after 00:27:56 (total 42:45:42)
+[2026-11-06T09:42:51Z] session start (slot 13)
+[2026-11-06T09:43:37Z] logged in
+[2026-11-06T09:44:39Z] activity ok (7 actions)
+[2026-11-06T09:46:18Z] activity ok (7 actions)
+[2026-11-06T09:46:40Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T09:46:55Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T09:46:55Z] session confirmed dead; attempting re-login
+[2026-11-06T09:47:21Z] re-login ok, continuing session
+[2026-11-06T09:47:31Z] activity ok (7 actions)
+[2026-11-06T09:48:57Z] activity ok (7 actions)
+[2026-11-06T09:50:22Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T09:50:38Z] activity ok (7 actions)
+[2026-11-06T09:50:38Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T09:50:38Z] session confirmed dead; attempting re-login
+[2026-11-06T09:51:02Z] re-login ok, continuing session
+[2026-11-06T09:52:34Z] activity ok (7 actions)
+[2026-11-06T09:53:55Z] activity ok (7 actions)
+[2026-11-06T09:54:05Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T09:54:20Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T09:54:20Z] session confirmed dead; attempting re-login
+[2026-11-06T09:54:57Z] re-login ok, continuing session
+[2026-11-06T09:55:54Z] activity ok (7 actions)
+[2026-11-06T09:57:18Z] activity ok (7 actions)
+[2026-11-06T09:57:59Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T09:58:15Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T09:58:15Z] session confirmed dead; attempting re-login
+[2026-11-06T09:58:48Z] re-login ok, continuing session
+[2026-11-06T09:58:57Z] activity ok (7 actions)
+[2026-11-06T10:00:23Z] activity ok (7 actions)
+[2026-11-06T10:01:27Z] activity ok (7 actions)
+[2026-11-06T10:01:50Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T10:02:06Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T10:02:06Z] session confirmed dead; attempting re-login
+[2026-11-06T10:02:31Z] re-login ok, continuing session
+[2026-11-06T10:02:47Z] activity ok (7 actions)
+[2026-11-06T10:04:08Z] activity ok (7 actions)
+[2026-11-06T10:05:29Z] activity ok (7 actions)
+[2026-11-06T10:05:34Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T10:05:49Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T10:05:49Z] session confirmed dead; attempting re-login
+[2026-11-06T10:06:15Z] re-login ok, continuing session
+[2026-11-06T10:06:52Z] activity ok (7 actions)
+[2026-11-06T10:08:20Z] activity ok (7 actions)
+[2026-11-06T10:09:19Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T10:09:33Z] activity ok (7 actions)
+[2026-11-06T10:09:34Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T10:09:34Z] session confirmed dead; attempting re-login
+[2026-11-06T10:10:01Z] re-login ok, continuing session
+[2026-11-06T10:11:11Z] activity ok (7 actions)
+[2026-11-06T10:12:29Z] activity ok (7 actions)
+[2026-11-06T10:13:03Z] refresh says expired (login form in response) [1/2]
+[2026-11-06T10:13:19Z] refresh says expired (redirect to login) [2/2]
+[2026-11-06T10:13:19Z] session confirmed dead; attempting re-login
+[2026-11-06T10:14:02Z] re-login ok, continuing session
+[2026-11-06T10:14:28Z] activity ok (7 actions)
+[2026-11-06T10:15:47Z] activity ok (7 actions)
