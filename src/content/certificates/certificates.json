@@ -782,5 +782,29 @@
     "issueDate": "06/11/2026",
     "issuer": "Mentoaula",
     "status": "valid"
+  },
+  {
+    "code": "N5UP53NLX3",
+    "studentName": "Kuldeep Singh",
+    "courseName": "Manipulador de alimentos de mayor riesgo, alérgenos y prevención de riesgos laborales",
+    "issueDate": "06/11/2026",
+    "issuer": "Mentoaula",
+    "status": "valid"
+  },
+  {
+    "code": "KNXRZN9QIF",
+    "studentName": "Mandeep Singh",
+    "courseName": "Manipulador de alimentos de mayor riesgo, alérgenos y prevención de riesgos laborales",
+    "issueDate": "06/11/2026",
+    "issuer": "Mentoaula",
+    "status": "valid"
+  },
+  {
+    "code": "E3L8TAM8YY",
+    "studentName": "Aman Aman",
+    "courseName": "Manipulador de alimentos de mayor riesgo, alérgenos y prevención de riesgos laborales",
+    "issueDate": "06/11/2026",
+    "issuer": "Mentoaula",
+    "status": "valid"
   }
 ]
